@@ -54,10 +54,15 @@ Deepavali Concert <br>
 Use of games in teaching and learning – Thentamil Toolkit <br>
 Tamil Competitions
 
-  
-
-  
 
 ### Mother Tongue Fortnight 
 
 To provide platforms for students to actively learn MTL and the associated culture. Also to provide authentic opportunities for students to use MTL and experience the culture.
+
+![](/images/TL1.png)
+![](/images/TL2.png)
+
+### Other Highlights
+
+![](/images/TL3.png)
+![](/images/TL4.png)
