@@ -38,6 +38,31 @@ PE Champs to serve, lead, empathise and contribute actively to our community
 
 ![](/images/PE2.jpg)
 
-**Inter-House Sports Challenge**  
-
+**Inter-House Sports Challenge**  <br>
 Sharing school values (ASPIRE) thru Sports
+![](/images/PE3.png)
+
+**Dance @ PEPS**  <br>
+Celebrate National Day thru Dance
+![](/images/PE4.jpg)
+
+**PE, Art and Music (PAM) Day**<br>
+Celebrate Children’s day thru Games (PE edition)
+![](/images/Pe5.png)
+
+**Sports Education for P1, 2, 3 and 6**
+Exposing students to sports beyond our PE curriculum.  
+P1 and P2 - Kids Athletics  <br>
+P3 - Water Games <br>
+P6 – Kinball 
+
+![](/images/PE6.png)
+
+**Level Camps for P4 and P5**  
+Developing rugged and resilience students thru Outdoor Education  <br>
+P4 (2 Days)  <br>
+P5 (3 Days)
+
+![](/images/PE7.png)
+<img src="/images/PE8.png" 
+     style="width:50%">
