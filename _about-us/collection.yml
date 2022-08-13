@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Song.md
       - Strategic Thrust.md
       - Vision, Mission, Values and Philosophy.md
       - History.md
