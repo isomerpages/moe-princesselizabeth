@@ -16,3 +16,13 @@ Our CCE lessons are conducted in the official Mother Tongue Languages (MTL) by t
 ### Making Learning Come Alive in CCE lessons through Drama
 
 ![](/images/CCE%20MTL.png)
+
+### Hot seating – character role-play
+
+![](/images/CCE%20MTL2.png)
+
+<img src="/images/CCE%20MTL3.jpg" 
+     style="width:50%" align="left">
+		 
+<img src="/images/CCE%20MTL4.jpg" 
+     style="width:50%" align="right">
