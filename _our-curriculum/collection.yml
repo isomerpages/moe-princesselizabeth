@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics.md
       - English Language.md
       - Student Well Being and Discipline.md
       - CCE/.keep
