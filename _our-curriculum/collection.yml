@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCE/Growing Years Series (GYS) for P5 & P6.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/CCE MTL.md
+      - CCE/Growing Years Series (GYS) for P5 & P6.md
