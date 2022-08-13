@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Vision, Mission, Values and Philosophy.md
       - History.md
