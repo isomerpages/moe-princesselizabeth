@@ -65,4 +65,6 @@ To provide platforms for students to actively learn MTL and the associated cultu
 ### Other Highlights
 
 ![](/images/TL3.png)
-![](/images/TL4.png)
+
+<img src="/images/TL4.png" 
+     style="width:50%">
