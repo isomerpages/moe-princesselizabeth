@@ -53,3 +53,21 @@ The English Language Syllabus 2020 for the Primary level focuses on the developm
 years through an enjoyment of the language and the promotion of extensive reading; and leveraging oracy, reading and writing skills to develop knowledge and independent use of the language.
 
 EL Syllabus 2020 seeks to develop these competencies in our learners through the teaching and learning of EL to enable them to be:
+
+<img src="/images/Picture1.png" 
+     style="width:50%">
+		 
+### English Language Programmes
+
+![](/images/Picture2.png)
+
+### Language Fortnight
+![](/images/EL1.png)
+
+![](/images/EL2.png)
+
+### Characters Alive Day
+
+![](/images/EL3.png)
+
+![](/images/EL4.png)
