@@ -2,5 +2,5 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCE MTL.md
       - Character and Citizenship Education (CCE).md
+      - CCE MTL.md
