@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Student Well Being and Discipline.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/CCE MTL.md
