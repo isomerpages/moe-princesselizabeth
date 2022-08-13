@@ -23,7 +23,7 @@ Through the PEPS CCE key programmes, we aim to develop our students to be **mor
 
   
 
-### Our Key Programmes  
+# Our Key Programmes  
 
 **L**earning <br>
 **O**ur <br>
@@ -46,3 +46,47 @@ For more information on the LOVE Experience, click **[here](https://princesseli
 
 
 ![](/images/CCE2.png)
+
+### TALK@PEPS
+  
+
+**Target Level**  <br>
+Primary 1 to 6
+  
+TALK is important for two simple reasons - to be heard and to listen to others. Children, especially, love to talk. They cannot bear to be anonymous. However, it is often observed that when children begin to talk, it can be challenging to get them to stop and listen to one another. TALK@PEPS intentionally teaches PEPS students how to talk about Contemporary Issues on Active Citizenship in safe formal settings. Age-appropriate Thinking Routines are used to empower students to think and reason critically in a more structured process. Their sense of belonging and community is also increased via this programme.  
+  
+### National Education (NE)
+  
+**Target Level** <br>
+Primary 1 to 6
+
+National Education is developed in our students via the commemoration of the following 4 NE Days:
+
+*   Total Defence Day 
+*   International Friendship Day
+*   Racial Harmony Day
+*   National Day
+
+and via the Social Studies curriculum. The Social Studies curriculum aims to develop the civic competencies of our pupils from Primary 1 to Primary 6. Civic competencies, which encompass the body of knowledge, skills and values expressed in the Philosophy of SS, will empower students to be informed, concerned and participative citizens.
+
+![](/images/CCE3.png)
+
+### Cyber Wellness (CW)   
+  
+
+**Target Level** <br>
+Primary 1 to 6
+
+Cyber Wellness focuses on the well-being of our students as they navigate cyberspace, equipping them with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace, and be safe and responsible users of ICT.
+
+![](/images/CCE4.png)
+
+### Education and Career Guidance (ECG)
+  
+
+**Target Level** <br>
+Primary 6
+
+In collaboration with stakeholders, PEPS conducts the ECG Week with the aim to provide students with opportunities to explore their values, interests, personality and skills, raise their awareness of different types of education and career pathways and equips them with the values, skills and dispositions of lifelong learning to make informed choices for their future.
+
+![](/images/CCE5.png)
