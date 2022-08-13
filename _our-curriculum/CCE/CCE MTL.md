@@ -37,11 +37,11 @@ useful technique for exploring any kind of dilemma faced by a character, providi
 
 ![](/images/CCE%20MTL5.png)
 
-#### CCE Lessons leveraging on teachable moments
+### CCE Lessons leveraging on teachable moments
 
 ![](/images/CCE%20MTL6.png)
 ![](/images/CCE%20MTL7.png)
 
-### #### Use of Making Thinking Visible (MTV) routines in delivery of CCE lessons
+###  Use of Making Thinking Visible (MTV) routines in delivery of CCE lessons
 
 ![](/images/CCE%20MTL8.jpg)
