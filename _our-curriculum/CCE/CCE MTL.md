@@ -22,7 +22,26 @@ Our CCE lessons are conducted in the official Mother Tongue Languages (MTL) by t
 ![](/images/CCE%20MTL2.png)
 
 <img src="/images/CCE%20MTL3.jpg" 
-     style="width:50%" align="left">
+     style="width:50%" >
 		 
 <img src="/images/CCE%20MTL4.jpg" 
-     style="width:50%" align="right">
+     style="width:50%" >
+		 
+
+
+#### Conscience Alley
+
+https://youtu.be/-Hs0LirW9v8A 
+
+useful technique for exploring any kind of dilemma faced by a character, providing an opportunity to analyse a decisive moment in greater detail.
+
+![](/images/CCE%20MTL5.png)
+
+#### CCE Lessons leveraging on teachable moments
+
+![](/images/CCE%20MTL6.png)
+![](/images/CCE%20MTL7.png)
+
+### #### Use of Making Thinking Visible (MTV) routines in delivery of CCE lessons
+
+![](/images/CCE%20MTL8.jpg)
