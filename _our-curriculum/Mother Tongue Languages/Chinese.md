@@ -72,3 +72,93 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 ![](/images/CL8.png)
 
 ### 语文游戏站
+
+![](/images/CL9.png)
+
+### Moo-O Reading Enhancement Programme (MORE) Moo-O 木偶电子数码朗读
+
+**小一、小二**
+
+学生利用笔记型电脑，与同学一同化身为故事的主人翁。
+
+生动有趣的学习方式使得朗读训练变得更有意义。
+
+学生可即时评估自己的表现，并加以改善，以求创造出更棒的故事。
+
+![](/images/CL10.png)
+
+### Achievements 成就
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dgl5">年份<br></th>
+    <th class="tg-dgl5">比赛</th>
+    <th class="tg-dgl5">奖项</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8rcp"> 2016</td>
+    <td class="tg-zr06"> Young Runners 《3 2 1 前进!》</td>
+    <td class="tg-zr06">第四名 </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> </td>
+    <td class="tg-zr06"> 8th National Chinese News Production Competition</td>
+    <td class="tg-zr06"> 文化奖</td>
+  </tr>
+  <tr>
+    <td class="tg-dgl5"> 2017</td>
+    <td class="tg-zr06"> 华文大比拼<br>The National Chinese Challenge 2017</td>
+    <td class="tg-zr06">冠军 </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> </td>
+    <td class="tg-zr06">第二十三届全国小学现场华文创作比赛<br>23rd National Primary School Chinese Essay Writing Competition </td>
+    <td class="tg-zr06"> 冠军</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> </td>
+    <td class="tg-zr06">中文木偶大赛<br>The Chinese Moo-O Awards 2017 </td>
+    <td class="tg-zr06"> 优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-8rcp"> 2018</td>
+    <td class="tg-zr06"> 华文大比拼<br>The National Chinese Challenge 2018</td>
+    <td class="tg-zr06">个人优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> </td>
+    <td class="tg-zr06"> 第二十四届全国小学现场华文创作比赛<br>24th National Primary Schools On-The-Spot Chinese Creative Essay Writing Competition</td>
+    <td class="tg-zr06"> 亚军</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/NChiChallenge.jpg)
+
+### ICT Online Resources 网上学习资源
+
+**iMTL Portal**
+
+[https://imtl.moe.edu.sg](https://imtl.moe.edu.sg/)
+
+**Dudu Town**  
+
+[http://go.dudu.town/cos/o.x?c=/ca4\_dd/user&func=login](http://go.dudu.town/cos/o.x?c=/ca4_dd/user&func=login)
+
+**Toggle 中文**
+
+[https://www.toggle.sg/zh](https://www.toggle.sg/zh)
