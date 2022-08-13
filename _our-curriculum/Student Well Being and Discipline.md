@@ -51,3 +51,12 @@ Students’ positive behaviours are regularly noticed, **intentionally reinforc
 ![](/images/core%20value%20champion%20cards.png)
 
 <center>Core Value Champion Cards</center>
+
+Apart from the aforementioned, the school also puts in place the Annual Award Presentation Ceremony to recognise students for their hard work, effort, grit and success in all that they undertake.
+
+### Peer Support and Relationships  
+Positive peer relationships facilitate the provision of care, a sense of belonging amongst students, as well as the building of resilience. Aligned to our school mission, ‘Together, we nurture and inspire an inclusive spirit’, our students develop the values of Empathy and Respect for one another through the active involvement in school initiatives and programmes which promote and drive Peer Support and Relationships (PSR) efforts.
+
+The school puts in place Peer-bonding activities during periods designated for Form Teacher Guidance Period (FTGP), Teacher-Student Relationship (TSR), etc. To allow for greater opportunities for students to bond and know each other better, the Happy Breakfast Programme is recently introduced on a termly basis to afford for quality conversations amongst peers.
+
+Curriculum learning and planning are also always centered on the need for students to have the opportunities and experiences in collaborating with each other. Through these interactions, students can apply peer-helping skills to support others too. This would also sharpen their ability to be effective communicators, active contributors and inclusive individuals making a positive difference in themselves and others.
