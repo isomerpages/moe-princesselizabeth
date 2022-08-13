@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mother Tongue Languages/Malay.md
       - Mother Tongue Languages/Chinese.md
       - Mother Tongue Languages/.keep
       - Science.md
