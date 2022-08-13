@@ -74,3 +74,7 @@ In a live Zoom session with the Singapore Zoo facilitator, students explored the
 ### P6 Virtual Learning Journey to Sungei Buloh
 
 Due to the current pandemic situation, we brought our P6 students on a virtual tour to the Sungei Buloh Nature Reserve. The students learnt about the conditions of a Mangrove habitats and were introduced to the various living things there. They also learned about the behavioural and structural adaptations that help the living things cope and survive in the environment they live in. The P6 students enjoyed the interactive experience very much.
+
+![](/images/virtual%20learning%20journey1.png)
+![](/images/virtual%20learning%20journey2.png)
+![](/images/virtual%20learning%20journey3.png)
