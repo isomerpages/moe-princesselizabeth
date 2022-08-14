@@ -54,3 +54,6 @@ Time: 11am – 12pm (incl. 5-10min Q&A)  <br>
 Speaker: Ms Eliza Leong (Senior Psychologist)  <br>
 Venue: Online Zoom  <br>
 Fee: Complimentary
+
+Topic(s) in the month of **October are for Parents who prefers attending the session in Mandarin**
+
