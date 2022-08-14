@@ -2,6 +2,7 @@ collections:
   signature-programme-and-events:
     output: true
     order:
+      - Satellite Partnership.md
       - West Zone Centre of Excellence in Character and Citizenship Education
         (WZ COE CCE).md
       - Applied Learning Programme (Innovation and Enterprise).md
