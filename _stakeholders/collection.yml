@@ -2,11 +2,11 @@ collections:
   stakeholders:
     output: true
     order:
-      - Family Matters @ PEPS/Family Services.md
-      - Family Matters @ PEPS/Newsletter.md
-      - Family Matters @ PEPS/Upcoming Seminars & Programmes.md
-      - Family Matters @ PEPS/Parenting Support Programmes.md
-      - Family Matters @ PEPS/Family Matters @ PEPS.md
       - Family Matters @ PEPS/.keep
+      - Family Matters @ PEPS/Family Matters @ PEPS.md
+      - Family Matters @ PEPS/Parenting Support Programmes.md
+      - Family Matters @ PEPS/Upcoming Seminars & Programmes.md
+      - Family Matters @ PEPS/Newsletter.md
+      - Family Matters @ PEPS/Family Services.md
       - Alumni.md
       - School Advisory Committee.md
