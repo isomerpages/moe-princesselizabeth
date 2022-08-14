@@ -2,6 +2,8 @@ collections:
   signature-programme-and-events:
     output: true
     order:
+      - West Zone Centre of Excellence in Character and Citizenship Education
+        (WZ COE CCE).md
       - Applied Learning Programme (Innovation and Enterprise).md
       - Learning for Life Programmes/.keep
       - Learning for Life Programmes/Learning for Life Programme (Student
