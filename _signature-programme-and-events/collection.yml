@@ -1,4 +1,5 @@
 collections:
   signature-programme-and-events:
     output: true
-    order: []
+    order:
+      - Signature Programmes & Events.md
