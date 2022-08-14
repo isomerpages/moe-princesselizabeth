@@ -111,3 +111,15 @@ Hear what some parents have got to say below:
   </tr>
 </tbody>
 </table>
+
+Princess Elizabeth Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. If you are interested, you may indicate your interest in Triple P at [https://go.fycs.org/PSS](https://go.fycs.org/PSS).
+
+[Fei Yue Triple PTeaser](https://youtu.be/OktQSOzQ0oY) (https://youtu.be/OktQSOzQ0oY)
+
+
+<img src="/images/Pic2-1.jpg" 
+     style="width:75%">
+
+Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
+
+For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at [claraang@fycs.org](mailto:claraang@fycs.org) or 84282433.
