@@ -36,3 +36,52 @@ As such, student leaders are provided are developed through a segmented training
 At the centre of the Student Leadership Framework is the school’s core values, ASPIRE, namely **A**mbition, **S**elf-Discipline, **P**erseverance, **I**ntegrity, **R**espect and **E**mpathy.  
   
 These core values serve as a compass for every student in the school, especially for our student leaders who use them as guiding principles in the leadership endeavours.
+
+<img src="/images/Framework.jpg" 
+     style="width:50%">
+		 
+### Student Leadership Development Framework - Approaches  
+
+Two main approaches are adopted by the school in our student leadership development in building students’ knowledge, developing skills and imbuing the right values in their 6-year student leadership journey in our school. They are Servant Leadership and Inclusive Design.
+
+‘Serving is leading’ is Servant Leadership’s underlying philosophy. It involves a set of practices that enriches the lives of individuals, and ultimately creates a more just and caring world. We focus on 3 aspects of Servant Leadership: empathy, listening and community-building.
+
+Inclusive design encourages students to empathize with others while helping them develop a growth mindset and important problem solving and thinking skills. More than a product-based outcome, it is also an ongoing reflective process for the students.
+
+### Student Leadership Development Framework - Outcomes
+
+We aim for our student leaders to be able to proudly say iLEAD @ PEPS.
+
+I Listen/Learn, Empathize/Empowered and Actively Do.
+
+PEPS’ student leaders make positive and valuable impacts on themselves, the school and/or the community through various opportunities in the following leadership roles:  
+
+  
+
+1.Group Leader 
+
+2.Subject Champ
+
+3.Primary 2 Student Champ
+
+4.Class Monitor
+
+5.CyberPals
+
+6.Peer Support Leader
+
+7.CCA Leader
+
+8.Prefect  
+
+  
+
+Our student leaders’ community and global awareness is developed through their leadership roles and designated school leadership programs. This is part of equipping students with emerging 21st century competencies.
+
+### Mass Students Leaders' Training Goes Online in light of COVID-19
+
+![](/images/SLD1.png)
+
+### Prefects' Training when face-to-face trainings were allowed before we had to go back to e-training
+
+![](/images/SLD2.png)
