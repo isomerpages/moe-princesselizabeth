@@ -2,6 +2,7 @@ collections:
   stakeholders:
     output: true
     order:
+      - "Parent Support Group: 3PIE/Organisation Structure.md"
       - "Parent Support Group: 3PIE/Parent Support Group: 3PIE.md"
       - "Parent Support Group: 3PIE/.keep"
       - Family Matters @ PEPS/.keep
