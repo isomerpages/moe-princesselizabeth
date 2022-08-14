@@ -2,4 +2,5 @@ collections:
   signature-programme-and-events:
     output: true
     order:
+      - Co Curriculum Activities (CCA).md
       - Signature Programmes & Events.md
