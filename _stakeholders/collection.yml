@@ -2,6 +2,7 @@ collections:
   stakeholders:
     output: true
     order:
+      - Family Matters @ PEPS/Parenting Support Programmes.md
       - Family Matters @ PEPS/Family Matters @ PEPS.md
       - Family Matters @ PEPS/.keep
       - Alumni.md
