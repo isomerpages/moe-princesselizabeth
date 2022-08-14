@@ -2,5 +2,6 @@ collections:
   stakeholders:
     output: true
     order:
+      - Family Matters @ PEPS/.keep
       - Alumni.md
       - School Advisory Committee.md
