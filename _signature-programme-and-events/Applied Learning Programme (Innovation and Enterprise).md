@@ -31,3 +31,11 @@ This enable students to connect classroom learning with real life-applications a
 ### Electives:
 
 Students sign up for the various enrichment programme offered by the school such as 3D pen crafting, strawbotics, sewing, coding and others. Through these electives, students will be able to pick up a new skill and thereafter, make a prototype for a good cause.
+
+![](/images/ALP5.png)
+![](/images/ALP6.png)
+
+### Various Activities in InnoSpace
+
+![](/images/ALP7.png)
+![](/images/ALP8.png)
