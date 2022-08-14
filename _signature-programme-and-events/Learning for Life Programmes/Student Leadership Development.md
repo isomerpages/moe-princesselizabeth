@@ -85,3 +85,22 @@ Our student leaders’ community and global awareness is developed through their
 ### Prefects' Training when face-to-face trainings were allowed before we had to go back to e-training
 
 ![](/images/SLD2.png)
+
+### Online Head Prefect Campaign and Student Leadership Investiture
+
+![](/images/SLD3.png)
+![](/images/SLD4.jpg)
+
+### Primary 6 Prefects VIA Project 2021 - Charity Donation Drive
+
+Our Primary 6 prefects organised and ran a donation drive as part of their post-PSLE activity, applying what they have learnt earlier in the year during their Project Management workshop as part of the Student Leadership training programme.  
+
+
+There are two target groups for this VIA project, children in need and migrant workers. The 4-day donation drive to collect food and household items/toiletries benefited two organisations, Sunbeam Place @ Singapore Children’s Society and Humanitarian Organization for Migration Economics (HOME) Shelter.
+
+Our student leaders spent a lot of time sorting, checking and packing the donated items by the school community. At the end of the 4-day donation drive, the donated items were delivered personally by our teachers to both organisations. Each organisation received one van-full load of donated items.
+
+![](/images/SLD5.png)
+![](/images/SLD6.png)
+![](/images/SLD7.png)
+![](/images/SLD8.png)
