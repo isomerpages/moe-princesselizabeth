@@ -100,3 +100,7 @@ Time: 4pm - 6pm  <br>
 Trainer: The Little Things and Clara Ang  <br>
 Venue: The Little Things, 244N Upper Thomson Road  <br>
 Fee: $35 per pair (incl. of materials. The workshop is capped at 12 pairs.)
+
+Click on the following attachment to read the details of each workshop / programme:
+
+[FLE Programme Calendar_Jul_Dec2022.pdf](/files/FLE%20Programme%20Calendar_Jul_Dec2022.pdf)
