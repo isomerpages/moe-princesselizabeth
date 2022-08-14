@@ -2,6 +2,7 @@ collections:
   signature-programme-and-events:
     output: true
     order:
+      - Student Leadership Development.md
       - Learning for Life Programme (Student Leadership & VIA).md
       - Co Curriculum Activities (CCA).md
       - Signature Programmes & Events.md
