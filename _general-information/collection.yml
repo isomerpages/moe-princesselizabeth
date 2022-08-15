@@ -2,5 +2,6 @@ collections:
   general-information:
     output: true
     order:
+      - Information for Parents/Information for Parents.md
       - Information for Parents/.keep
       - School Calendar.md
