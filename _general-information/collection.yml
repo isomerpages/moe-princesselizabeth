@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Booklist 2022.md
       - ICT Matters/.keep
       - ICT Matters/Teaching and Learning Websites.md
       - ICT Matters/Student iCon.md
