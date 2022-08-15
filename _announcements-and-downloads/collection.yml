@@ -2,6 +2,7 @@ collections:
   announcements-and-downloads:
     output: true
     order:
+      - School Publications.md
       - Downloads/.keep
       - Downloads/Briefing & Workshops.md
       - Downloads/Travel Forms.md
