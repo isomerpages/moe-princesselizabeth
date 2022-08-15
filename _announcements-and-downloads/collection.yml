@@ -2,4 +2,5 @@ collections:
   announcements-and-downloads:
     output: true
     order:
+      - Downloads/.keep
       - Announcements.md
