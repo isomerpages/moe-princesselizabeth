@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Appreciation for Our Staff.md
       - Booklist 2022.md
       - ICT Matters/.keep
       - ICT Matters/Teaching and Learning Websites.md
@@ -22,3 +21,4 @@ collections:
       - Information for Parents/Insurance Coverage.md
       - Information for Parents/Parents Gateway.md
       - School Calendar.md
+      - Appreciation for Our Staff.md
