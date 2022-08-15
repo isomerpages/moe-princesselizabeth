@@ -15,3 +15,8 @@ description: ""
 * PEPS Newsletter - ASPIRE 2018-Nov (Issue 8)
 * PEPS Newsletter - ASPIRE 2018-May (Issue 7)
 * [PEPS Newsletter - ASPIRE 2017-Nov (Issue 6)](/files/PEPS%20Newsletter%20-%20ASPIRE%202017-Nov%20(Issue%206).pdf)
+* PEPS Newsletter - ASPIRE 2017-May (Issue 5)
+* PEPS Newsletter - ASPIRE 2016-Nov (Issue 4)
+* PEPS Newsletter - ASPIRE 2016-May (Issue 3)
+* PEPS Newsletter - ASPIRE 2015-Nov (Issue 2)
+* [PEPS Newsletter - ASPIRE 2015-July (Issue 1)](/files/PEPS%20Newsletter%20-%20ASPIRE%202015-July%20(Issue%201).pdf)
