@@ -2,11 +2,11 @@ collections:
   stakeholders:
     output: true
     order:
-      - "Parent Support Group: 3PIE/Resources.md"
-      - "Parent Support Group: 3PIE/Activities.md"
-      - "Parent Support Group: 3PIE/Organisation Structure.md"
-      - "Parent Support Group: 3PIE/Parent Support Group: 3PIE.md"
       - "Parent Support Group: 3PIE/.keep"
+      - "Parent Support Group: 3PIE/Parent Support Group: 3PIE.md"
+      - "Parent Support Group: 3PIE/Organisation Structure.md"
+      - "Parent Support Group: 3PIE/Activities.md"
+      - "Parent Support Group: 3PIE/Resources.md"
       - Family Matters @ PEPS/.keep
       - Family Matters @ PEPS/Family Matters @ PEPS.md
       - Family Matters @ PEPS/Parenting Support Programmes.md
