@@ -1,0 +1,4 @@
+collections:
+  announcements-and-downloads:
+    output: true
+    order: []
