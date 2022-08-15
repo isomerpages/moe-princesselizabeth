@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - ICT Matters/.keep
       - School Services/.keep
       - School Services/Books Supplier.md
       - School Services/Uniform Supplier.md
