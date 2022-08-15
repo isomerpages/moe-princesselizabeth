@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Services/.keep
-      - School Services/Book Supplier.md
+      - School Services/Books Supplier.md
       - School Services/Uniform Supplier.md
       - School Services/School Library.md
       - School Services/School Bus Service.md
