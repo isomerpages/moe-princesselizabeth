@@ -2,13 +2,13 @@ collections:
   general-information:
     output: true
     order:
-      - School Services/Big Heart Student Care.md
-      - School Services/School Dental Clinic.md
-      - School Services/School Bus Service.md
-      - School Services/School Library.md
-      - School Services/Uniform Supplier.md
-      - School Services/Book Supplier.md
       - School Services/.keep
+      - School Services/Book Supplier.md
+      - School Services/Uniform Supplier.md
+      - School Services/School Library.md
+      - School Services/School Bus Service.md
+      - School Services/School Dental Clinic.md
+      - School Services/Big Heart Student Care.md
       - Information for Parents/.keep
       - Information for Parents/Information for Parents.md
       - Information for Parents/School Curriculum Hours.md
