@@ -2,11 +2,11 @@ collections:
   general-information:
     output: true
     order:
-      - ICT Matters/Student Learning Space.md
-      - ICT Matters/School Online Based Helpline.md
-      - ICT Matters/Student iCon.md
-      - ICT Matters/Teaching and Learning Websites.md
       - ICT Matters/.keep
+      - ICT Matters/Teaching and Learning Websites.md
+      - ICT Matters/Student iCon.md
+      - ICT Matters/School Online Based Helpline.md
+      - ICT Matters/Student Learning Space.md
       - School Services/.keep
       - School Services/Books Supplier.md
       - School Services/Uniform Supplier.md
