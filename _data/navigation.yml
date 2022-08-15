@@ -1,6 +1,16 @@
 logo: /images/schoollogo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Signature Programmes & Events
+    collection: signature-programme-and-events
+  - title: General Information
+    collection: general-information
+  - title: Annoucements & Downloads
+    collection: announcements-and-downloads
+  - title: Stakeholders
+    collection: stakeholders
+  - title: MK @ Princess Elizabeth
+    collection: mk-at-princess-elizabeth
