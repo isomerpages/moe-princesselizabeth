@@ -2,9 +2,9 @@ collections:
   general-information:
     output: true
     order:
-      - Information for Parents/Parents Gateway.md
-      - Information for Parents/Insurance Coverage.md
-      - Information for Parents/School Curriculum Hours.md
-      - Information for Parents/Information for Parents.md
       - Information for Parents/.keep
+      - Information for Parents/Information for Parents.md
+      - Information for Parents/School Curriculum Hours.md
+      - Information for Parents/Insurance Coverage.md
+      - Information for Parents/Parents Gateway.md
       - School Calendar.md
