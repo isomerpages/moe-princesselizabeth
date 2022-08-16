@@ -1,6 +1,6 @@
-title: Title
+title: Princess Elizabeth Primary School
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/schoollogo.jpg
 colors:
   primary-color: "#000000"
   secondary-color: "#880000"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2gglc1vesg1l8.amplifyapp.com
 prod: https://master.d2gglc1vesg1l8.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/schoollogo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
