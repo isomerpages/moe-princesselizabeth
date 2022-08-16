@@ -1,5 +1,4 @@
 collections:
   mk-at-princess-elizabeth:
     output: true
-    order:
-      - MK@Princess Elizabeth.md
+    order: []
