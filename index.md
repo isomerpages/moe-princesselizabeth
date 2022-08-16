@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
+title: Princess Elizabeth Primary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/schoollogo.jpg
 permalink: /
 notification: ""
 sections:
@@ -25,4 +25,5 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
