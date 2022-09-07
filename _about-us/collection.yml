@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - MK@Princess Elizabeth.md
-      - Staff List.md
       - History.md
       - Vision, Mission, Values and Philosophy.md
       - Strategic Thrust.md
@@ -12,3 +10,5 @@ collections:
       - Organisation Chart.md
       - School Rules.md
       - School Accolades.md
+      - Staff List.md
+      - MK@Princess Elizabeth.md
