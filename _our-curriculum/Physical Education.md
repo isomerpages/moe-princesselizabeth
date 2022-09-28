@@ -57,8 +57,10 @@ P3 - Goal Ball <br>
 P4 - Frisbee <br>
 P5 - Tchukball <br>
 P6 – Kinball 
+![](/images/PE1.jpeg)
+![](/images/PE2.jpeg)
+![](/images/PE3.jpeg)
 
-![](/images/PE6.png)
 
 **Level Camps for P4 and P5**  
 Developing rugged and resilience students thru Outdoor Education  <br>
