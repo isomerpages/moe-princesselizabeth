@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-curriculum/physical-education
+permalink: /our-curriculum/physical-education/
 description: ""
 ---
 ![](/images/PE1.jpg)
@@ -53,7 +53,9 @@ Celebrate Children’s day thru Games (PE edition)
 **Sports Education for P1, 2, 3 and 6**
 Exposing students to sports beyond our PE curriculum.  
 P1 and P2 - Kids Athletics  <br>
-P3 - Water Games <br>
+P3 - Goal Ball <br>
+P4 - Frisbee <br>
+P5 - Tchukball <br>
 P6 – Kinball 
 
 ![](/images/PE6.png)
