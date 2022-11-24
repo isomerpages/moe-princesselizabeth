@@ -17,4 +17,9 @@ contacts:
       - email: peps@moe.edu.sg
       - other: "Fax: 6563 7859"
     title: Contact Information
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://go.gov.sg/peps-helpline
+    title: "School Online-Based Helpline  "
 ---
