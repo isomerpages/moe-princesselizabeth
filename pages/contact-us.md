@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Princess Elizabeth Primary School
 locations:
   - address:
-      - "30"
-      - "Bukit Batok West Avenue 3, "
+      - "30 Bukit Batok West Avenue 3, "
       - Singapore 659163
+      - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.349203512653&lng=103.74101964471
     title: General Office
 contacts:
   - content:
