@@ -1,6 +1,6 @@
 ---
 title: School Curriculum Hours
-permalink: /general-information/information-for-parents/school-curriculum-hours
+permalink: /general-information/information-for-parents/school-curriculum-hours/
 description: ""
 third_nav_title: Information for Parents
 ---
@@ -51,7 +51,7 @@ third_nav_title: Information for Parents
 Flag raising ceremony commences at 7.30am  
 Official school hours are from 7.30am to 1.30am on non CCA days.  
   
-School dismissal timing and gate allocation with effect from January 2022.
+School dismissal timing and gate allocation with effect from January 2023.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -73,17 +73,17 @@ School dismissal timing and gate allocation with effect from January 2022.
 <tbody>
   <tr>
     <td class="tg-f4yw">Gate 3</td>
-    <td class="tg-f4yw">P5 and P6</td>
+    <td class="tg-f4yw">P2</td>
     <td class="tg-f4yw">1.30pm</td>
   </tr>
   <tr>
     <td class="tg-f4yw">Gate 4</td>
-    <td class="tg-f4yw">P1 and P2</td>
+    <td class="tg-f4yw">P1 </td>
     <td class="tg-f4yw">1.25pm <br></td>
   </tr>
   <tr>
     <td class="tg-f4yw">Gate 4</td>
-    <td class="tg-f4yw">P3 and P4 </td>
+    <td class="tg-f4yw">P3 to P6 </td>
     <td class="tg-f4yw">1.30pm </td>
   </tr>
 </tbody>
