@@ -90,7 +90,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">2B</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman</span><br><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Zaid Bin Rasid(HOD PE/CCA/Aesthetics)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman (SH Student Leaderhip & VIA)</span><br><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Zaid Bin Rasid(HOD PE/CCA/Aesthetics)</span></td>
     <td class="tg-vc75"><span style="font-weight:400">nur_diana_abdul_rahman@schools.gov.sg</span><br><span style="font-weight:400">kan_pui_yan@schools.gov.sg</span><br><span style="font-weight:400">zaid_rasid@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -100,8 +100,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">2D</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Jennifer Lum (Neo Qinxia Jennifer)</span><br><span style="font-weight:400">Ms Poh Chiew Fong</span><br></td>
-    <td class="tg-vc75"><span style="font-weight:400">neo_qingxia_jennifer@schools.gov.sg</span><br><span style="font-weight:400">poh_chiew_fong@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Nah Min Yee Fiona</span><br><span style="font-weight:400">Mdm Lim Lee Choon</span><br><span style="font-weight:400">Mdm Dalvindar Kaur (HOD English)</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">nah_min_yee_fiona@schools.gov.sg</span><br><span style="font-weight:400">lim_lee_choon@schools.gov.sg</span><br><span style="font-weight:400">dalvindar_kaur@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">2E</td>
