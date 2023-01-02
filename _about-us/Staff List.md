@@ -194,7 +194,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">4S</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Chung Kai Sin</span><br>Mr Khor Lee Chiang)</span><br>Ms Chen Pei Yu</td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Chung Kai Sin</span><br>Mr Khor Lee Chiang</span><br>Ms Chen Pei Yu</td>
     <td class="tg-vc75"><span style="font-weight:normal">chung_kai_sin@schools.gov.sg</span><br><span style="font-weight:400">khor_lee_chiang@schools.gov.sg</span><br><span style="font-weight:400">chen_peiyu@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -209,8 +209,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">4R</td>
-    <td class="tg-vc75"><span style="font-weight:400">Miss Kek Poh Poh Belle (TSN (C))</span><br><span style="font-weight:400">Ms Sarah Chu Mun</span><br>Mrs Toh Gek Huay<br></td>
-    <td class="tg-vc75"><span style="font-weight:normal">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:normal">sarah_chu_mun@schools.gov.sg</span><br><span style="font-weight:normal">toh_gek_huay@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin</span><br><span style="font-weight:400">Mrs Jolene Ong - Yip Jia Min <br></td>
+    <td class="tg-vc75"><span style="font-weight:normal">aw_mui_sin@schools.gov.sg</span><br><span style="font-weight:normal">yip_jia_min_jolene@schools.gov.sg</span><br></td>
   </tr>
 </tbody>
 </table>
