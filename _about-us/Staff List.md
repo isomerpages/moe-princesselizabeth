@@ -152,8 +152,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3P</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</span><br><span style="font-weight:400">Mrs Marselyn Jonatan Prakarsah (HOD ICT/Inno)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">shahroom_noor_mumeen_mohamed@schools.gov.sg</span><br><span style="font-weight:400">marselyn_prakarsah@schools.gov.sg </span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Yang Shu Han, Sophia</span><br><span style="font-weight:400">Mr Cheak Hai Joon</span><br><span style="font-weight:400">Mrs Toh Gek Huay</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">yang_shu_han@schools.gov.sg</span><br><span style="font-weight:400">cheak_hai_joon@schools.gov.sg</span><br><span style="font-weight:400">toh_gek_huay@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3I</td>
