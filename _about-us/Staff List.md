@@ -33,7 +33,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">1B</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Poh Chiew Fong</span><br><span style="font-weight:400">Ms Michelle Ng </span><br><span style="font-weight:400">Miss Yew Hui Tin</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Poh Chiew Fong</span><br><span style="font-weight:400">Ms Michelle Ng </span><br><span style="font-weight:400">Miss Yew Hui Tin (HOD MT)</span></td>
     <td class="tg-vc75"><span style="font-weight:400">poh_chiew_fong@schools.gov.sg</span><br><span style="font-weight:400">ng_sook_ling@schools.gov.sg</span><br><span style="font-weight:400">yew_hui_tin@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -53,8 +53,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">1F</td>
-    <td class="tg-vc75"><span style="font-weight:normal">Mdm Chew Tuck Wah</span><br><span style="font-weight:normal">Ms Liu Wei</span></td>
-    <td class="tg-vc75"><span style="font-weight:normal">chew_tuck_wah@schools.gov.sg</span><br><span style="font-weight:normal">liu_wei@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:normal">Mdm Ow May Ling, Angeline (LH EL) </span><br><span style="font-weight:normal">Mdm Siti Zahidah Bte Suhaimi</span></td>
+    <td class="tg-vc75"><span style="font-weight:normal">ow_may_ling_angeline@schools.gov.sg</span><br><span style="font-weight:normal">liu_wei@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">1G</td>
