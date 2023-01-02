@@ -345,27 +345,32 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-EL</td>
+    <td class="tg-c3ow" colspan="2">HOD English</td>
     <td class="tg-84ol">Mdm Dalvindar Kaur</td>
     <td class="tg-84ol">dalvindar_kaur@schools.gov.sg    </td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-SCI</td>
+<td class="tg-c3ow" colspan="2">HOD Mathematics</td>
+    <td class="tg-84ol">Ms Yeo Suan Shih</td>
+    <td class="tg-84ol">yeo_suan_shih@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" colspan="2">HOD Science</td>
     <td class="tg-84ol">Mdm Nur Hazreen Binte Subadar</td>
     <td class="tg-84ol">nur_hazreen_subadar@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-MTL</td>
+    <td class="tg-c3ow" colspan="2">HOD MTL</td>
     <td class="tg-84ol">Miss Yew Hui Tin</td>
     <td class="tg-84ol">yew_hui_tin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-ICT &amp; Innovation</td>
-    <td class="tg-84ol"><span style="font-weight:400">Mrs Marselyn Jonatan Prakarsah</span></td>
+    <td class="tg-c3ow" colspan="2">HOD ICT &amp; Innovation</td>
+    <td class="tg-84ol"><span style="font-weight:400">Mrs Marselyn Jonatan</span></td>
     <td class="tg-84ol"><span style="font-weight:400">marselyn_prakarsah@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-CCE</td>
+    <td class="tg-c3ow" colspan="2">HOD CCE</td>
     <td class="tg-84ol">Ms Shanthi Govindasamy</td>
     <td class="tg-84ol">shanthi_govindasamy@schools.gov.sg</td>
   </tr>
@@ -375,7 +380,7 @@ description: ""
     <td class="tg-84ol">lee_lu_mei@schools.gov.sg<span style="font-weight:bold;color:#5C0B0C"> </span></td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD-PE/CCA/Aesthetics</td>
+    <td class="tg-c3ow" colspan="2">HOD PE/CCA/Aesthetics</td>
     <td class="tg-84ol">Mr Zaid Bin Rasid</td>
     <td class="tg-84ol">zaid_rasid@schools.gov.sg</td>
   </tr>
@@ -398,11 +403,6 @@ description: ""
     <td class="tg-c3ow" colspan="2">Year Head-Lower Primary</td>
     <td class="tg-84ol">Mdm Kwan Yue Hua </td>
     <td class="tg-84ol">kwan_yue_hua@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow" colspan="2">Snr SEN Officer</td>
-    <td class="tg-84ol">Miss Liew Si Min</td>
-    <td class="tg-84ol">liew_si_min@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-9wq8" colspan="2">SEN Officer</td>
