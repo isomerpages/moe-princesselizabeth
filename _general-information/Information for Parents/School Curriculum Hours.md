@@ -49,7 +49,7 @@ third_nav_title: Information for Parents
 </table>
 
 Flag raising ceremony commences at 7.30am  
-Official school hours are from 7.30am to 1.30am on non CCA days.  
+Official school hours are from 7.30am to 1.30pm on non CCA days.  
   
 School dismissal timing and gate allocation with effect from January 2023.
 
