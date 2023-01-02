@@ -85,18 +85,18 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7yig">2A</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Sharon Grace Tiew-Tan Boon Fong</span><br><span style="font-weight:400">Ms Ivy Li Hui (TSN (T))</span></td>
-    <td class="tg-vc75">tan_boon_fong_sharon@schools.gov.sg<br>li_hui_a@schools.gov.sg</td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Toh Su Shing, Genevieve (Level Coordinator)</span><br><span style="font-weight:400">Mdm Hasyimah Bte Harith</span></td>
+    <td class="tg-vc75">toh_su_shing_genevieve@schools.gov.sg<br>hasyimah_harith@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-7yig">2B</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Ms Kalpana Panaysilvam</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">kan_pui_yan@schools.gov.sg</span><br><span style="font-weight:400">kalpana_panaysilvam@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman</span><br><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Zaid Bin Rasid(HOD PE/CCA/Aesthetics)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">nur_diana_abdul_rahman@schools.gov.sg</span><br><span style="font-weight:400">kan_pui_yan@schools.gov.sg</span><br><span style="font-weight:400">zaid_rasid@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">2C</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Ng Hui Mei</span><br><span style="font-weight:400">Mdm Faizlyana Bte Ismail (SH Aesthetics)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">ng_hui_mei@schools.gov.sg</span><br><span style="font-weight:400">faizlyana_ismail@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Lee Yian Ping, Emily</span><br><span style="font-weight:400">Mdm Nur Anamaria Bte Mohamed Amin</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">lee_yian_ping@schools.gov.sg</span><br><span style="font-weight:400">nur_anamaria_mohamed_ami@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">2D</td>
