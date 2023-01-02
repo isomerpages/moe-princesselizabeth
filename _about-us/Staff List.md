@@ -110,13 +110,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">2F</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Nur Aina Bte Mohamed Ishak</span><br><span style="font-weight:400">Ms Foo Yan Ni</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">nur_aina_mohammed_ishak@schools.gov.sg</span><br><span style="font-weight:400">foo_yan_ni@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Chew Tuck Wah</span><br><span style="font-weight:400">Ms Liu Wei</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">chew_tuck_wah@schools.gov.sg</span><br><span style="font-weight:400">liu_wei@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">2G</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Lynette Ho Su-Shien </span><br><span style="font-weight:400">Mdm Hasimah Hasim (Lvl Co-ord)</span><br></td>
-    <td class="tg-vc75"><span style="font-weight:normal">ho_su_shien_lynette@schools.gov.sg</span><br><span style="font-weight:400">hasimah_hasim@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Rozanita Bte Mohd Mokhtar </span><br><span style="font-weight:400">Mdm Faizlyana Bte Ismail (LH CCE)</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:normal">rozanita_mohd_mokhtar@schools.gov.sg</span><br><span style="font-weight:400">faizlyana_ismail@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
