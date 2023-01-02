@@ -157,7 +157,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3I</td>
-    <td class="tg-vc75">Ms Faith Goh Li Hoon<br><br>Ms Esther Tham</td>
+    <td class="tg-vc75">Ms Faith Goh Li Hoon</span><br>Ms Esther Tham</td>
     <td class="tg-vc75">goh_li_hoon@schools.gov.sgg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
   </tr>
   <tr>
