@@ -157,8 +157,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3I</td>
-    <td class="tg-vc75">Mr Yazid Bin Adali (Lvl Co-ord)<br><br>Mdm Dalvindar Kaur (HOD EL)</td>
-    <td class="tg-vc75">yazid_adali@schools.gov.sg<br>dalvindar_kaur@schools.gov.sg<br></td>
+    <td class="tg-vc75">Ms Faith Goh Li Hoon<br><br>Ms Esther Tham</td>
+    <td class="tg-vc75">goh_li_hoon@schools.gov.sgg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-7yig">3R</td>
