@@ -38,7 +38,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">1C</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Jennifer Lum</span><br><span style="font-weight:400">Mdm Haji Noor Jainub Begam</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Jennifer Lum</span><br><span style="font-weight:400">Mdm Jainub Begam</span></td>
     <td class="tg-vc75"><span style="font-weight:400">neo_qingxia_jennifer@schools.gov.sg</span><br><span style="font-weight:400">haji_noor_jainub_begam@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ description: ""
   <tr>
     <td class="tg-7yig">1F</td>
     <td class="tg-vc75"><span style="font-weight:normal">Mdm Ow May Ling, Angeline (LH EL) </span><br><span style="font-weight:normal">Mdm Siti Zahidah Bte Suhaimi</span></td>
-    <td class="tg-vc75"><span style="font-weight:normal">ow_may_ling_angeline@schools.gov.sg</span><br><span style="font-weight:normal">liu_wei@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:normal">ow_may_ling_angeline@schools.gov.sg</span><br>siti_zahidah_suhaimi@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">1G</td>
