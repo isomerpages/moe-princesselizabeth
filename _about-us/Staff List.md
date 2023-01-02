@@ -236,33 +236,33 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7yig">5A</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Noorhirdawati Bte Buang</span><br><span style="font-weight:400">Mr Aaron Chan Jit Ming (LH PE/CCA)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">noorhirdawati_buang@schools.gov.sg</span><br><span style="font-weight:400">chan_jit_ming@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Jeslyn Loh-Ho Li Jun (LH SCI)</span><br><span style="font-weight:400">Mrs Chua - Gui Wan Yi </span></td>
+    <td class="tg-vc75"><span style="font-weight:400">ho_li_jun_jeslyn@schools.gov.sg</span><br><span style="font-weight:400">gui_wan_yi@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">5S</td>
-    <td class="tg-vc75">Mdm Cheng Mee Eng (LT MA)<br>Mrs Joline Tan Hui Qi<br></td>
-    <td class="tg-vc75"><span style="font-weight:400">cheng_mee_eng@schools.gov.sg</span><br><span style="font-weight:400">tan_hui_qi@schools.gov.sg</span></td>
+    <td class="tg-vc75">Mrs Ng-Lau Bak Eng (Level Coordinator)<br>Mdm Fazeelah<br></td>
+    <td class="tg-vc75"><span style="font-weight:400">lau_bak_eng@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">5P</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Hazel Woon Li</span><br><span style="font-weight:400">Ms Rena Lim Yung Chi</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">hazel_woon_li@schools.gov.sg</span><br><span style="font-weight:400">rena_lim_yung_chi@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mr Teng Shin Chee</span><br><span style="font-weight:400">Ms Chin Sau Lai (LH EL/MRL)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">teng_shin_chee@schools.gov.sg</span><br><span style="font-weight:400">chin_sau_lai@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">5I</td>
-    <td class="tg-vc75"><span style="font-weight:400;color:#000;background-color:transparent">Ms See Yan Ting, Dionne</span><br>Ms Teresa Maria Lee Dan Lin (HOD SSD)<br></td>
-    <td class="tg-vc75"><span style="font-weight:400">see_yan_ting_dionne@schools.gov.sg</span><br>teresa_maria_lee_dan@schools.gov.sg</td>
+    <td class="tg-vc75"><span style="font-weight:400;color:#000;background-color:transparent">Ms Goh Ser Ling Nicole (ST EL)</span><br>Ms Foo Yan Ni<br></td>
+    <td class="tg-vc75"><span style="font-weight:400">goh_ser_ling_nicole@schools.gov.sg</span><br>foo_yan_ni@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-7yig">5R</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Lee Hui Ling, Felicia</span><br><span style="font-weight:400">Ms Jiang Yanyan (ST CL)</span></td>
-    <td class="tg-vc75"><span style="font-weight:normal">lee_hui_ling_felicia@schools.gov.sg</span><br><span style="font-weight:400">jiang_yanyan@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Elizabeth Ting-Lai Siew Yuan</span><br><span style="font-weight:400">Mrs Poongkodi Muthu (TL Coordinator)</span></td>
+    <td class="tg-vc75"><span style="font-weight:normal">elizabeth_lai_siew_yuan@schools.gov.sg</span><br><span style="font-weight:400">t_poongkodi@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">5E</td>
-    <td class="tg-vc75"><span style="font-weight:400;color:#000;background-color:transparent">Mdm Roselinda Bte Mahat (TSN (C) / Lvl Co-ord)</span><br>Mdm Kamisah Bte Salleh (YH UP)<br>Mdm Nur Hazreen Binte Subadar (HOD Sci)<br></td>
-    <td class="tg-vc75"><span style="font-weight:400">roselinda_mahat@schools.gov.sg</span><br>kamisah_salleh@schools.gov.sg<br><br>nur_hazreen_subadar@schools.gov.sg</td>
+    <td class="tg-vc75"><span style="font-weight:400;color:#000;background-color:transparent">Mrs Chin Chwee Tin - Chua Chwee Tin (LH MA)</span><br>Ms Gay Li Ting (LH CL)<br></td>
+		<td class="tg-vc75"><span style="font-weight:400">chua_chwee_tin@schools.gov.sg</span><br>gay_li_ting@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
