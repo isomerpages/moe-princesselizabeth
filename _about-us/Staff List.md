@@ -189,8 +189,8 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7yig">4A</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Aida Lisa Bte Aliman</span><br><span style="font-weight:400">Mr Teng Shin Chee</span><br></td>
-    <td class="tg-vc75"><span style="font-weight:400">aida_lisa_aliman@schools.gov.sg</span><br><span style="font-weight:400">teng_shin_chee@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Tang Jia Min (Level Coordinator)</span><br><span style="font-weight:400">Mdm Sanmuga Malar d/o Rathakrishna (LT EL)</span><br><span style="font-weight:400">Ms Shanthi Govindasamy (HOD CCE)</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">tang_jia_min@schools.gov.sg</span><br><span style="font-weight:400">sanmuga_malar_rathakrishna@schools.gov.sg</span><br><span style="font-weight:400">shanthi_govindasamy@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">4S</td>
