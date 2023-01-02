@@ -90,7 +90,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">2B</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman (SH Student Leaderhip & VIA)</span><br><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Zaid Bin Rasid(HOD PE/CCA/Aesthetics)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman (SH Student Leaderhip & VIA)</span><br><span style="font-weight:400">Mdm Kan Pui Yan</span><br><span style="font-weight:400">Mr Zaid Bin Rasid (HOD PE/CCA/Aesthetics)</span></td>
     <td class="tg-vc75"><span style="font-weight:400">nur_diana_abdul_rahman@schools.gov.sg</span><br><span style="font-weight:400">kan_pui_yan@schools.gov.sg</span><br><span style="font-weight:400">zaid_rasid@schools.gov.sg</span></td>
   </tr>
   <tr>
