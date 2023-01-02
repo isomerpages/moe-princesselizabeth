@@ -304,22 +304,17 @@ description: ""
   <tr>
     <td class="tg-baqh">6I</td>
     <td class="tg-1yq8"><span style="font-weight:400">Ms See Yan Ting, Dionne</span><br><span style="font-weight:400">Mdm Fadhillah Bte Md Hussin (ML Coordinator)</span><br><span style="font-weight:400">Ms Teresa Maria Lee Dan Lin (SSD)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">see_yan_ting_dionne@schools.gov.sg</span><br><span style="font-weight:400">fadhillah_md_hussin@schools.gov.sg</span><br><span style="font-weight:400">d</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">see_yan_ting_dionne@schools.gov.sg</span><br><span style="font-weight:400">fadhillah_md_hussin@schools.gov.sg</span><br><span style="font-weight:400">teresa_maria_lee_dan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6R</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Ms Yap Shu Jun (LH Math)</span><br><span style="font-weight:400">Mdm Fadhillah Bte Md Hussin (ML Co-ord)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">yap_shu_jun@schools.gov.sg</span><br><span style="font-weight:400">fadhillah_md_hussin@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Ms Lee Hui Ling, Felicia</span><br><span style="font-weight:400">Ms Jiang Yanyan (ST CL)</span><br><span style="font-weight:400">Ms Yeo Suan Shih (HOD MA)</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">lee_hui_ling_felicia@schools.gov.sg</span><br><span style="font-weight:400">jiang_yanyan@schools.gov.sg</span><br><span style="font-weight:400">yeo_suan_shih@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6E</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mr Mohd Adib Bin Suhiat (ST PE)</span><br><span style="font-weight:400">Ms Gay Li Ting (LH CL)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">mohd_adib_b_suhiat@schools.gov.sg</span><br><span style="font-weight:400">gay_li_ting@schools.gov.sg</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">6B</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mr Mahmud Bin Ahmad</span><br><span style="font-weight:400">Ms Goh Ser Ling Nicole (ST EL)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">mahmud_ahmad@schools.gov.sg</span><br><span style="font-weight:400">goh_ser_ling_nicole@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Mdm Roselinda Bte Mahat</span><br><span style="font-weight:400">Mr Wong Chee Kuen</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">roselinda_mahat@schools.gov.sg</span><br><span style="font-weight:400">wong_chee_kuen@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
