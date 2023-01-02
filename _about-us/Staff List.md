@@ -209,7 +209,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">4R</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin</span><br><span style="font-weight:400">Mrs Jolene Ong - Yip Jia Min <br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin</span><br><span style="font-weight:400">Mrs Jolene Ong - Yip Jia Min<br></td>
     <td class="tg-vc75"><span style="font-weight:normal">aw_mui_sin@schools.gov.sg</span><br><span style="font-weight:normal">yip_jia_min_jolene@schools.gov.sg</span><br></td>
   </tr>
 </tbody>
