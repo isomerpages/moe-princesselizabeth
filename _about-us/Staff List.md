@@ -1,11 +1,11 @@
 ---
 title: Staff List
-permalink: /about-us/staff-list
+permalink: /about-us/staff-list/
 description: ""
 ---
-### Teachers' Email 2022
+### Teachers' Email 2023
 
-**Class  & Teachers & Email 2022 - Updated 24 June 2022**
+**Class  & Teachers & Email 2023 - Updated 2 January 2023**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -28,13 +28,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7yig">1A</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Toh Su Shing, Genevieve (Lvl Co-ord)</span><br><span style="font-weight:400">Mdm Haji Noor Jainub Begam (LSP P1/TSN (C))</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">toh_su_shing_genevieve@schools.gov.sg</span><br><span style="font-weight:400">haji_noor_jainub_begam@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Sharon Grace Tiew-Tan Boon Fong</span><br><span style="font-weight:400">Ms Kalpana Panaysilvam (Level Coordinator)</span><br><span style="font-weight:400">Mdm Hasimah Hasim</td>
+    <td class="tg-vc75"><span style="font-weight:400">tan_boon_fong_sharon@schools.gov.sg</span><br><span style="font-weight:400">kalpana_panaysilvam@schools.gov.sg</span><br><span style="font-weight:400">hasimah_hasim@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-7yig">1B</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Nur Diana Bte Abd Rahman (LH CCE)</span><br><span style="font-weight:400">Mr Zaid Bin Rasid (HOD PE/CCA/AES)</span><br><span style="font-weight:400">Mr G Suganthan</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">nur_diana_abdul_rahman@schools.gov.sg</span><br><span style="font-weight:400">zaid_rasid@schools.gov.sg</span><br><span style="font-weight:400">g_suganthan@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Poh Chiew Fong</span><br><span style="font-weight:400">Ms Michelle Ng </span><br><span style="font-weight:400">Miss Yew Hui Tin</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">poh_chiew_fong@schools.gov.sg</span><br><span style="font-weight:400">ng_sook_ling@schools.gov.sg</span><br><span style="font-weight:400">yew_hui_tin@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">1C</td>
