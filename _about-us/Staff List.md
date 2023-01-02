@@ -58,8 +58,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">1G</td>
-    <td class="tg-vc75">Mdm Rozanita Bte Mohd Mokhtar (TSN (C))<br><span style="font-weight:400">Ms Ng Jie Xin</span></td>
-    <td class="tg-vc75">rozanita_mohd_mokhtar@schools.gov.sg <br><span style="font-weight:400">ng_jie_xin@schools.gov.sg</span></td>
+    <td class="tg-vc75">Mdm Nur Aina Bte Mohamed Ishak<br><span style="font-weight:400">Ms Kerk Rui Qi, Yvonne </span></td>
+    <td class="tg-vc75">nur_aina_mohammed_ishak@schools.gov.sg <br><span style="font-weight:400">kerk_rui_qi_yvonne@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
