@@ -105,8 +105,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">2E</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Kerk Rui Qi, Yvonne </span><br><span style="font-weight:400">Mdm Ow May Ling, Angeline (LH EL)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">kerk_rui_qi_yvonne@schools.gov.sg</span><br><span style="font-weight:400">ow_may_ling_angeline@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Ernie Ennor Bte Razali </span><br><span style="font-weight:400">Ms Aida Lisa Bte Aliman (LH NESS)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">ernie_ennor_razali@schools.gov.sg</span><br><span style="font-weight:400">aida_lisa_aliman@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">2F</td>
