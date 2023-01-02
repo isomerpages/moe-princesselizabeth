@@ -194,28 +194,23 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">4S</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mr Samuel Chong (Lvl Co-ord)</span><br>Ms Shanthi Govindasamy (HOD CCE)</td>
-    <td class="tg-vc75"><span style="font-weight:normal">chong_junquan_samuel@schools.gov.sg</span><br><span style="font-weight:400">shanthi_govindasamy@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Chung Kai Sin</span><br>Mr Khor Lee Chiang)</span><br>Ms Chen Pei Yu</td>
+    <td class="tg-vc75"><span style="font-weight:normal">chung_kai_sin@schools.gov.sg</span><br><span style="font-weight:400">khor_lee_chiang@schools.gov.sg</span><br><span style="font-weight:400">chen_peiyu@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">4P</td>
-    <td class="tg-vc75"><span style="font-weight:normal">Ms Faith Goh Li Hoon (TSN (C))</span><br><span style="font-weight:normal">Mr Cheak Hai Joon</span></td>
-    <td class="tg-vc75"><span style="font-weight:normal">goh_li_hoon@schools.gov.sg</span><br><span style="font-weight:normal">cheak_hai_joon@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:normal">Ms Sarah Chu Mun</span><br><span style="font-weight:normal">Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</span><br><span style="font-weight:normal">Mdm Gayathri Naidu D/O Krishnasamy</span><br><span style="font-weight:normal"> Ms Yap Shu Jun (LH Math)</span></td>
+    <td class="tg-vc75"><span style="font-weight:normal">sarah_chu_mun@schools.gov.sg</span><br><span style="font-weight:normal">shahroom_noor_mumeen_mohamed@schools.gov.sg</span><br><span style="font-weight:normal">gayathri_naidu_krishnasamy@schools.gov.sg</span><br><span style="font-weight:normal">yap_shu_jun@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">4I</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Elizabeth Ting-Lai Siew Yuan</span><br>Miss Yew Hui Tin<br></td>
-    <td class="tg-vc75"><span style="font-weight:400">elizabeth_lai_siew_yuan@schools.gov.sg</span><br>yew_hui_tin@schools.gov.sg<br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Joey Li Jiaying</span><br>Mr Yazid Bin Adali<br></td>
+    <td class="tg-vc75"><span style="font-weight:400">joey_lee_jiaying@schools.gov.sg</span><br>yazid_adali@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-7yig">4R</td>
     <td class="tg-vc75"><span style="font-weight:400">Miss Kek Poh Poh Belle (TSN (C))</span><br><span style="font-weight:400">Ms Sarah Chu Mun</span><br>Mrs Toh Gek Huay<br></td>
     <td class="tg-vc75"><span style="font-weight:normal">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:normal">sarah_chu_mun@schools.gov.sg</span><br><span style="font-weight:normal">toh_gek_huay@schools.gov.sg</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">4E</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Yang Shu Han, Sophia</span><br>Mr Wong Chee Kuen (TSN (C))<br>Mdm Siti Zahidah</td>
-    <td class="tg-vc75"><span style="font-weight:400">yang_shu_han@schools.gov.sg</span><br><span style="font-weight:normal">wong_chee_kuen@schools.gov.sg</span><br><span style="font-weight:normal">siti_zahidah_suhaimi@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
