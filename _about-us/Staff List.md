@@ -38,18 +38,18 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">1C</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Lee Yian Ping, Emily</span><br><span style="font-weight:400">Mdm Nur Anamaria Bte Mohamed Amin</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">lee_yian_ping@schools.gov.sg</span><br><span style="font-weight:400">nur_anamaria_mohamed_ami@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Jennifer Lum</span><br><span style="font-weight:400">Mdm Haji Noor Jainub Begam</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">neo_qingxia_jennifer@schools.gov.sg</span><br><span style="font-weight:400">haji_noor_jainub_begam@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">1D</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Toh Sock Ruan, Sharon (TSN (T))</span><br><span style="font-weight:400">Mdm Lim Lee Choon</span></td>
-    <td class="tg-vc75"><span style="font-weight:normal">toh_sock_ruan@schools.gov.sg</span><br><span style="font-weight:400">lim_lee_choon@schools.gov.sg</span><br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Lynette Ho Su-Shien </span><br><span style="font-weight:400">Ms Li Hui, Ivy</span></td>
+    <td class="tg-vc75"><span style="font-weight:normal">ho_su_shien_lynette@schools.gov.sg</span><br><span style="font-weight:400">li_hui_a@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-7yig">1E</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Ernie Ennor Bte Razali</span><br><span style="font-weight:normal">Ms Chanel Neo Wen Fang</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">ernie_ennor_razali@schools.gov.sg</span><br><span style="font-weight:400">chanel_neo_wen_fang@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Teng Ling Ling</span><br><span style="font-weight:normal">Mdm Ng Hui Mei</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">teng_ling_ling@schools.gov.sg</span><br><span style="font-weight:400">ng_hui_mei@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">1F</td>
