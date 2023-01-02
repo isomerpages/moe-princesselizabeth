@@ -162,8 +162,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3R</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin (ST MA)</span><br><span style="font-weight:400">Mrs Jolene Ong Yip Jia Min</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">aw_mui_sin@schools.gov.sg</span><br>yip_jia_min_jolene@schools.gov.sg</td>
+    <td class="tg-vc75"><span style="font-weight:400">Mr Samuel Chong Jun Quan (Level Coordinator)</span><br><span style="font-weight:400">Mdm Ng Jia Le</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">chong_junquan_samuel@schools.gov.sg</span><br>ng_jia_le@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
