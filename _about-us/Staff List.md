@@ -147,7 +147,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3S</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja Aridass</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
     <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span><br><span style="font-weight:400">norfidah_othman@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -288,23 +288,23 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-baqh">6A</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mrs Poongkodi Muthu (TL Co-ord / TSN (C))</span><br><span style="font-weight:400">Ms Chua Xin Rong (SH SWB / TSN (C))</span><br></td>
-    <td class="tg-1yq8"><span style="font-weight:400">t_poongkodi@schools.gov.sg</span><br><span style="font-weight:400">chua_xin_rong@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Ms Noorhirdawati Bte Buang (Level Coordinator)</span><br><span style="font-weight:400">Mr Aaron Chan Jit Ming (LH PE/CCA)</span><br><span style="font-weight:400">Ms Ms Chanel Neo Wen Fang</span><br></td>
+    <td class="tg-1yq8"><span style="font-weight:400">noorhirdawati_buang@schools.gov.sg</span><br><span style="font-weight:400">chan_jit_ming@schools.gov.sg</span><br><span style="font-weight:400">chanel_neo_wen_fang@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6S</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mrs Jeslyn Loh-Ho Li Jun (LH Sci)</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">ho_li_jun_jeslyn@schools.gov.sg</span><br><span style="font-weight:400">norfidah_othman@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Mdm Cheng Mee Eng (LT MA)</span><br><span style="font-weight:400">Mrs Joline Tan Hui Qi</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">cheng_mee_eng@schools.gov.sg</span><br><span style="font-weight:400">tan_hui_qi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6P</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mrs Ng-Lau Bak Eng (LV Co-ord)</span><br><span style="font-weight:400">Mrs Chin Chwee Tin - Chua Chwee Tin (LH MA)</span><br></td>
-    <td class="tg-1yq8"><span style="font-weight:400">lau_bak_eng@schools.gov.sg</span><br><span style="font-weight:400">chua_chwee_tin@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Mr Mahmud Bin Ahmad</span><br><span style="font-weight:400">Ms Rena Lim Yung Chi</span><br></td>
+    <td class="tg-1yq8"><span style="font-weight:400">mahmud_ahmad@schools.gov.sg</span><br><span style="font-weight:400">rena_lim_yung_chi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6I</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Ms Chin Sau Lai (LH EL/MRL)</span><br><span style="font-weight:400">Ms Gui Wan Yi  </span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">chin_sau_lai@schools.gov.sg</span><br><span style="font-weight:400">gui_wan_yi@schools.gov.sg</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">Ms See Yan Ting, Dionne</span><br><span style="font-weight:400">Mdm Fadhillah Bte Md Hussin (ML Coordinator)</span><br><span style="font-weight:400">Ms Teresa Maria Lee Dan Lin (SSD)</span></td>
+    <td class="tg-1yq8"><span style="font-weight:400">see_yan_ting_dionne@schools.gov.sg</span><br><span style="font-weight:400">fadhillah_md_hussin@schools.gov.sg</span><br><span style="font-weight:400">d</span></td>
   </tr>
   <tr>
     <td class="tg-baqh">6R</td>
