@@ -142,13 +142,13 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7yig">3A</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Tang Jia Min</span><br><span style="font-weight:400">Mdm Sanmuga Malar d/o Rathakrishna (LT EL)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">tang_jia_min@schools.gov.sg</span><br><span style="font-weight:400">sanmuga_malar_rathakrishna@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Tabitha Tan</span><br><span style="font-weight:400">Mr Mohd Adib Bin Suhiat (ST PE)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">tan_ying_xiu@schools.gov.sg</span><br><span style="font-weight:400">mohd_adib_b_suhiat@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3S</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mr Khor Lee Chiang (TSN (C))</span><br><span style="font-weight:400">Ms Chung Kai Sin</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">khor_lee_chiang@schools.gov.sg</span><br><span style="font-weight:400">chung_kai_sin@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span><br><span style="font-weight:400">norfidah_othman@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3P</td>
