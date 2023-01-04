@@ -217,157 +217,135 @@ description: ""
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-1yq8{color:#5C0B0C;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-a4yv">Class</th>
-    <th class="tg-a4yv">Name of Teacher</th>
-    <th class="tg-a4yv">Email Address</th>
+    <th>Class</th>
+    <th>Name of Teacher</th>
+    <th>Email Address</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh">6A</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Ms Noorhirdawati Bte Buang (Level Coordinator)</span><br><span style="font-weight:400">Mr Aaron Chan Jit Ming (LH PE/CCA)</span><br><span style="font-weight:400">Ms Ms Chanel Neo Wen Fang</span><br></td>
-    <td class="tg-1yq8"><span style="font-weight:400">noorhirdawati_buang@schools.gov.sg</span><br><span style="font-weight:400">chan_jit_ming@schools.gov.sg</span><br><span style="font-weight:400">chanel_neo_wen_fang@schools.gov.sg</span></td>
+    <td>6A</td>
+    <td>Ms Noorhirdawati Bte Buang (Level Coordinator)<br>Mr Aaron Chan Jit Ming (LH PE/CCA)<br>Ms Ms Chanel Neo Wen Fang<br></td>
+    <td>noorhirdawati_buang@schools.gov.sg<br>chan_jit_ming@schools.gov.sg<br>chanel_neo_wen_fang@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6S</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mdm Cheng Mee Eng (LT MA)</span><br><span style="font-weight:400">Mrs Joline Tan Hui Qi</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">cheng_mee_eng@schools.gov.sg</span><br><span style="font-weight:400">tan_hui_qi@schools.gov.sg</span></td>
+    <td>6S</td>
+    <td>Mdm Cheng Mee Eng (LT MA)<br>Mrs Joline Tan Hui Qi</td>
+    <td>cheng_mee_eng@schools.gov.sg<br>tan_hui_qi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6P</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mr Mahmud Bin Ahmad</span><br><span style="font-weight:400">Ms Rena Lim Yung Chi</span><br></td>
-    <td class="tg-1yq8"><span style="font-weight:400">mahmud_ahmad@schools.gov.sg</span><br><span style="font-weight:400">rena_lim_yung_chi@schools.gov.sg</span></td>
+    <td>6P</td>
+    <td>Mr Mahmud Bin Ahmad<br>Ms Rena Lim Yung Chi<br></td>
+    <td>mahmud_ahmad@schools.gov.sg<br>rena_lim_yung_chi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6I</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Ms See Yan Ting, Dionne</span><br><span style="font-weight:400">Mdm Fadhillah Bte Md Hussin (ML Coordinator)</span><br><span style="font-weight:400">Ms Teresa Maria Lee Dan Lin (SSD)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">see_yan_ting_dionne@schools.gov.sg</span><br><span style="font-weight:400">fadhillah_md_hussin@schools.gov.sg</span><br><span style="font-weight:400">teresa_maria_lee_dan@schools.gov.sg</span></td>
+    <td>6I</td>
+    <td>Ms See Yan Ting, Dionne<br>Mdm Fadhillah Bte Md Hussin (ML Coordinator)<br>Ms Teresa Maria Lee Dan Lin (SSD)</td>
+    <td>see_yan_ting_dionne@schools.gov.sg<br>fadhillah_md_hussin@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6R</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Ms Lee Hui Ling, Felicia</span><br><span style="font-weight:400">Ms Jiang Yanyan (ST CL)</span><br><span style="font-weight:400">Ms Yeo Suan Shih (HOD MA)</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">lee_hui_ling_felicia@schools.gov.sg</span><br><span style="font-weight:400">jiang_yanyan@schools.gov.sg</span><br><span style="font-weight:400">yeo_suan_shih@schools.gov.sg</span></td>
+    <td>6R</td>
+    <td>Ms Lee Hui Ling, Felicia<br>Ms Jiang Yanyan (ST CL)<br>Ms Yeo Suan Shih (HOD MA)</td>
+    <td>lee_hui_ling_felicia@schools.gov.sg<br>jiang_yanyan@schools.gov.sg<br>yeo_suan_shih@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6E</td>
-    <td class="tg-1yq8"><span style="font-weight:400">Mdm Roselinda Bte Mahat</span><br><span style="font-weight:400">Mr Wong Chee Kuen</span></td>
-    <td class="tg-1yq8"><span style="font-weight:400">roselinda_mahat@schools.gov.sg</span><br><span style="font-weight:400">wong_chee_kuen@schools.gov.sg</span></td>
+    <td>6E</td>
+    <td>Mdm Roselinda Bte Mahat<br>Mr Wong Chee Kuen</td>
+    <td>roselinda_mahat@schools.gov.sg<br>wong_chee_kuen@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-84ol{border-color:inherit;color:#5C0B0C;text-align:left;vertical-align:top}
-.tg .tg-kpb2{background-color:#DDD;border-color:inherit;color:#666;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-xod5{background-color:#dddddd;border-color:inherit;color:#333333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-kpb2" colspan="3">Name of Teacher</th>
-    <th class="tg-xod5"><span style="font-weight:bold">Email Address</span></th>
+    <th colspan="3">Name of Teacher</th>
+    <th>Email Address</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD English</td>
-    <td class="tg-84ol">Mdm Dalvindar Kaur</td>
-    <td class="tg-84ol">dalvindar_kaur@schools.gov.sg    </td>
+    <td colspan="2">HOD English</td>
+    <td>Mdm Dalvindar Kaur</td>
+    <td>dalvindar_kaur@schools.gov.sg</td>
   </tr>
   <tr>
-<td class="tg-c3ow" colspan="2">HOD Mathematics</td>
-    <td class="tg-84ol">Ms Yeo Suan Shih</td>
-    <td class="tg-84ol">yeo_suan_shih@schools.gov.sg</td>
+    <td colspan="2">HOD Mathematics</td>
+    <td>Ms Yeo Suan Shih</td>
+    <td>yeo_suan_shih@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD Science</td>
-    <td class="tg-84ol">Mdm Nur Hazreen Binte Subadar</td>
-    <td class="tg-84ol">nur_hazreen_subadar@schools.gov.sg</td>
+    <td colspan="2">HOD Science</td>
+    <td>Mdm Nur Hazreen Binte Subadar</td>
+    <td>nur_hazreen_subadar@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD MTL</td>
-    <td class="tg-84ol">Miss Yew Hui Tin</td>
-    <td class="tg-84ol">yew_hui_tin@schools.gov.sg</td>
+    <td colspan="2">HOD MTL</td>
+    <td>Miss Yew Hui Tin</td>
+    <td>yew_hui_tin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD ICT &amp; Innovation</td>
-    <td class="tg-84ol"><span style="font-weight:400">Mrs Marselyn Jonatan</span></td>
-    <td class="tg-84ol"><span style="font-weight:400">marselyn_prakarsah@schools.gov.sg</span></td>
+    <td colspan="2">HOD ICT &amp; Innovation</td>
+    <td>Mrs Marselyn Jonatan</td>
+    <td>marselyn_prakarsah@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD CCE</td>
-    <td class="tg-84ol">Ms Shanthi Govindasamy</td>
-    <td class="tg-84ol">shanthi_govindasamy@schools.gov.sg</td>
+    <td colspan="2">HOD CCE</td>
+    <td>Ms Shanthi Govindasamy</td>
+    <td>shanthi_govindasamy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD Discipline/ Student Management</td>
-    <td class="tg-84ol">Ms Sonia Lee Lu Mei </td>
-    <td class="tg-84ol">lee_lu_mei@schools.gov.sg<span style="font-weight:bold;color:#5C0B0C"> </span></td>
+    <td colspan="2">HOD Discipline/ Student Management</td>
+    <td>Ms Sonia Lee Lu Mei</td>
+    <td>lee_lu_mei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">HOD PE/CCA/Aesthetics</td>
-    <td class="tg-84ol">Mr Zaid Bin Rasid</td>
-    <td class="tg-84ol">zaid_rasid@schools.gov.sg</td>
+    <td colspan="2">HOD PE/CCA/Aesthetics</td>
+    <td>Mr Zaid Bin Rasid</td>
+    <td>zaid_rasid@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">School Staff Developer</td>
-    <td class="tg-84ol">Ms Teresa Maria Lee Dan Lin</td>
-    <td class="tg-84ol">teresa_maria_lee_dan@schools.gov.sg</td>
+    <td colspan="2">School Staff Developer</td>
+    <td>Ms Teresa Maria Lee Dan Lin</td>
+    <td>teresa_maria_lee_dan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">Year Head-Upper Primary</td>
-    <td class="tg-84ol">Mdm Kamisah Bte Salleh</td>
-    <td class="tg-84ol">kamisah_salleh@schools.gov.sg</td>
+    <td colspan="2">Year Head-Upper Primary</td>
+    <td>Mdm Kamisah Bte Salleh</td>
+    <td>kamisah_salleh@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">Year Head-Middle Primary</td>
-    <td class="tg-84ol">Mrs Puspalatha Saravanan </td>
-    <td class="tg-84ol">puspalatha_saravanan@schools.gov.sg</td>
+    <td colspan="2">Year Head-Middle Primary</td>
+    <td>Mrs Puspalatha Saravanan</td>
+    <td>puspalatha_saravanan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">Year Head-Lower Primary</td>
-    <td class="tg-84ol">Mdm Kwan Yue Hua </td>
-    <td class="tg-84ol">kwan_yue_hua@schools.gov.sg</td>
+    <td colspan="2">Year Head-Lower Primary</td>
+    <td>Mdm Kwan Yue Hua</td>
+    <td>kwan_yue_hua@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-9wq8" colspan="2">SEN Officer</td>
-    <td class="tg-84ol">Miss Yap Soo Ting</td>
-    <td class="tg-84ol">yap_soo_ting@schools.gov.sg</td>
+    <td colspan="2">SEN Officer</td>
+    <td>Miss Yap Soo Ting</td>
+    <td>yap_soo_ting@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-9wq8" colspan="2"> SEN Officer  <br></td>
-    <td class="tg-84ol">Mdm Nadiyah Bte Suhaimi</td>
-    <td class="tg-84ol">nadiyah_suhaimi@schools.gov.sg</td>
+    <td colspan="2">SEN Officer<br></td>
+    <td>Mdm Nadiyah Bte Suhaimi</td>
+    <td>nadiyah_suhaimi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-9wq8" colspan="2"> SEN Officer  <br></td>
-    <td class="tg-84ol">Mdm Nur Sabrina Bte Abdul Shukur</td>
-    <td class="tg-84ol">nur_sabrina_abdul_shukur@schools.gov.sg</td>
+    <td colspan="2">SEN Officer<br></td>
+    <td>Mdm Nur Sabrina Bte Abdul Shukur</td>
+    <td>nur_sabrina_abdul_shukur@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-c3ow" colspan="2">School Counsellor</td>
-    <td class="tg-84ol">Miss Audrey Ang Poh Sin</td>
-    <td class="tg-84ol">ang_poh_sin_audrey@schools.gov.sg    </td>
+    <td colspan="2">School Counsellor</td>
+    <td>Miss Audrey Ang Poh Sin</td>
+    <td>ang_poh_sin_audrey@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
