@@ -81,7 +81,7 @@ description: ""
   </tr>
   <tr>
     <td>2D</td>
-    <td>Mdm Nah Min Yee Fiona<br>Mdm Lim Lee Choon<br>Mdm Dalvindar Kaur (HOD English)<br></td>
+    <td>Mrs Fiona Soh<br>Mdm Lim Lee Choon<br>Mdm Dalvindar Kaur (HOD English)<br></td>
     <td>nah_min_yee_fiona@schools.gov.sg<br>lim_lee_choon@schools.gov.sg<br>dalvindar_kaur@schools.gov.sg<br></td>
   </tr>
   <tr>
