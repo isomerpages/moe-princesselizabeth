@@ -9,7 +9,7 @@ description: ""
 
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -53,10 +53,11 @@ description: ""
   </tr>
 </tbody>
 </table>
+<br>
 
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -100,10 +101,10 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -137,10 +138,10 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -175,9 +176,10 @@ description: ""
 </tbody>
 </table>
 
+<br>
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -216,10 +218,10 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -258,10 +260,10 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 <table>
 <thead>
-  <tr>
+  <tr bgcolor= "grey">
     <th colspan="3">Name of Teacher</th>
     <th>Email Address</th>
   </tr>
