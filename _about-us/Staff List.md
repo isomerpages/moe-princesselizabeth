@@ -148,7 +148,7 @@ description: ""
   <tr>
     <td class="tg-7yig">3S</td>
     <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja Aridass</span><br><span style="font-weight:400">Mrs Toh Gek Huay</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span><br><span style="font-weight:400">toh_gek_huay@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">shailaja_aridass@schools.gov.sg</span><br><span style="font-weight:400">toh_gek_huay@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3P</td>
@@ -242,7 +242,7 @@ description: ""
   <tr>
     <td class="tg-7yig">5S</td>
     <td class="tg-vc75">Mrs Ng-Lau Bak Eng (Level Coordinator)<br>Mdm Fazeelah<br></td>
-    <td class="tg-vc75"><span style="font-weight:400">lau_bak_eng@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">lau_bak_eng@schools.gov.sg</span><br><span style="font-weight:400">fazeelah_khan_pate_khan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">5P</td>
