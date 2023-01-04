@@ -147,13 +147,13 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">3S</td>
-    <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja Aridass</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span><br><span style="font-weight:400">norfidah_othman@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Ms Kek Poh Poh, Belle</span><br><span style="font-weight:400">Ms Shailaja Aridass</span><br><span style="font-weight:400">Mrs Toh Gek Huay</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">kek_poh_poh@schools.gov.sg</span><br><span style="font-weight:400">(update in progress)</span><br><span style="font-weight:400">toh_gek_huay@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3P</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mdm Yang Shu Han, Sophia</span><br><span style="font-weight:400">Mr Cheak Hai Joon</span><br><span style="font-weight:400">Mrs Toh Gek Huay</span></td>
-    <td class="tg-vc75"><span style="font-weight:400">yang_shu_han@schools.gov.sg</span><br><span style="font-weight:400">cheak_hai_joon@schools.gov.sg</span><br><span style="font-weight:400">toh_gek_huay@schools.gov.sg</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mdm Yang Shu Han, Sophia</span><br><span style="font-weight:400">Mr Cheak Hai Joon</span><br><span style="font-weight:400">Mdm Norfidah Bte Othman (ST ML)</span></td>
+    <td class="tg-vc75"><span style="font-weight:400">yang_shu_han@schools.gov.sg</span><br><span style="font-weight:400">cheak_hai_joon@schools.gov.sg</span><br><span style="font-weight:400">norfidah_othman@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-7yig">3I</td>
@@ -209,7 +209,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-7yig">4R</td>
-    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin</span><br><span style="font-weight:400">Mrs Jolene Ong - Yip Jia Min<br></td>
+    <td class="tg-vc75"><span style="font-weight:400">Mrs Alice Wee-Aw Mui Sin (ST MA)</span><br><span style="font-weight:400">Mrs Jolene Ong - Yip Jia Min<br></td>
     <td class="tg-vc75"><span style="font-weight:normal">aw_mui_sin@schools.gov.sg</span><br><span style="font-weight:normal">yip_jia_min_jolene@schools.gov.sg</span><br></td>
   </tr>
 </tbody>
