@@ -3,9 +3,9 @@ title: Student Well Being and Discipline
 permalink: /our-curriculum/student-well-being-and-discipline
 description: ""
 ---
-### Subject Head  
+### Head of Department
 
-Ms Lee Lu Mei Sonia (Discipline)   
+Ms Lee Lu Mei Sonia (Student Management)   
 
 ### Subject Head
 
