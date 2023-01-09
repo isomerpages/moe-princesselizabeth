@@ -1,15 +1,16 @@
 ---
 title: Mathematics
-permalink: /our-curriculum/mathematics
+permalink: /our-curriculum/mathematics/
 description: ""
 ---
+### Head of Department
+Ms Yeo Suan Shih
+
 ### Level Head  
-Mrs Chin Chwee Tin
+Mrs Chin Chwee Tin and Ms Yap Shu Jun
 
 ### Lead Teacher  
 Mdm Cheng Mee Eng
-
-  
 
 ### Senior Teacher
 Mrs Alice Wee (Mdm Aw Mui Sin)
@@ -30,18 +31,18 @@ To provide meaningful learning experiences that nurture students' confidence and
 
 ### AIMS OF PRIMARY MATHEMATICS SYLLABUS
 
-*   Acquire mathematical concepts and skills for everyday use and continuous learning in mathematics;  
+*   Acquire **mathematical concepts and skills for everyday use** and **continuous learnin**g in mathematics;  
     
-*   Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving;  
+*   **Develop thinking, reasoning, communication, application and metacognitive skills** through a mathematical approach to **problem solving**;  
     
-*   Build confidence and foster interest in Mathematics  
+*   **Build confidence** and **foster interest** in Mathematics.  
     
 
-### THE MATHEMATICS FRAMEWORK (2021 SYLLABUS)
+### THE MATHEMATICS FRAMEWORK
 
 ![](/images/math1.jpg)
 
-### SIGNATURE PROGRAMMES
+### Key Programmes
 
 ![](/images/math2.jpg)
 
