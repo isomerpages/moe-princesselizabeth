@@ -47,7 +47,7 @@ Students’ positive behaviours are regularly observed, intentionally reinforced
 
 <center>Core Value Champion Cards</center>
 
-Apart from the aforementioned, the school also puts in place the Annual Award Presentation Ceremony to recognise students for their hard work, effort, grit and success in all that they undertake.
+Apart from the aforementioned, the school’s annual Award Presentation Ceremony (APC) is another platform to recognise students for their hard work, effort, grit and success in all that they undertake.
 
 ### Peer Support and Relationships  
 Positive peer relationships facilitate the provision of care, a sense of belonging amongst students, as well as the building of resilience. Aligned to our school mission, ‘Together, we nurture and inspire an inclusive spirit’, our students develop the values of Empathy and Respect for one another through the active involvement in school initiatives and programmes which promote and drive Peer Support and Relationships (PSR) efforts.
