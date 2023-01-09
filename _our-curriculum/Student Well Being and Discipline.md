@@ -35,15 +35,13 @@ In Princess Elizabeth Primary School, if students have erred, the teachers would
 
 ### Teacher-Student Relationship (TSR)  
 
-Form teachers and co-form teachers have face-to-face interaction with students on a one-to-one basis before/after lessons/during FTGP lessons to promote Teacher Student Relationship (TSR). During the session, the form teachers and the co-form teachers have one-to-one interaction to build quality teacher-student relationship through in-depth knowledge of every student. Through TSR, teachers are also able to identify students’ needs and nurture their character traits, dispositions and attitudes. TSR is also conducted during FTGP lessons.
+Form Teachers have face-to-face interactions with students on a one-to-one basis before or after lessons and during Form Teacher Guidance Periods (FTGP) to promote Teacher Student Relationship (TSR). Form Teachers have one-to-one interactions to build quality teacher-student relationships by getting to know every student better. Teachers are also able to identify students’ needs and nurture their character traits, dispositions, and attitudes.
 
 ### Student Recognition  
 
-PEPS, being the COE for Character Development, works towards developing in our students Character Excellence. Good character is built little by little, day by day, through everyday lived experiences and it requires every child to put in effort to be mindful of their word and deed consistently in different situations.
-
-Aligned to our Student Wellbeing Framework, Student Recognition serves to **affirm** our students’ effort in living out the school’s A.S.P.I.R.E values and using them to guide them in making fine decisions and exhibiting positive behaviours daily.
-
-Students’ positive behaviours are regularly noticed, **intentionally reinforced** and celebrated by their teachers through many ways e.g. verbal and written specific praises. On a termly basis, students are also identified as Core Value Champions. They take home proudly the Core Value Champion Badges and Cards which contain words of affirmations written by their teachers, to share them with their family and friends. At the class level, stories of how these Core Value Champions demonstrated the A.S.P.I.R.E values are also read aloud to inspire and motivate their peers to work towards Character Excellence.
+PEPS, being the Centre of Excellence (COE) for Character Development, works towards developing character excellence in our students. Good character is built little by little, day by day, through everyday lived experiences and it requires every child to put in effort to be mindful of their words and deeds consistently in different situations.
+Aligned to our Student Well-being Framework, Student Recognition serves to affirm our students’ efforts in living out the school’s A.S.P.I.R.E values and using them to guide them in making right decisions and exhibiting positive behaviours daily.
+Students’ positive behaviours are regularly observed, intentionally reinforced and celebrated by their teachers through many ways such as verbal and written specific praises. On a termly basis, students are also identified as Core Value Champions. They take home proudly the Core Value Champion Badges and Cards which contain words of affirmations written by their teachers, to share them with their family and friends. At the class level, a ‘STAR’ pupil of the term will be identified as well.
 
 ![](/images/core%20value%20champion%20cards.png)
 
