@@ -1,15 +1,11 @@
 ---
 title: Student Well Being and Discipline
-permalink: /our-curriculum/student-well-being-and-discipline
+permalink: /our-curriculum/student-well-being-and-discipline/
 description: ""
 ---
 ### Head of Department
 
 Ms Lee Lu Mei Sonia (Student Management)   
-
-### Subject Head
-
-Ms Chua Xin Rong (Student Well-Being) 
 
  
 ### Student Discipline & Well-being
