@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /our-curriculum/english-language
+permalink: /our-curriculum/english-language/
 description: ""
 ---
 ### Head Of Department
@@ -20,7 +20,6 @@ Mdm Sanmuga Malar
 ### Senior Teacher  
 
 Miss Goh Ser Ling Nicole <br>
-Mrs Susan Kwan
 
 ### Vision
 
