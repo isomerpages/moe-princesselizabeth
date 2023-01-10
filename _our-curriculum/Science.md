@@ -56,6 +56,7 @@ To extend their learning of plants and plat parts beyond the classroom, our P4 s
 
 P5 students observe, touch and feel a variety of plants and plant parts, as part of outdoor experiential learning. They also learn more about the life cycles of a variety of plants and the reproductive system of plants. 
 ![](/images/2023%20Sci/Picture8.jpg)
+
 ![](/images/2023%20Sci/Picture9.jpg)
 
 **P6 Virtual Learning Journey to Sungei Buloh**
