@@ -1,15 +1,15 @@
 ---
 title: ICT & Innovation
-permalink: /our-curriculum/ict-innovation
+permalink: /our-curriculum/ict-innovation/
 description: ""
 ---
 ### Head Of Department
 
 Mrs Marselyn Jonatan 
 
-### Subject Heaad  
+### Subject Head  
 
-Mr Shahroom
+Mr Shahroom Noor
 
 ### Vision
 
