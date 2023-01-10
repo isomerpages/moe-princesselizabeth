@@ -31,18 +31,18 @@ S.T.E.M Fest, a collaborative programme by the Mathematics and Science departmen
 
 With the relaxation of SMM, S.T.E.M Fest 2.0, Refreshed! returned in 2022 and was designed and implemented to provide students with the opportunity to engage in face-to-face physical STEM activities. 
 
+![](/images/2023%20Sci/Picture1.jpg)
 
-![](/images/Picture1-1.png)
-![](/images/science2.png)
-![](/images/science3.png)
+![](/images/2023%20Sci/Picture2.jpg)
 
+![](/images/2023%20Sci/Picture3.jpg)
 ###### Science Learning Journey
 
 Learning journeys allow pupils’ learning to be extended beyond the classroom, where real-life experiences can help pupils relate concepts learnt to situations they observe in the surrounding.
 
 ###### P3 Virtual Learning Journey to River Safari
 
-![](/images/zoo.png)
+
 
 
 Our P3 students engaged in a virtual learning journey to The River Safari to find out more ar
@@ -54,7 +54,6 @@ In a live Zoom session with the River Safari facilitator, students explored the 
 
 ###### P4 Learning Journey to Gardens By The Bay
 To extend their learning of plants and plat parts beyond the classroom, our P4 students go on a learning journey to Gardens By The Bay to observe a variety of plants and observe for similarities and differences among them.
-![](/images/gbtb.png)
 
 ###### P5 Learning Journey to Singapore Botanic Garden
 
