@@ -32,11 +32,12 @@ With the relaxation of SMM, S.T.E.M Fest 2.0, Refreshed! returned in 2022 and wa
 ![](/images/2023%20Sci/Picture2.jpg)
 
 ![](/images/2023%20Sci/Picture3.jpg)
-###### Science Learning Journey
+
+**Science Learning Journey** 
 
 Learning journeys allow pupils’ learning to be extended beyond the classroom, where real-life experiences can help pupils relate concepts learnt to situations they observe in the surrounding.
 
-###### P3 Virtual Learning Journey to River Safari
+ **P3 Virtual Learning Journey to River Safari**
 
 Our P3 students engaged in a virtual learning journey to extend their learning of the animals classified into different groups. 
 In a live Zoom session with the River Safari facilitator, students explored the movements of different animals and learnt about the characteristics of the different groups of animals, including mammals and reptiles. Students were also given the task of building cardboard models of animals as part of the hands-on activity during the virtual learning journey.
@@ -44,16 +45,20 @@ In a live Zoom session with the River Safari facilitator, students explored the 
 ![](/images/2023%20Sci/Picture4.jpg)
 
 ![](/images/2023%20Sci/Picture5.jpg)
-###### P4 Learning Journey to Gardens By The Bay
+
+**P4 Learning Journey to Gardens By The Bay**
+
 To extend their learning of plants and plat parts beyond the classroom, our P4 students go on a learning journey to Gardens By The Bay to observe a variety of plants and observe for similarities and differences among them.
 
 ![](/images/2023%20Sci/Picture6.jpg)
-###### P5 Learning Journey to Singapore Botanic Garden
+
+**P5 Learning Journey to Singapore Botanic Garden**
 
 P5 students observe, touch and feel a variety of plants and plant parts, as part of outdoor experiential learning. They also learn more about the life cycles of a variety of plants and the reproductive system of plants. 
 ![](/images/2023%20Sci/Picture8.jpg)
 ![](/images/2023%20Sci/Picture9.jpg)
-###### P6 Virtual Learning Journey to Sungei Buloh
+
+**P6 Virtual Learning Journey to Sungei Buloh**
 
 Our P6 students go on a virtual tour to the Sungei Buloh Nature Reserve. The students learn about the conditions of a mangrove habitat and the variety of flora and fauna in a mangrove. They also learned about the behavioural and structural adaptations of plants and animals that help these living things cope and survive in the environment they live in. 
 ![](/images/2023%20Sci/Picture10.jpg)
