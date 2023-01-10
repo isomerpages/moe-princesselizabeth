@@ -24,5 +24,4 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
-  - resources: {}
 ---
