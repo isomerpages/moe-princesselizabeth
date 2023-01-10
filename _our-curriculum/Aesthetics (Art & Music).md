@@ -16,3 +16,7 @@ description: ""
 ![](/images/2023%20Aesthetics/picture6.png)
 
 ![](/images/2023%20Aesthetics/picture7.png)
+
+![](/images/2023%20Aesthetics/picture8.png)
+
+![](/images/2023%20Aesthetics/picture9.png)
