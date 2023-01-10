@@ -30,7 +30,7 @@ In order for students to fully benefit from a curriculum enriched by ICT, they a
 
 ### Technology in Teaching & Learning
 
-![](/images/ICT%201.png)
+![](/images/ICT%2011.png)
 
 ### Innovation
 
