@@ -16,7 +16,6 @@ Students will be scientific inquirers with a sense of curiosity for the environm
 To inculcate the spirit of scientific inquiry
 
 ### Approach
-
 **Inquiry-based Learning**
 
 Inquiry-based Learning (IBL) is adopted as a school-wide approach in the teaching and learning of Science. Students are taken through 5 key stages of learning in the 5E Instructional Model - Engage, Explore, Explain, Elaborate and Evaluate – as they discover and reinforce the learning of Science concepts. 
