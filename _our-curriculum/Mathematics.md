@@ -55,4 +55,3 @@ To provide meaningful learning experiences that nurture students' confidence and
 ![](/images/Maths%205.jpg)
 
 ![](/images/Maths%206.jpg)
-Mathematics Challenge
