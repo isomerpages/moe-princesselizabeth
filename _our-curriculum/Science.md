@@ -71,3 +71,4 @@ Clean Plates Campaign
 School-wide sharing on environmental awareness by our Junior Environmental Ambassadors.
 
 ![](/images/2023%20Sci/Picture14.jpg)
+![](/images/2023%20Sci/Picture15.jpg)
