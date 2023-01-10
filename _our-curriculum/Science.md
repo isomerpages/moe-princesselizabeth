@@ -1,80 +1,77 @@
 ---
 title: Science
-permalink: /our-curriculum/science
+permalink: /our-curriculum/science/
 description: ""
 ---
 ### Head Of Department  
-
 Mdm Nur Hazreen Bte Subadar  
 
+### Level Head
+Mrs Jeslyn Loh
 
 ### Vision
-
 Students will be scientific inquirers with a sense of curiosity for the environment.
 
 ### Mission
-
 To inculcate the spirit of scientific inquiry
 
-  
-
 ### Approach
-
 **Inquiry-based Learning**
 
-Inquiry-based Learning (IBL) is adopted as a school-wide approach in the teaching and learning of Science. Students are taken through 5 key stages of learning in the 5E Instructional Model - Engage, Explore, Explain, Elaborate and Evaluate – as they discover and reinforce the learning of Science concepts.  
-
+Inquiry-based Learning (IBL) is adopted as a school-wide approach in the teaching and learning of Science. Students are taken through 5 key stages of learning in the 5E Instructional Model - Engage, Explore, Explain, Elaborate and Evaluate – as they discover and reinforce the learning of Science concepts. 
   
-
-**Investigative Case-based Learning**
-
-Students learn and reinforce Science concepts as they engage in Investigative Case-based Learning (ICBL). Through ICBL, students develop 21st Century Competencies as they carry out investigative tasks based on cases set in familiar and realistic contexts.  
-
-  
-
 ### Key Programmes
+**S.T.E.M FEST**
 
-### Math & Science Festival
+S.T.E.M Fest, a collaborative programme by the Mathematics and Science departments, was first launched in 2021 and aims to promote awareness of Science, Technology, Engineering, Mathematics (STEM) ideas and provide students with opportunities for discovery of STEM concepts through fun and engaging hands-on activities.   
 
-The inaugural Math and Science STEM Fest was launched in July virtually via our very own personalised Google Site! Encouraging self-directed learning, it aims to expose our students to learning through hands-on exploration of S.T.E.M activities and questions posed.  
+With the relaxation of SMM, S.T.E.M Fest 2.0, Refreshed! returned in 2022 and was designed and implemented to provide students with the opportunity to engage in face-to-face physical STEM activities. 
 
+![](/images/2023%20Sci/Picture1.jpg)
 
-Following easing of safe management measures, students had opportunities to buzz their ideas with one another in the Innospace. They were guided by the demo videos played in there. With curiosities sparked, they completed the rest of the activity at home and shared their reflections on Padlet.
+![](/images/2023%20Sci/Picture2.jpg)
 
-![](/images/Picture1-1.png)
-![](/images/science2.png)
-![](/images/science3.png)
-
-### Science Learning Journey
+![](/images/2023%20Sci/Picture3.jpg)
+###### Science Learning Journey
 
 Learning journeys allow pupils’ learning to be extended beyond the classroom, where real-life experiences can help pupils relate concepts learnt to situations they observe in the surrounding.
 
-  
+###### P3 Virtual Learning Journey to River Safari
 
-### P3 Learning Journey to the Singapore Zoo
+Our P3 students engaged in a virtual learning journey to extend their learning of the animals classified into different groups. 
+In a live Zoom session with the River Safari facilitator, students explored the movements of different animals and learnt about the characteristics of the different groups of animals, including mammals and reptiles. Students were also given the task of building cardboard models of animals as part of the hands-on activity during the virtual learning journey.
 
-![](/images/zoo.png)
+![](/images/2023%20Sci/Picture4.jpg)
 
-### ### P3 Virtual Learning Journey to Singapore Zoo
-  
-Due to Safe Management Measures, a virtual Learning to Singapore Zoo was conducted for our P3 students. 
+![](/images/2023%20Sci/Picture5.jpg)
+###### P4 Learning Journey to Gardens By The Bay
+To extend their learning of plants and plat parts beyond the classroom, our P4 students go on a learning journey to Gardens By The Bay to observe a variety of plants and observe for similarities and differences among them.
 
-In a live Zoom session with the Singapore Zoo facilitator, students explored the movements of different animals and learnt about the characteristics of the mousedeer, the flying fox and the jungle nymph.
+![](/images/2023%20Sci/Picture6.jpg)
+###### P5 Learning Journey to Singapore Botanic Garden
 
-![](/images/virtual%20zoo.png)
+P5 students observe, touch and feel a variety of plants and plant parts, as part of outdoor experiential learning. They also learn more about the life cycles of a variety of plants and the reproductive system of plants. 
+![](/images/2023%20Sci/Picture8.jpg)
+![](/images/2023%20Sci/Picture9.jpg)
+###### P6 Virtual Learning Journey to Sungei Buloh
 
-### P4 Learning Journey to Gardens By The Bay
+Our P6 students go on a virtual tour to the Sungei Buloh Nature Reserve. The students learn about the conditions of a mangrove habitat and the variety of flora and fauna in a mangrove. They also learned about the behavioural and structural adaptations of plants and animals that help these living things cope and survive in the environment they live in. 
+![](/images/2023%20Sci/Picture10.jpg)
+#### Environmental Programmes
+A variety of environmental education programmes and activities aim to raise environmental awareness and inculcate environmentally-responsible habits in our students.
 
-![](/images/gbtb.png)
+* **Recycling Drives**
 
-### P6 Learning Journey to Sungei Buloh Wetland Reserve
+![](/images/2023%20Sci/Picture11.jpg)
 
-![](/images/P6%20sungei%20buloh.png)
+* **Clean Plates Campaign**
 
-### P6 Virtual Learning Journey to Sungei Buloh
+![](/images/2023%20Sci/Picture12.jpg)
 
-Due to the current pandemic situation, we brought our P6 students on a virtual tour to the Sungei Buloh Nature Reserve. The students learnt about the conditions of a Mangrove habitats and were introduced to the various living things there. They also learned about the behavioural and structural adaptations that help the living things cope and survive in the environment they live in. The P6 students enjoyed the interactive experience very much.
+![](/images/2023%20Sci/Picture13.jpg)
+      
+* **School-wide sharing on environmental awareness by our Junior Environmental Ambassadors.**
 
-![](/images/virtual%20learning%20journey1.png)
-![](/images/virtual%20learning%20journey2.png)
-![](/images/virtual%20learning%20journey3.png)
+![](/images/2023%20Sci/Picture14.jpg)
+
+![](/images/2023%20Sci/Picture15.jpg)
