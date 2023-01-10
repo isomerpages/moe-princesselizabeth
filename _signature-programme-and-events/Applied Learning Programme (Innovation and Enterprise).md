@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (Innovation and Enterprise)
-permalink: /signature-programme-and-events/applied-learning-programme-innovation-and-enterprise
+permalink: /signature-programme-and-events/applied-learning-programme-innovation-and-enterprise/
 description: ""
 ---
 ### Focus Area: Innovation and Enterprise  
@@ -17,9 +17,7 @@ Maker Enrichment effort in PEPS is featured, click [https://www.instagram.com/p
 * **Learning Our Values with Empathy (LOVE) Experience (PAL): P1 and P2**
 * **Learning Our Values with Empathy (LOVE) Experience (Project Work): P3 to P5**
 
-For more information on the LOVE Experience, click **[here](https://princesselizabethpri.moe.edu.sg/signature-programmes-n-events/learning-for-life-programme-student-leadership-n-via/values-in-action-via)**.  
 
-  
 Using Design Thinking approach, students interview their peers, school attendant, the canteen vendors or community members to find out more about their needs. Through this, students learn to empathise with their users and thereafter create interesting prototypes in order to meet the users' needs.   
 This enable students to connect classroom learning with real life-applications and evoke their curiosity in learning.
 
