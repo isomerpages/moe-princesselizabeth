@@ -18,4 +18,11 @@ sections:
         - title: Downloads
           description: ""
           url: /announcements-n-downloads/downloads/briefings-n-workshops
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources: {}
 ---
