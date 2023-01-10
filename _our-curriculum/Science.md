@@ -60,15 +60,15 @@ Our P6 students go on a virtual tour to the Sungei Buloh Nature Reserve. The stu
 #### Environmental Programmes
 A variety of environmental education programmes and activities aim to raise environmental awareness and inculcate environmentally-responsible habits in our students.
 
-Recycling Drives
+* **Recycling Drives**
 ![](/images/2023%20Sci/Picture11.jpg)
 
-Clean Plates Campaign
+* **Clean Plates Campaign**
 ![](/images/2023%20Sci/Picture12.jpg)
 
 ![](/images/2023%20Sci/Picture13.jpg)
       
-School-wide sharing on environmental awareness by our Junior Environmental Ambassadors.
+* **School-wide sharing on environmental awareness by our Junior Environmental Ambassadors.**
 
 ![](/images/2023%20Sci/Picture14.jpg)
 ![](/images/2023%20Sci/Picture15.jpg)
