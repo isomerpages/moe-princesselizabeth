@@ -28,6 +28,9 @@ Towards a school of active and physically competent individuals.
 
 To provide engaging learning experiences that inculcate values and the aspiration to participate and pursue an active and healthy lifestyle.
 
+![](/images/2023%20PE/Picture3.jpg)
+![](/images/2023%20PE/Picture2.jpg)
+![](/images/2023%20PE/Picture4.jpg)
 
 ### Our Key Programmes:
 
@@ -57,7 +60,9 @@ P4 - Frisbee <br>
 P5 - Tchoukball <br>
 P6 – Kinball 
 ![](/images/PE1.jpeg)
+
 ![](/images/PE2.jpeg)
+
 ![](/images/PE3.jpeg)
 
 
