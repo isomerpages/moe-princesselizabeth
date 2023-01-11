@@ -30,12 +30,16 @@ In order for students to fully benefit from a curriculum enriched by ICT, they a
 
 ### Technology in Teaching & Learning
 
-![](/images/ICT%201.png)
+![](/images/ICT%2011.png)
 
 ### Innovation
 
 To develop the next generation of future-ready innovators and encourage the development of 21CC, the school offers a range of engaging activities for all students that foster the value of empathy, spirit of creativity and inventive thinking skill. Through these activities, students are provided with the opportunity to synthesise and apply knowledge and skills from various areas of learning with real-life applications.
 
-![](/images/ICT2.png)
-![](/images/ICT3.png)
+![](/images/ICT%202.png)
+
+![](/images/ICT13.png)
+
+![](/images/ICT14.png)
+
 ![](/images/ICT4.png)
