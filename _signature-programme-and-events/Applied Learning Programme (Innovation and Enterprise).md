@@ -9,7 +9,7 @@ Using the inclusive design thinking approach in our ALP to foster in our student
 
 ![](/images/ALP-Innovation.jpg)
 
-Design Thinking effort in PEPS is feature in the media, click [https://www.straitstimes.com/singapore/parenting-education/design-is-not-just-a-job-its-a-way-of-thinking-lawrence-wong](https://www.straitstimes.com/singapore/parenting-education/design-is-not-just-a-job-its-a-way-of-thinking-lawrence-wong) to find out more. 
+Design Thinking effort in PEPS is feature in the media, click [https://www.straitstimes.com/singapore/parenting-education/design-is-not-just-a-job-its-a-way-of-thinking-lawrence-wong](https://www.straitstimes.com/singapore/parenting-education/design-is-not-just-a-job-its-a-way-of-thinking-lawrence-wong) and https://designsingapore.org/wp-content/uploads/2022/04/DEST-Call-For-Stories-E-book-FINAL.pdf to find out more. 
 
 Maker Enrichment effort in PEPS is featured, click [https://www.instagram.com/p/CcyrT7rvYqk/?igshid=YmMyMTA2M2Y=](https://www.instagram.com/p/CcyrT7rvYqk/?igshid=YmMyMTA2M2Y=) to find out more.
 
