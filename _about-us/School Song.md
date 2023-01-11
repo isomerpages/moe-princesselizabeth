@@ -1,12 +1,12 @@
 ---
 title: School Song
-permalink: /about-us/school-song
+permalink: /about-us/school-song/
 description: ""
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_E8QJOc5bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Princess Elizabeth Primary School  
-Now we hear you call.  
+Now we hear your call.  
 As members we will serve you  
 That teaches us all.  
 Never from the good we stray  
