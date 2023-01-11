@@ -28,7 +28,6 @@ Towards a school of active and physically competent individuals.
 
 To provide engaging learning experiences that inculcate values and the aspiration to participate and pursue an active and healthy lifestyle.
 
-![](/images/peps%20website%20graphics.png)
 
 ### Our Key Programmes:
 
@@ -55,7 +54,7 @@ Exposing students to sports beyond our PE curriculum.
 P1 and P2 - Kids Athletics  <br>
 P3 - Goal Ball <br>
 P4 - Frisbee <br>
-P5 - Tchukball <br>
+P5 - Tchoukball <br>
 P6 – Kinball 
 ![](/images/PE1.jpeg)
 ![](/images/PE2.jpeg)
