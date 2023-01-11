@@ -14,8 +14,8 @@ Design Thinking effort in PEPS is feature in the media, click [https://www.stra
 Maker Enrichment effort in PEPS is featured, click [https://www.instagram.com/p/CcyrT7rvYqk/?igshid=YmMyMTA2M2Y=](https://www.instagram.com/p/CcyrT7rvYqk/?igshid=YmMyMTA2M2Y=) to find out more.
 
 ### ALP Programme:
-* **Learning Our Values with Empathy (LOVE) Experience (PAL): P1 and P2**
-* **Learning Our Values with Empathy (LOVE) Experience (Project Work): P3 to P5**
+* **Learning Our Values through Empathy (LOVE) Experience (PAL): P1 and P2**
+* **Learning Our Values through Empathy (LOVE) Experience (Project Work): P3 to P5**
 
 
 Using Design Thinking approach, students interview their peers, school attendant, the canteen vendors or community members to find out more about their needs. Through this, students learn to empathise with their users and thereafter create interesting prototypes in order to meet the users' needs.   

@@ -15,8 +15,6 @@ Mr Shahroom Noor
 
 Enriching Education through ICT.
 
-  
-
 ### Mission
 
 To promote a pervasive ICT culture that develops 21st century competencies and nurtures self-directed and life-long learners.
@@ -41,5 +39,3 @@ To develop the next generation of future-ready innovators and encourage the deve
 ![](/images/ICT13.png)
 
 ![](/images/ICT14.png)
-
-![](/images/ICT4.png)
