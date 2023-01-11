@@ -28,6 +28,7 @@ Towards a school of active and physically competent individuals.
 
 To provide engaging learning experiences that inculcate values and the aspiration to participate and pursue an active and healthy lifestyle.
 
+![](/images/2023%20PE/Picture2.jpg)
 
 ### Our Key Programmes:
 
