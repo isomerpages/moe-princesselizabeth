@@ -60,7 +60,9 @@ P4 - Frisbee <br>
 P5 - Tchoukball <br>
 P6 – Kinball 
 ![](/images/PE1.jpeg)
+
 ![](/images/PE2.jpeg)
+
 ![](/images/PE3.jpeg)
 
 
