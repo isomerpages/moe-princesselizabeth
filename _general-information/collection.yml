@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Parent Volunteer.md
       - School Waitlist.md
       - Booklist 2023.md
       - ICT Matters/.keep
