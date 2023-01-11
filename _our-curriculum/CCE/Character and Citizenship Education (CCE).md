@@ -1,14 +1,16 @@
 ---
 title: Character and Citizenship Education (CCE)
-permalink: /our-curriculum/character-and-citizenship-education-cce
+permalink: /our-curriculum/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
 ---
-
-
 ### Head of Department
 
 Ms Shanthi Govindasamy
+
+### Level Head
+
+Mdm Faizlyana Binte Ismail
   
 ### Vision
 
@@ -30,7 +32,7 @@ Through the PEPS CCE key programmes, we aim to develop our students to be **mor
 
 **L**earning <br>
 **O**ur <br>
-**V**alues with <br>
+**V**alues through <br>
 **E**mpathy (LOVE)<br>
 Experience
 
@@ -41,7 +43,7 @@ Primary 1 to 5
 
   
 
-The Learning Our Values with Empathy (LOVE) Experience is the school’s Values-in-Action (VIA) programme that aims to develop servant leadership in Princess Elizabeth Primary School (PEPS) students via the value of empathy with emphasis on Awareness, Stewardship and Inclusivity. Adopting the Inclusive Design Thinking (IDT) process where they frame; empathize and define the problem for an identified group of the community, imagine; ideate plans to serve their needs, make; design and test solutions or prototype and share; present their solutions to the community, PEPS students have demonstrated better socio-emotional skills and this has resulted in a more enhanced social environment in class and in school.
+The Learning Our Values through Empathy (LOVE) Experience is the school’s Values-in-Action (VIA) programme that aims to develop servant leadership in Princess Elizabeth Primary School (PEPS) students via the value of empathy with emphasis on Awareness, Stewardship and Inclusivity. Adopting the Inclusive Design Thinking (IDT) process where they frame; empathize and define the problem for an identified group of the community, imagine; ideate plans to serve their needs, make; design and test solutions or prototype and share; present their solutions to the community, PEPS students have demonstrated better socio-emotional skills and this has resulted in a more enhanced social environment in class and in school.
 
 The LOVE Experience aims to create a positive impact on students’ wellbeing by empowering PEPS students to make a positive change that results in achievement and success. The programme also develops active citizenship in the students as they empathise and help targeted members of the community. The entire process of empathizing, applying their new knowledge and finally trying to address the needs of the target audience enables students to find their VIA learning journey meaningful.
 

@@ -1,16 +1,16 @@
 ---
 title: Values in Action (VIA)
-permalink: /signature-programme-and-events/Learning-for-Life-Programmes/Values-In-Action-VIA
+permalink: /signature-programme-and-events/Learning-for-Life-Programmes/Values-In-Action-VIA/
 description: ""
 third_nav_title: Learning for Life Programmes
 ---
 ### Head of Department
 
-Mdm Shanthi Govindasamy
+Ms Shanthi Govindasamy
 
-### Subject Head - Student Leadership & VIA
+### Level Head - CCE
 
-Ms Nur Diana Binte Abd Rahman
+Mdm Faizlyana Binte Ismail
 
 ### Values-in-Action (VIA)
 
@@ -46,7 +46,8 @@ As part of the deliverables, during those lessons, students created an item or p
 Primary 1: Elderly (School Cleaners and Grandparents)  <br>
 Primary 2: Hearing Loss / Hearing Impairment  <br>
 Primary 3: Vision Loss / Visual Impairment  <br>
-Primary 4: Dyslexia / Reading Difficulty
+Primary 4: Dyslexia / Reading Difficulty <br>
+Primary 5: Autism Spectrum Disorder 
 
 ### P1 LOVE Experience Deliverable: Light-Up Thank You Cards for our Elderly Cleaners
 
@@ -60,6 +61,15 @@ Primary 4: Dyslexia / Reading Difficulty
 
 ![](/images/VIA3.png)
 
+### Primary 5 LOVE Experience Background and Deliverable
+
+Princess Elizabeth Primary School has worked with our community partner, Eden School, on numerous occasions. In 2021, for the first time, both schools embarked on a pilot PEPS-Eden Satellite Partnership Book Project. In 2022, this project blossomed to become part of the school’s LOVE Experience. This wonderful opportunity is a VIA project by PEPS’ students for Eden’s students.
+For PEPS students, it aligns with our CCE (VIA), English and ICT domains. Our Primary 5 students and EL teachers have worked on producing a series of twelve English Picture Books in 2021 and 2022 for young children with Autism Spectrum Disorder (ASD) to help them cope with public etiquette and guide them in their daily activities. The twelve books cover six themes namely ‘Road Safety’, ‘Keeping Myself Clean’,‘Going to the NLB Library’ , ‘Planning A Party’, ‘Going to the Supermarket’  and ‘Making Payment at a Supermarket’. The students also value-added to the project by recording and producing an audio version of the books.
+
+![](/images/VIA6.png)
+
+![](/images/2023%20CCE/Picture1.png)
+
 ### Lower Primary Helping Hands @ Home
 
 In line with what they learn during their CCE lessons, it is encouraged that VIA for our lower primary students starts at home. Thus, we would like our students to help out at home and do something for their families by helping with some household chores.
@@ -69,13 +79,6 @@ Through this activity, we hope that our students will learn more about having e
 ![](/images/VIA4.png)
 ![](/images/VIA5.png)
 
-### PEPS-Eden Satellite Partnership E-Book Project
-
-Princess Elizabeth Primary School has worked with our community partner, Eden School, on numerous occasions. This year, for the first time, both schools are embarking on a pilot PEPS-Eden Satellite Partnership Book Project. This wonderful opportunity is a project by PEPS’ students for Eden’s students.
-
-For PEPS students, it aligns with our CCE (VIA), English and ICT domains. Our Primary 5 students and EL teachers worked on producing a series of six English Picture Books for young children with Autism Spectrum Disorder (ASD) to help them cope with public etiquette and guide them in their daily activities. The six books covers three themes namely ‘Road Safety’, ‘Keeping Myself Clean’ and ‘Going to the NLB Library’. The students also value-added to the project by recording and producing an audio version of the books.
-![](/images/VIA6.png)
-![](/images/VIA7.png)
 ### Cleaners’ Appreciation
 
 Each year, we collaborate with our Environmental Education (EE) Programme to acknowledge our cleaners for their hard work in keeping our school environment clean. This year, we know they worked extra hard amidst COVID-19 to help students and teachers manage the cleanliness of our school to keep everyone safe.
