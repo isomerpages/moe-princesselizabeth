@@ -68,7 +68,7 @@ For PEPS students, it aligns with our CCE (VIA), English and ICT domains. Our Pr
 
 ![](/images/VIA6.png)
 
-
+![](/images/2023%20CCE/Picture1.png)
 
 ### Lower Primary Helping Hands @ Home
 
