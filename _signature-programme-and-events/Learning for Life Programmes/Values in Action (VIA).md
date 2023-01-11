@@ -46,7 +46,7 @@ As part of the deliverables, during those lessons, students created an item or p
 Primary 1: Elderly (School Cleaners and Grandparents)  <br>
 Primary 2: Hearing Loss / Hearing Impairment  <br>
 Primary 3: Vision Loss / Visual Impairment  <br>
-Primary 4: Dyslexia / Reading Difficulty
+Primary 4: Dyslexia / Reading Difficulty <br>
 Primary 5: Autism Spectrum Disorder 
 
 ### P1 LOVE Experience Deliverable: Light-Up Thank You Cards for our Elderly Cleaners
