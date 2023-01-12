@@ -2,15 +2,15 @@ collections:
   signature-programme-and-events:
     output: true
     order:
-      - Signature Programmes & Events.md
+      - Applied Learning Programme (Innovation and Enterprise).md
       - Co Curriculum Activities (CCA).md
       - Learning for Life Programmes/.keep
       - Learning for Life Programmes/Learning for Life Programme (Student
         Leadership & VIA).md
       - Learning for Life Programmes/Student Leadership Development.md
       - Learning for Life Programmes/Values in Action (VIA).md
-      - Applied Learning Programme (Innovation and Enterprise).md
+      - Satellite Partnership.md
+      - Signature Programmes & Events.md
+      - Trips for Internationalisation Experience (TIE).md
       - West Zone Centre of Excellence in Character and Citizenship Education
         (WZ COE CCE).md
-      - Satellite Partnership.md
-      - Trips for Internationalisation Experience (TIE).md
