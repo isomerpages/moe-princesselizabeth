@@ -2,14 +2,21 @@ collections:
   general-information:
     output: true
     order:
-      - Parent Volunteer.md
-      - School Waitlist.md
+      - Appreciation for Our Staff.md
       - Booklist 2023.md
       - ICT Matters/.keep
       - ICT Matters/Teaching and Learning Websites.md
       - ICT Matters/Student iCon.md
       - ICT Matters/School Online Based Helpline.md
       - ICT Matters/Student Learning Space.md
+      - Information for Parents/.keep
+      - Information for Parents/Homework Policy.md
+      - Information for Parents/Information for Parents.md
+      - Information for Parents/School Curriculum Hours.md
+      - Information for Parents/Insurance Coverage.md
+      - Information for Parents/Parents Gateway.md
+      - Parent Volunteer.md
+      - School Calendar.md
       - School Services/.keep
       - School Services/Books Supplier.md
       - School Services/Uniform Supplier.md
@@ -17,11 +24,4 @@ collections:
       - School Services/School Bus Service.md
       - School Services/School Dental Clinic.md
       - School Services/Big Heart Student Care.md
-      - Information for Parents/Homework Policy.md
-      - Information for Parents/.keep
-      - Information for Parents/Information for Parents.md
-      - Information for Parents/School Curriculum Hours.md
-      - Information for Parents/Insurance Coverage.md
-      - Information for Parents/Parents Gateway.md
-      - School Calendar.md
-      - Appreciation for Our Staff.md
+      - School Waitlist.md

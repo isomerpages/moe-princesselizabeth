@@ -1,8 +1,9 @@
 ---
 title: School Waitlist
-permalink: /general-information/permalink/
+permalink: /general-information/school-waitlist/
 description: ""
 ---
+
 Thank you for your interest in Princess Elizabeth Primary School. Please submit this application [form](https://form.gov.sg/63b7708c6f848a0012e5b7a2) for your child to be placed on the waitlist in Princess Elizabeth Primary School.
 
 Important Notes: <br>

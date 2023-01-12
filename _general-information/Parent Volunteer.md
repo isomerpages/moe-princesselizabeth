@@ -1,8 +1,9 @@
 ---
 title: Parent Volunteer
-permalink: /general-information/permalink/
+permalink: /general-information/parent-volunteer/
 description: ""
 ---
+
 **Parent Volunteer (PV) Application** <br>
 
 Princess Elizabeth Primary School values our Parent Volunteers' contribution to the school and welcomes all interested parents to apply as Parent Volunteers under our Parent Volunteer Scheme.
