@@ -3,8 +3,8 @@ title: MK@Princess Elizabeth
 permalink: /mk-at-princess-elizabeth/
 description: ""
 ---
-
-![](/images/mkpeps.jpg)
+<img src="/images/mkpeps.jpg" 
+     style="width:50%">
 
 We are excited to share with you that MOE Kindergarten at Princess Elizabeth (MK@PEPS) has commenced operation from January 2023. 
 
