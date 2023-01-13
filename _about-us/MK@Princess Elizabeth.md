@@ -18,7 +18,50 @@ We would like to invite you to join us at Open House at MK@PEPS. Details are as 
 
 | Day/Date | Time: | |
 | -------- | -------- | -------- |
-| Saturday, 18 February 2023     | 9am to 11am     | 
+| Saturday, 18 February 2023     | 9am to 11am     |
 
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Time</span></th>
+    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A"> Program Details</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-f4yw">9am to 9.10am</td>
+    <td class="tg-f4yw">Welcome to MK@PEPS (arrival of registered parents)</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">9.10am to 9.20am</td>
+    <td class="tg-f4yw">Address by Principal: Mr Seelan<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">9.20am to 10am</td>
+    <td class="tg-f4yw">Briefing by MK Centre Head: Ms Priti</td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">10am to 10.10am</td>
+    <td class="tg-f4yw">Q & A </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">10.10am to 11am</td>
+    <td class="tg-f4yw">MK Tour </td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">11am</td>
+    <td class="tg-f4yw">End of Open House, Goodbye </td>
+  </tr>
+</tbody>
+</table>
+     
+For enquiries or questions please email us at [mk\_princesselizabeth@moe.edu.sg](mailto:mk_princesselizabeth@moe.edu.sg)
