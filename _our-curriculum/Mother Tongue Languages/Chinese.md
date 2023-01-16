@@ -33,7 +33,7 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 <center><u> CL Flash cards - 字宝宝 </center></u>
 
 
-组员们轮流拿卡片，互相配对成拼音或词语,
+组员们轮流拿卡片，互相配对成拼音或词语, <br>
 
 在规定的时间内，拿到最多能够配对的卡片的小组就算胜利。<br>
 
