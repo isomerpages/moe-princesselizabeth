@@ -4,29 +4,29 @@ permalink: /our-curriculum/Mother-Tongue-Languages/chinese/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### Head Of Department
+### Head Of Department ###
 
 Miss Yew Hui Tin
 
   
 
-### Level Head
+### Level Head ###
 
 Ms Gay Li Ting
 
   
 
-### Vision 愿景
+### Vision 愿景 ###
 
 Our students will be proficient in their Mother Tongue Language and love their culture.
 
-### Mission 使命
+### Mission 使命 ###
 
 Develop in our students the oral, listening, writing and reading skills; imbue in them the love for their mother language and culture through a holistic curriculum.
 
   
 
-### Joy of Learning - Game based activities
+### Joy of Learning - Game based activities ###
 
 ![](/images/CL%201.png)
 
