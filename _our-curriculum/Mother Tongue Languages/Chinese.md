@@ -30,7 +30,7 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 ![](/images/CL%201.png)
 
-<center><u>CL Flash cards - 字宝宝</center></u>
+<center><u> CL Flash cards - 字宝宝 </center></u>
 
 
 组员们轮流拿卡片，互相配对成拼音或词语,
