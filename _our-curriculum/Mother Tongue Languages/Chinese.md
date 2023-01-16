@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /our-curriculum/Mother-Tongue-Languages/chinese
+permalink: /our-curriculum/Mother-Tongue-Languages/chinese/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
@@ -35,25 +35,28 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 组员们轮流拿卡片，互相配对成拼音或词语,
 
-在规定的时间内，拿到最多能够配对的卡片的小组就算胜利。
+在规定的时间内，拿到最多能够配对的卡片的小组就算胜利。<br>
 
-* Enhance character/word recognition ability(认读/识字能力) through daily revision.
+* Enhance character/word recognition ability(认读/识字能力) through daily revision. <br>
 
-* Promotes collaboration among students
+* Promotes collaboration among students <br>
 
-* Complete the game within the time given – Motivate and encourage the students to strive their best.
+* Complete the game within the time given – Motivate and encourage the students to strive their best. <br>
 
-* Affirm students effort in learning on regular basis.
+* Affirm students effort in learning on regular basis. <br>
 
-### ### Joy of Learning - Mother Tongue Language Fortnight
+### Joy of Learning - Mother Tongue Language Fortnight
 
 ![](/images/CL%202.png)
+
 ![](/images/CL3.png)
 
 ### Play Word games using 字宝宝 (Characters cards)  to consolidate learning
 
 ![](/images/CL4.png)
+
 ![](/images/CL5.jpg)
+
 ![](/images/CL6.jpg)
 
 ### World Book Day 世界书香日
