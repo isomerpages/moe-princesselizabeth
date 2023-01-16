@@ -29,9 +29,18 @@ With the relaxation of SMM, S.T.E.M Fest 2.0, Refreshed! returned in 2022 and wa
 
 ![](/images/2023%20Sci/Picture1.jpg)
 
+<img src="/images/2023%20Sci/Picture1.jpg" 
+     style="width:70%">
+		 
 ![](/images/2023%20Sci/Picture2.jpg)
 
+<img src="/images/2023%20Sci/Picture2.jpg" 
+     style="width:70%">
+		 
 ![](/images/2023%20Sci/Picture3.jpg)
+
+<img src="/images/2023%20Sci/Picture3.jpg" 
+     style="width:70%">
 
 **Science Learning Journey** 
 
