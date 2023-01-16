@@ -30,11 +30,9 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 ![](/images/CL%201.png)
 
-<center><u> CL Flash cards - 字宝宝 </center></u>
+<center><u> CL Flash cards - 字宝宝 </center></u> 
 
-
-组员们轮流拿卡片，互相配对成拼音或词语, <br>
-
+组员们轮流拿卡片，互相配对成拼音或词语, 
 在规定的时间内，拿到最多能够配对的卡片的小组就算胜利。<br>
 
 * Enhance character/word recognition ability(认读/识字能力) through daily revision. <br>
