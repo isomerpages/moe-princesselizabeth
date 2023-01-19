@@ -59,6 +59,9 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 ![](/images/CLlangFort.jpg)
 
 ![](/images/CLTalk.jpg)
+
+![](/images/CLBingo.jpg)
+
 ### Achievements 成就 ###
 
 <style type="text/css">
@@ -118,19 +121,3 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
   </tr>
 </tbody>
 </table>
-
-![](/images/NChiChallenge.jpg)
-
-### ICT Online Resources 网上学习资源 ###
-
-**iMTL Portal**
-
-[https://imtl.moe.edu.sg](https://imtl.moe.edu.sg/)
-
-**Dudu Town**  
-
-[http://go.dudu.town/cos/o.x?c=/ca4\_dd/user&func=login](http://go.dudu.town/cos/o.x?c=/ca4_dd/user&func=login)
-
-**Toggle 中文**
-
-[https://www.toggle.sg/zh](https://www.toggle.sg/zh)
