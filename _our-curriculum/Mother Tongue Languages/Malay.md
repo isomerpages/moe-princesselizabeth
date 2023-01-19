@@ -1,6 +1,6 @@
 ---
 title: Malay
-permalink: /our-curriculum/Mother-Tongue-Languages/malay
+permalink: /our-curriculum/Mother-Tongue-Languages/malay/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
@@ -8,6 +8,9 @@ third_nav_title: Mother Tongue Languages
 
 Mdm Fadhillah
 
+### Senior Teacher ###
+
+Mdm Norfidah Othman
 
 ### Vision
 
@@ -17,19 +20,19 @@ Our students will be proficient in their Mother Tongue and love their culture.
 
 Develop in our students the oral, listening, writing and reading skills and imbue in them the love for their culture through Instructional and Enrichment Programmes.
 
-### Enrichment Programmes
+### Joy of Learning ###
 
 **Reading Programmes**
 
-Moo-O Reading Enhancement (MORE)<br>
-An-Article-A-Day <br>
-World Book Day <br>
-Smart Reader Programme – Program Pembaca Bijak (P1 to P6)  
-* Reading Log Book  
-* Class Library  
+* *Buku Rekod Bacaan*  <br>
+– Reading Record Book is used to encourage students to read as many ML reading materials provided in the Class Library
+
+* *Buku Bank Kekata* <br>
+Word Bank Book is used for students to take down Malay vocabulary words learnt from reading activity
+
   
 
-**Oral Fluency Programmes**
+### Language Fortnight ###
 
 Speak Bahasa Baku Programme <br>
 Think on your Feet – Spontan Sahaja <br>
@@ -37,149 +40,14 @@ Show and Tell <br>
 Use of MTV (Making Thinking Visible) routines to hone oral fluency  
 
   
-**Creative Writer Programmes**
+### Learning Journey ###
 
-Journal Writing <br>
-Word Bank – Bank Kekata <br>
-Use of Pena Emas Package <br>
-Kindness Composition <br>
-Majalah Cetusan 12.0 (collaboration with 11 other primary schools)
+
 
   
 
-**Other Programmes**
+### Achievements ###
 
-Hari Raya Concert  <br>
-Mother Tongue Fortnight  <br>
-Aim for the Stars (P6 Joy of Learning Camp)  <br>
-Use of Games in teaching & learning: Didik Hibur, Kit Cekap  <br>
-Use of ICT: Pintar Kata App / Peribahasa App / Cerita Nusantara App  <br>
-Conversational Malay  <br>
-Learning Journey 
+**<table style="border:none;border-collapse:collapse;"><colgroup><col width="78"><col width="336"><col width="240"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#d9d9d9;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Year</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;background-color:#d9d9d9;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Name of Competition / Event</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2017</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">National </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Pintar Kata</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> App Competition</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2021</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Elok-Elok Eja</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2022</span></p></td><td style="border-left:solid #000000 0.5pt;border-right:solid #000000 0.5pt;border-bottom:solid #000000 0.5pt;border-top:solid #000000 0.5pt;vertical-align:top;padding:0pt 5.4pt 0pt 5.4pt;overflow:hidden;overflow-wrap:break-word;"><p dir="ltr" style="line-height:1.2;margin-top:6pt;margin-bottom:6pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Cepat Tepat </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Quiz&nbsp;</span></p></td></tr></tbody></table>**
 
-  
 
-### Gallery Highlight on some of our ML Programmes
-
-**World Book Day**
-
-### ML Coordinator
-
-Mdm Fadhillah
-
-  
-
-### Vision
-
-Our students will be proficient in their Mother Tongue and love their culture.
-
-### Mission
-
-Develop in our students the oral, listening, writing and reading skills and imbue in them the love for their culture through Instructional and Enrichment Programmes.
-
-### Enrichment Programmes
-
-**Reading Programmes**
-
-Moo-O Reading Enhancement (MORE)
-
-An-Article-A-Day
-
-World Book Day
-
-Smart Reader Programme – Program Pembaca Bijak (P1 to P6)  
-      • Reading Log Book  
-      • Class Library  
-  
-
-**Oral Fluency Programmes**
-
-Speak Bahasa Baku Programme
-
-Think on your Feet – Spontan Sahaja
-
-Show and Tell
-
-Use of MTV (Making Thinking Visible) routines to hone oral fluency  
-
-  
-
-**Creative Writer Programmes**
-
-Journal Writing
-
-Word Bank – Bank Kekata
-
-Use of Pena Emas Package
-
-Kindness Composition
-
-Majalah Cetusan 12.0 (collaboration with 11 other primary schools)
-
-  
-
-**Other Programmes**
-
-Hari Raya Concert  
-Mother Tongue Fortnight  
-Aim for the Stars (P6 Joy of Learning Camp)  
-Use of Games in teaching & learning: Didik Hibur, Kit Cekap  
-Use of ICT: Pintar Kata App / Peribahasa App / Cerita Nusantara App  
-Conversational Malay  
-Learning Journey 
-
-  
-
-### Gallery Highlight on some of our ML Programmes
-
-**World Book Day**
-
-![](/images/ML1.png)
-![](/images/ML2.png)
-
-### Aim for the Stars (Joy of Learning Camp for Primary 6 Students)
-
-During the camp, P6 students had the opportunity to come together and discussed on selected Malay traditional games. They identified all the key points which are important about the traditional game given. Then, students presented their understanding to their schoolmates.
-
-![](/images/ML3.png)
-![](/images/ML4.png)
-
-### Mother Tongue Fortnight
-
-![](/images/ML5.png)
-![](/images/ML6.png)
-![](/images/ML7.png)
-![](/images/ML8.png)
-
-### Moo-O Reading Enhancement (MORE)
-
-The Primary 2 students had benefited a lot in terms of reading skills through this Moo-O programme.
-
-![](/images/ML9.png)
-
-### Learning Journeys
-
-Selected group of Primary 3 and 4 students were brought to Fiesta Bahasa 2018 at Jurong East to experience various Malay Language activities
-
-![](/images/ML10.png)
-
-### Learning Journey through the provision of the MLLPC Cultural Performance Exposure Fund (2017)
-
-![](/images/ML11.png)
-
-### Use of ICT : Pintar Kata (Smart in Vocabulary) App
-
-![](/images/ML12.png)
-![](/images/ML13.png)
-
-### Collaboration with other Primary Schools
-
-**Majalah Cetusan 12.0**
-
-PEPS collaborated with 11 other primary schools to publish a Malay magazine that features on language and culture, competition and students’ work on essay writing.
-
-![](/images/ML14.png)
-
-### Majulah Cetusan 9.0
-
-![](/images/ML15.png)
