@@ -4,7 +4,7 @@ permalink: /our-curriculum/Mother-Tongue-Languages/malay/
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### ML Coordinator
+### ML Coordinator ###
 
 Mdm Fadhillah
 
@@ -12,11 +12,11 @@ Mdm Fadhillah
 
 Mdm Norfidah Othman
 
-### Vision
+### Vision ###
 
 Our students will be proficient in their Mother Tongue and love their culture.
 
-### Mission
+### Mission ###
 
 Develop in our students the oral, listening, writing and reading skills and imbue in them the love for their culture through Instructional and Enrichment Programmes.
 
@@ -28,7 +28,7 @@ Description automatically generated](https://lh3.googleusercontent.com/p8ea62ILz
 
 **![A picture containing calendar
 Description automatically generated](https://lh4.googleusercontent.com/yuz9knR0MbT6ggceqKPuxI4ipwCFKalb-uI3u1RGdxIaEVLdUL0-vpU0tp3dgmJRAmeEpK0S7YmeV3z8C9NRY8jo4nVcOhbZ-9gMY-7Jklf5xAATgJ28pWxmypLTad4vcBxkY54K10_yNBpCx4SxWCaLevamNgQ9V8ppejYQaLIfEQSHfK0mbe7ZgeOw_ilFwS_zD8wN-g)**
-**MTL Bingo Challenge (Cabaran Bahasa Melayu) was designed termly to encourage students’ participation in performing simple daily task in learning of Malay language.**
+*MTL Bingo Challenge (Cabaran Bahasa Melayu) was designed termly to encourage students’ participation in performing simple daily task in learning of Malay language.*
 
 **Reading Programmes**
 
@@ -37,8 +37,6 @@ Description automatically generated](https://lh4.googleusercontent.com/yuz9knR0M
 
 * *Buku Bank Kekata* <br>
 Word Bank Book is used for students to take down Malay vocabulary words learnt from reading activity
-
-  
 
 **Language Fortnight**
 **![](https://lh4.googleusercontent.com/EU1-2D7vWUOmDsVasOai_i_9fBULvBV6O_4nYo4mIIhjbETHI16fBmGWaauWG8uIm7kDCHnZZHvhEdesAoz8T2iDRaoLhtma00P3d2SoimQ1q07JWHUPGnspUHW0x0Cs2RMHmObHI7q2bzQzOWhbDr2AXdEYmGZ6FqfCakYj5zGWsRyuUKSREA6_D9hVvirK4Md4gBlJkw)![A picture containing text, table, person, indoor
