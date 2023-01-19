@@ -48,51 +48,17 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 * Affirm students effort in learning on regular basis. <br>
 
-### Joy of Learning - Mother Tongue Language Fortnight ###
+![](/images/CLpicCard.jpg)
 
-![](/images/CL%202.png)
+![](/images/CLReadg.jpg)
 
-![](/images/CL3.png)
+![](/images/CLReadg2.jpg)
 
-### Play Word games using 字宝宝 (Characters cards)  to consolidate learning ###
+![](/images/CLBeyond.jpg)
 
-![](/images/CL4.png)
+![](/images/CLlangFort.jpg)
 
-![](/images/CL5.jpg)
-
-![](/images/CL6.jpg)
-
-### World Book Day 世界书香日 ###
-
-小一至小六学生 每年的这一天，老师与学生暂且把课本放下，随着一个个生动有趣的故事，，让幻想起飞，飞进老师口中叙述的世界，学习知识以及做人的道理……
-
-![](/images/CL7.png)
-
-### MOTHER TONGUE FORTNIGHT母语双周活动 ###
-
-在母语双周活动举办期间，学生能通过广泛的活动，以有趣、新颖的方式学习与使用母语,以营造一个有利于母语学习的环境，鼓励学生多使用母语，进一步认识自己的母族文化。这不但能丰富母语学习的经验，能激发学生学习母语的兴趣。这些活动包括相声表演、讲故事、茶艺讲座、水墨画、漫画创作、面塑制作等等。
-
-
-### 班级活动 ###
-
-![](/images/CL8.png)
-
-### 语文游戏站 ###
-
-![](/images/CL9.png)
-
-### Moo-O Reading Enhancement Programme (MORE) Moo-O 木偶电子数码朗读 ###
-
-**小一、小二**
-
-学生利用笔记型电脑，与同学一同化身为故事的主人翁。
-
-生动有趣的学习方式使得朗读训练变得更有意义。
-
-学生可即时评估自己的表现，并加以改善，以求创造出更棒的故事。
-
-![](/images/CL10.png)
-
+![](/images/CLTalk.jpg)
 ### Achievements 成就 ###
 
 <style type="text/css">
