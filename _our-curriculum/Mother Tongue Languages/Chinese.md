@@ -14,13 +14,17 @@ Miss Yew Hui Tin
 
 Ms Gay Li Ting
 
-  
 
-### Vision 愿景 ###
+### Senior Teacher ###
+
+Mdm Jiang Yanyan
+
+
+### Vision ###
 
 Our students will be proficient in their Mother Tongue Language and love their culture.
 
-### Mission 使命 ###
+### Mission ###
 
 Develop in our students the oral, listening, writing and reading skills; imbue in them the love for their mother language and culture through a holistic curriculum.
 
@@ -28,18 +32,19 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 ### Joy of Learning - Game based activities ###
 
+![](/images/CLBingo.png)
+**Chinese BINGO - 汉字宾果**
+
 ![](/images/CL%201.png)
+**CL Flash cards - 字宝宝**
 
- <u> CL Flash cards - 字宝宝 </u>
+* Students complete the game within the time given <br>
 
-组员们轮流拿卡片，互相配对成拼音或词语, 
-在规定的时间内，拿到最多能够配对的卡片的小组就算胜利。<br>
-
-* Enhance character/word recognition ability(认读/识字能力) through daily revision. <br>
+* Enhance character/word recognition ability through daily revision. <br>
 
 * Promotes collaboration among students <br>
 
-* Complete the game within the time given – Motivate and encourage the students to strive their best. <br>
+* Motivate and encourage the students to strive their best. <br>
 
 * Affirm students effort in learning on regular basis. <br>
 
