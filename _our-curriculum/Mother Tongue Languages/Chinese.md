@@ -62,7 +62,7 @@ Develop in our students the oral, listening, writing and reading skills; imbue i
 
 ![](/images/CLBingo.jpg)
 
-### Achievements 成就 ###
+### Achievements ###
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
