@@ -73,3 +73,35 @@ If your child is a Singapore Citizen, they may qualify for financial assistance 
 
 ![](/images/2023%20MK/Picture11.png)
 
+### MK Uniform ###
+
+![](/images/2023%20MK/Picture12.png)
+
+
+
+Purchasing of MK Uniforms
+-------------------------
+
+You can purchase the MK uniform from either [Beau Voix Uniform](https://beauvoix.com/preschool/) or [Jeep Sing Fashion](https://jeepsinguniform.com/collections/moe-kindergarten-uniforms) at the following prices:
+
+Beau Voix Uniform <br>
+●      $7 for polo T-shirt. <br>
+●      $7 for khaki shorts (for boys) or skorts (for girls).
+
+Jeep Sing Fashion <br>
+●      $7 for polo T-shirt. <br>
+●      $8 for khaki shorts (for boys) or skorts (for girls).
+
+![](/images/2023%20MK/Picture13.png)
+
+![](/images/2023%20MK/Picture14.png)
+
+![](/images/2023%20MK/Picture15.png)
+
+
+### Contact Us ###
+
+Address: 30 Bukit Batok West Ave 3, Singapore 659163 <br>
+Tel no: 6565 5111 <br>
+Email address: [mk\_princesselizabeth@moe.edu.sg](mailto:mk_princesselizabeth@moe.edu.sg)
+Centre Head: Gurprit Kaur (Ms Priti)
