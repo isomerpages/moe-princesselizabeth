@@ -83,3 +83,6 @@ Through the process of finding answers to their own questions, WoW projects allo
 [Find out more about Weeks of Wonder (WoW) Projects](https://drive.google.com/file/d/1HpCdzPeL-lhEP5mLSlCplZKuhtClWvRV/view?usp=share_link)
 
 **Our Learning Environment**
+![](/images/2023%20MK/Picture3.jpg)
+![](/images/2023%20MK/Picture4.jpg)
+![](/images/2023%20MK/Picture5.jpg)
