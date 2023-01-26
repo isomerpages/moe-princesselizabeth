@@ -18,3 +18,12 @@ The programme includes meals as well as activities designed to provide time and 
 ●      Indoor and outdoor modular activities, such as tinkering, cookery and gardening activities. <br>
 ●      Indoor and outdoor play, such as dramatic play, and sand and water play.
 
+![](/images/2023%20MK/Picture23.jpg)
+
+![](/images/2023%20MK/Picture24.jpg)
+
+![](/images/2023%20MK/Picture25.jpg)
+
+![](/images/2023%20MK/Picture26.jpg)
+
+![](/images/2023%20MK/Picture27.jpg)
