@@ -2,7 +2,10 @@
 title: MK@Princess Elizabeth
 permalink: /mk-at-princess-elizabeth/
 description: ""
+third_nav_title: MOE Kindergarten
 ---
+
+
 <img src="/images/mkpeps.jpg" 
      style="width:30%">
 
