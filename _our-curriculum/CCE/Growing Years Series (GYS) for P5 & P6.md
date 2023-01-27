@@ -43,7 +43,7 @@ You may click [**here**](https://go.gov.sg/moe-sexuality-education) for more i
 
 ![](/images/2023%20CCE/Picture2.jpg)
 
-![](/images/2023%20CCE/Picture3.jpg)
+![](/images/2023%20CCE/Picture3_1.jpg)
 
 ![](/images/2023%20CCE/Picture4.jpg)
 
