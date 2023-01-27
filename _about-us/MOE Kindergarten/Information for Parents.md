@@ -6,7 +6,7 @@ third_nav_title: MOE Kindergarten
 ---
 ### Calendar of Events ###
 
-Important Dates to Note: [School Terms and Holidays for 2023 | MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
+Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
 
 Calendar of Events  will be provided termly:
 
@@ -39,13 +39,13 @@ Parents are discouraged from preparing food-related items for goodie bags due to
  Health screening will be conducted daily upon arrival.
 If your child has the following symptoms, please keep your child at home.
 
-●     high fever (above 37.5 ° C)<br>
-●      throat infection <br>
-●      conjunctivitis (sore eyes) <br>
-●      diarrhoea <br>
-●      vomiting <br>
-●      head lice <br>
-●      communicable diseases such as chicken pox, gastric flu, hand-foot-and-mouth disease, measles, mumps, rubella
+● high fever (above 37.5 ° C)<br>
+● throat infection <br>
+● conjunctivitis (sore eyes) <br>
+● diarrhoea <br>
+● vomiting <br>
+● head lice <br>
+● communicable diseases such as chicken pox, gastric flu, hand-foot-and-mouth disease, measles, mumps, rubella
 
 Children who are unwell or have had recent contact with infected persons are strongly encouraged to self-test using an Antigen Rapid Test (ART) kit.
 
