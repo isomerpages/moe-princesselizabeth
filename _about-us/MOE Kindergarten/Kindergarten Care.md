@@ -1,9 +1,10 @@
 ---
 title: Kindergarten Care
-permalink: /about-us/MOE-Kindergarten/permalink/
+permalink: /about-us/MOE-Kindergarten/kindergarten-care/
 description: ""
 third_nav_title: MOE Kindergarten
 ---
+
 What is Kindergarten Care
 -------------------------
 
