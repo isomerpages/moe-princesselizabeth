@@ -6,7 +6,7 @@ third_nav_title: MOE Kindergarten
 ---
 ### Calendar of Events ###
 
-Important Dates to Note: [School Terms and Holidays for 2023 | MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
+Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
 
 Calendar of Events  will be provided termly:
 
