@@ -11,7 +11,7 @@ Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.
 Calendar of Events  will be provided termly:
 
 **Term 1**
-![](/images/2023%20MK/Picture7.png)
+![](/images/2023%20MK/Picture28.jpg)
 
  **Arrival and Dismissal**
 
