@@ -15,57 +15,10 @@ The siting of an MK in our school will offer enriched learning experiences for t
 
 The MOE Kindergarten registration exercise for 2023 K1 admission has closed.  If you wish to place your child on the MK@Princess Elizabeth Waitlist, please fill in the form at: [MK Waiting List](https://www.form.gov.sg/63d622a0a35c34001156baf1). Please note that you will only be contacted when there are vacancies available. For more information on MOE Kindergarten, you can visit [ www.moe.gov.sg/mk]( www.moe.gov.sg/mk), or call the MOE Customer Service Centre at 69722220 (Mondays to Fridays: 8.30 a.m. to 5.30 p.m.). <br>
 
-We would like to invite you to join us at Open House at MK@PEPS. Details are as follows:
-
-
-| Day/Date |Time: | |
-| -------- | -------- | -------- |
-| Saturday, 18 February 2023     | 9am to 11am     |
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Time</span></th>
-    <th class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A"> Program Details</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">9am to 9.10am</td>
-    <td class="tg-f4yw">Welcome to MK@PEPS (arrival of registered parents)</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">9.10am to 9.20am</td>
-    <td class="tg-f4yw">Address by Principal: Mr Seelan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">9.20am to 10am</td>
-    <td class="tg-f4yw">Briefing by MK Centre Head: Ms Priti</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">10am to 10.10am</td>
-    <td class="tg-f4yw">Q & A </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">10.10am to 11am</td>
-    <td class="tg-f4yw">MK Tour </td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">11am</td>
-    <td class="tg-f4yw">End of Open House, Goodbye </td>
-  </tr>
-</tbody>
-</table>
+We would like to invite you to join us at our Open House at MK@PEPS on Saturday, 18 February 2023 - 9am to 1pm.
      
-Pls click [here](https://go.gov.sg/mkopenhouse2023pmk) for MK Open House Registration. <br>
+Please click [here](https://go.gov.sg/mkopenhouse2023pmk) for MK Open House Registration. <br>
+
+More information will be sent to successful registrants.
  
 For enquiries or questions please email us at [mk\_princesselizabeth@moe.edu.sg](mailto:mk_princesselizabeth@moe.edu.sg)
