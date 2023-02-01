@@ -3,4 +3,4 @@ title: Organisation Chart
 permalink: /about-us/organisation-chart/
 description: ""
 ---
-This page is currently undergoing maintenance. Thank you for your patience.
+![](/images/School%20Org%20Chart%202023.jpg)
