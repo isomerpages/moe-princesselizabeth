@@ -102,6 +102,6 @@ Jeep Sing Fashion <br>
 ### Contact Us ###
 
 Address: 30 Bukit Batok West Ave 3, Singapore 659163 <br>
-Tel no: 6565 5111 <br>
+Tel no: 6252 1902 <br>
 Email address: [mk\_princesselizabeth@moe.edu.sg](mailto:mk_princesselizabeth@moe.edu.sg) <br>
 Centre Head: Gurprit Kaur (Ms Priti)
