@@ -13,7 +13,7 @@ Mrs Chin Chwee Tin and Ms Yap Shu Jun
 Mdm Cheng Mee Eng
 
 ### Senior Teacher
-Mrs Alice Wee (Mdm Aw Mui Sin)
+Mrs Alice Wee
 
 
 
@@ -29,7 +29,7 @@ To provide meaningful learning experiences that nurture students' confidence and
 
   
 
-### AIMS OF PRIMARY MATHEMATICS SYLLABUS
+### Aims of Primary Mathematics Syllabus
 
 *   Acquire **mathematical concepts and skills for everyday use** and **continuous learnin**g in mathematics;  
     
@@ -52,6 +52,8 @@ To provide meaningful learning experiences that nurture students' confidence and
 
 ![](/images/Maths%204.jpg)
 
+![](/images/Maths%20208.jpg)
+
 ![](/images/Maths%205.jpg)
 
-![](/images/Maths%206.jpg)
+![](/images/Maths%20207.jpg)
