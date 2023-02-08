@@ -38,9 +38,9 @@ To provide meaningful learning experiences that nurture students' confidence and
 *   **Build confidence** and **foster interest** in Mathematics.  
     
 
-### THE MATHEMATICS FRAMEWORK
+### The Mathematics Framework
 
-![](/images/math1.jpg)
+![](/images/2023%20Math/Pic9.jpg)
 
 ### Key Programmes
 
