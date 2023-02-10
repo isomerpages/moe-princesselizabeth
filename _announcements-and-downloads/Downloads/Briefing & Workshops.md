@@ -1,10 +1,10 @@
 ---
 title: Briefing & Workshops
-permalink: /announcements-n-downloads/downloads/briefings-n-workshops
+permalink: /announcements-n-downloads/downloads/briefings-n-workshops/
 description: ""
 third_nav_title: Downloads
 ---
-### Parent Engagement Sharing 2022
+### Parent Engagement Sharing 2023
 
 [Parent Engagement Sharing 2022](/files/Parent%20Engagement%20Sharing%202022.pdf)
 
