@@ -1,10 +1,11 @@
 ---
-title: Introduction of MK
+title: "Introduction of MK: Curriculum & Learning Environment"
 permalink: /about-us/MOE-Kindergarten/introduction/
 description: ""
 third_nav_title: MOE Kindergarten
 ---
-![](/images/2023%20MK/Picture1.png)
+
+![](/images/2023%20MK/OurBelief.png)
 
 ![](/images/2023%20MK/Picture2.jpg)
 

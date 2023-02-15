@@ -1,9 +1,10 @@
 ---
-title: Our Children
+title: "Our Children: Events & Celebrations"
 permalink: /about-us/MOE-Kindergarten/our-children/
 description: ""
 third_nav_title: MOE Kindergarten
 ---
+
 
 **Children Engagement on 30/12/2022**
 ![](/images/2023%20MK/Picture20.jpg)
