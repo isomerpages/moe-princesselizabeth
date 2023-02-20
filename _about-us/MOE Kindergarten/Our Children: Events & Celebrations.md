@@ -14,4 +14,4 @@ third_nav_title: MOE Kindergarten
 
 ### Chinese New Year 2023 ###
 
-<iframe allowfullscreen="true" height="380" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTm1DMRPMMshhRoml9fCrA4an9xleEIgp90LKOME2rgAK43z2sInldV7UlTE2_XIxlOyNmXX15h0wI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="400" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTm1DMRPMMshhRoml9fCrA4an9xleEIgp90LKOME2rgAK43z2sInldV7UlTE2_XIxlOyNmXX15h0wI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
