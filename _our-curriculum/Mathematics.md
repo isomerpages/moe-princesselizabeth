@@ -52,8 +52,6 @@ To provide meaningful learning experiences that nurture students' confidence and
 
 ![](/images/2023%20Math/Pic5.jpg)
 
-![](/images/2023%20Math/Pic6.jpg)
-
 ![](/images/2023%20Math/Pic7.jpg)
 
 ![](/images/2023%20Math/Pic8.jpg)
