@@ -91,6 +91,6 @@ Through the process of finding answers to their own questions, WoW projects allo
 
 <div class="bp-youtube">
 	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_zaMbcZRxBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/_zaMbcZRxBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	
 </div>
