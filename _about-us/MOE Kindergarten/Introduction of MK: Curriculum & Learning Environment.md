@@ -88,3 +88,9 @@ Through the process of finding answers to their own questions, WoW projects allo
 ![](/images/2023%20MK/Picture5.jpg)
 
 **Open House 2023**
+
+<div class="bp-youtube">
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_zaMbcZRxBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+</div>
