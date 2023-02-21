@@ -4,7 +4,6 @@ permalink: /about-us/MOE-Kindergarten/introduction/
 description: ""
 third_nav_title: MOE Kindergarten
 ---
-
 ![](/images/2023%20MK/OurBelief.png)
 
 ![](/images/2023%20MK/Picture2.jpg)
@@ -87,3 +86,5 @@ Through the process of finding answers to their own questions, WoW projects allo
 ![](/images/2023%20MK/Picture3.jpg)
 ![](/images/2023%20MK/Picture4.jpg)
 ![](/images/2023%20MK/Picture5.jpg)
+
+**Open House 2023**
