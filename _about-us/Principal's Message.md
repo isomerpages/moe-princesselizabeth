@@ -14,3 +14,4 @@ Together, let's strive for excellence and make this a successful and memorable s
 Mr Bucktha Seelan <br>
 Principal
 
+![](/images/Principal.png)
