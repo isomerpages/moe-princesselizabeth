@@ -2,4 +2,5 @@ collections:
   mk-at-princesselizabeth:
     output: true
     order:
+      - "Introduction of MK: Curriculum & Learning Environment.md"
       - MK@Princess Elizabeth.md
