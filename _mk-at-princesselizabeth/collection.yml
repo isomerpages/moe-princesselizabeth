@@ -2,9 +2,9 @@ collections:
   mk-at-princesselizabeth:
     output: true
     order:
-      - Kindergarten Care.md
-      - "Our Children: Events & Celebrations.md"
-      - Our Team.md
-      - Information for Parents.md
-      - "Introduction of MK: Curriculum & Learning Environment.md"
       - MK@Princess Elizabeth.md
+      - "Introduction of MK: Curriculum & Learning Environment.md"
+      - Information for Parents.md
+      - Our Team.md
+      - "Our Children: Events & Celebrations.md"
+      - Kindergarten Care.md
