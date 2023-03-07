@@ -2,5 +2,6 @@ collections:
   mk-at-princesselizabeth:
     output: true
     order:
+      - Information for Parents.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
       - MK@Princess Elizabeth.md
