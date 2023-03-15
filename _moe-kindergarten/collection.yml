@@ -2,10 +2,10 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - "Our Children: Activities.md"
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
       - Information for Parents.md
       - Our Team.md
       - "Our Children: Events & Celebrations.md"
+      - "Our Children: Activities.md"
       - Kindergarten Care.md
