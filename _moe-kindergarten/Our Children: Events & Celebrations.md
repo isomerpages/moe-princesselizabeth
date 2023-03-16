@@ -18,3 +18,7 @@ description: ""
 ### MK Open House 2023 ###
 
 <iframe allowfullscreen="true" height="400" width="648" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqdL9dSIYsQ4S7h2FuLzLlv0G_BsR76__WFmAEBfND5ZGlfZ1n6Ij7XA89t_52r2SPRZ7nOANdbygO/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+### Last Day of Term One! ###
+
+<iframe width="570" height="325" src="https://www.youtube.com/embed/Y9GT9FO3lVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
