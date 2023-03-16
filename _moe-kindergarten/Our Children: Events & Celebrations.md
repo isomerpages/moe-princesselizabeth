@@ -21,4 +21,8 @@ description: ""
 
 ### Last Day of Term One! ###
 
+<div class="bp-youtube">
+	
 <iframe width="600" height="400" src="https://www.youtube.com/embed/Y9GT9FO3lVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+	</div>
