@@ -129,7 +129,7 @@ description: ""
   <tr>
     <td>3I</td>
     <td>Ms Faith Goh Li Hoon<br>Ms Esther Tham</td>
-    <td>goh_li_hoon@schools.gov.sgg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
+    <td>goh_li_hoon@schools.gov.sg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td>3R</td>
