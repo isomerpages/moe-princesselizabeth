@@ -49,7 +49,7 @@ description: ""
   <tr>
     <td>1G</td>
     <td>Mdm Nur Aina Bte Mohamed Ishak<br>Ms Kerk Rui Qi, Yvonne</td>
-    <td>nur_aina_mohammed_ishak@schools.gov.sg<br>kerk_rui_qi_yvonne@schools.gov.sg</td>
+    <td>nur_aina_mohamed_ishak@schools.gov.sg<br>kerk_rui_qi_yvonne@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
@@ -129,7 +129,7 @@ description: ""
   <tr>
     <td>3I</td>
     <td>Ms Faith Goh Li Hoon<br>Ms Esther Tham</td>
-    <td>goh_li_hoon@schools.gov.sgg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
+    <td>goh_li_hoon@schools.gov.sg<br>tham_jia_hui_esther@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td>3R</td>
