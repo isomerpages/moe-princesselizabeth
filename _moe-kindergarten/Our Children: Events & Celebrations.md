@@ -23,10 +23,10 @@ description: ""
 
 <div class="bp-youtube">
 	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y9GT9FO3lVU" height="400" width="600"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y9GT9FO3lVU" height="400" width="648"></iframe>
 	
 </div>
 
 ### MK Term 2 First Day of School ###
 
-<iframe allowfullscreen="true" height="369" width="590" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="400" width="648" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
