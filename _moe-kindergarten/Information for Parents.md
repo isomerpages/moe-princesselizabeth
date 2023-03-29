@@ -12,6 +12,24 @@ Calendar of Events  will be provided termly:
 **Term 2**
 ![](/images/MK%20Term%202%20Cal.jpg)
 
+
+
+| Date | Description | Remark |
+| -------- | -------- | -------- |
+| 30 Mar Thursday     | STEAM Fest 3.0     | • MK children will work with PEPS students during curriculum time to design a raft. <br>• They will predict and experiment to observe if their raft sinks or floats.     |
+| 31 Mar Friday    | March Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
+| 3 Apr Monday    | International Friendship Day/ Science & Environment Champs Day     | • MK children will join the morning assembly with PEPS students to commemorate International Friendship Day. <br>• MK children will present a song on friendship and about Earth. <br>• This is also to kick-start Earth Day 2023. <br>• No change in regular curriculum.     |
+| 7 Apr Friday    | Good Friday     | • Public Holiday     |
+| 21 April Friday    | Earth Day @ MK     | • Children will be engaged in Earth Day related activities during curriculum time.     |
+| 22 Apr Saturday    | Hari Raya Puasa     | • Public Holiday     |
+| 24 Apr Monday    | Hari Raya Puasa School Holiday     | • MK and KCare are closed     |
+| 28 Apr Friday    | 1. April Birthday Celebration <br>2. Hari Raya Puasa Celebration     | • MK will provide a birthday cake as snack for the day. <br>• Children to wear ethnic Malay costume or MK uniform. <br>• No change in regular curriculum.     |
+| 1 May Monday    | Labour Day     | • Public Holiday     |
+| 19 May Friday    | May & June Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
+| 25 and 26 May Thursday & Friday    | Mid-Year Parent Teacher Conference     | • It will be a non-school day for MK.<br>• KCare operates as per normal.<br>• It will be an in-person session at MK (no zoom).<br>• Booking details will be shared closer to date via Parents Gateway.     |
+| Saturday, 27 May to Sunday, 25 Jun    | Term 2 School Holidays     | • Term 2 school holidays for MK.<br>• KCare remains open.     |
+
+
  **Arrival and Dismissal**
 
 Children should attend kindergarten daily and be present for the entire programme.
