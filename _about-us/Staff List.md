@@ -86,7 +86,7 @@ description: ""
   </tr>
   <tr>
     <td>2E</td>
-    <td>Ms Ernie Ennor Bte Razali<br>Ms Aida Lisa Bte Aliman (LH NESS)</td>
+    <td>Ms Ernie Ennor Bte Razali<br>Ms Aida Lisa Bte Aliman (SH NESS)</td>
     <td>ernie_ennor_razali@schools.gov.sg<br>aida_lisa_aliman@schools.gov.sg</td>
   </tr>
   <tr>
