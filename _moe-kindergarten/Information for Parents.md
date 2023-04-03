@@ -9,7 +9,7 @@ Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.
 
 Calendar of Events&nbsp; will be provided termly:
 
-**Term 2 | 20 Mar to 26 May**
+**Term 2: 20 Mar to 26 May**
 
 | Date | Description | Remark |
 | -------- | -------- | -------- |
