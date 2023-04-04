@@ -7,23 +7,23 @@ description: ""
 
 Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
 
-Calendar of Events  will be provided termly:
+Calendar of Events&nbsp; will be provided termly:
 
-**Term 2 | 20 Mar to 26 May**
+**Term 2: 20 Mar to 26 May**
 
 | Date | Description | Remark |
 | -------- | -------- | -------- |
 | 30 Mar Thursday     | STEAM Fest 3.0     | • MK children will work with PEPS students during curriculum time to design a raft. <br>• They will predict and experiment to observe if their raft sinks or floats.     |
 | 31 Mar <br>Friday    | March Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
-| 3 Apr Monday    | International Friendship Day/ Science & Environment Champs Day     | • MK children will join the morning assembly with PEPS students to commemorate International Friendship Day. <br>• MK children will present a song on friendship and about Earth. <br>• This is also to kick-start Earth Day 2023. <br>• No change in regular curriculum.     |
+| 3 Apr Monday    | International Friendship Day/ Science &amp; Environment Champs Day     | • MK children will join the morning assembly with PEPS students to commemorate International Friendship Day. <br>• MK children will present a song on friendship and about Earth. <br>• This is also to kick-start Earth Day 2023. <br>• No change in regular curriculum.     |
 | 7 Apr <br>Friday    | Good Friday     | • Public Holiday     |
 | 21 April Friday    | Earth Day @ MK     | • Children will be engaged in Earth Day related activities during curriculum time.     |
 | 22 Apr Saturday    | Hari Raya Puasa     | • Public Holiday     |
 | 24 Apr Monday    | Hari Raya Puasa School Holiday     | • MK and KCare are closed     |
 | 28 Apr <br>Friday    | 1. April Birthday Celebration <br>2. Hari Raya Puasa Celebration     | • MK will provide a birthday cake as snack for the day. <br>• Children to wear ethnic Malay costume or MK uniform. <br>• No change in regular curriculum.     |
 | 1 May Monday    | Labour Day     | • Public Holiday     |
-| 19 May Friday    | May & June Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
-| 25 and 26 May Thursday & Friday    | Mid-Year Parent Teacher Conference     | • It will be a non-school day for MK.<br>• KCare operates as per normal.<br>• It will be an in-person session at MK (no zoom).<br>• Booking details will be shared closer to date via Parents Gateway.     |
+| 19 May Friday    | May &amp; June Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
+| 25 and 26 May Thursday &amp; Friday    | Mid-Year Parent Teacher Conference     | • It will be a non-school day for MK.<br>• KCare operates as per normal.<br>• It will be an in-person session at MK (no zoom).<br>• Booking details will be shared closer to date via Parents Gateway.     |
 | Saturday, 27 May to Sunday, 25 Jun    | Term 2 School Holidays     | • Term 2 school holidays for MK.<br>• KCare remains open.     |
 
 
@@ -31,8 +31,8 @@ Calendar of Events  will be provided termly:
 
 Children should attend kindergarten daily and be present for the entire programme.
 
- AM session: 8.00AM to 12.00PM <br>
- PM session: 1.00PM to 5.00PM <br>
+&nbsp;AM session: 8.00AM to 12.00PM <br>
+&nbsp;PM session: 1.00PM to 5.00PM <br>
 
 **Gate 3 will be used for arrival and dismissal**
 ![](/images/2023%20MK/Picture8.png)
@@ -50,16 +50,16 @@ Parents are discouraged from preparing food-related items for goodie bags due to
 
 **Unwell Child**
 
- Health screening will be conducted daily upon arrival.
+&nbsp;Health screening will be conducted daily upon arrival.
 If your child has the following symptoms, please keep your child at home.
 
-● high fever (above 37.5 ° C)<br>
-● throat infection <br>
-● conjunctivitis (sore eyes) <br>
-● diarrhoea <br>
-● vomiting <br>
-● head lice <br>
-● communicable diseases such as chicken pox, gastric flu, hand-foot-and-mouth disease, measles, mumps, rubella
+●&nbsp;high fever (above 37.5 ° C)<br>
+●&nbsp;throat infection <br>
+●&nbsp;conjunctivitis (sore eyes) <br>
+●&nbsp;diarrhoea <br>
+●&nbsp;vomiting <br>
+●&nbsp;head lice <br>
+●&nbsp;communicable diseases such as chicken pox, gastric flu, hand-foot-and-mouth disease, measles, mumps, rubella
 
 Children who are unwell or have had recent contact with infected persons are strongly encouraged to self-test using an Antigen Rapid Test (ART) kit.
 
@@ -75,8 +75,8 @@ MOE Kindergarten fees
 
 The monthly fee for MK in 2022 and 2023 is:
 
-●      $160 for Singapore Citizens (SCs). <br>
-●      $320 for Singapore Permanent Residents (PRs).
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $160 for Singapore Citizens (SCs). <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $320 for Singapore Permanent Residents (PRs).
 
 Fees are also payable during the June and December holidays.
 
@@ -99,12 +99,12 @@ Purchasing of MK Uniforms
 You can purchase the MK uniform from either [Beau Voix Uniform](https://beauvoix.com/preschool/) or [Jeep Sing Fashion](https://jeepsinguniform.com/collections/moe-kindergarten-uniforms) at the following prices:
 
 Beau Voix Uniform <br>
-●      $7 for polo T-shirt. <br>
-●      $7 for khaki shorts (for boys) or skorts (for girls).
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $7 for polo T-shirt. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $7 for khaki shorts (for boys) or skorts (for girls).
 
 Jeep Sing Fashion <br>
-●      $7 for polo T-shirt. <br>
-●      $8 for khaki shorts (for boys) or skorts (for girls).
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $7 for polo T-shirt. <br>
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $8 for khaki shorts (for boys) or skorts (for girls).
 
 ![](/images/2023%20MK/Picture13.png)
 
