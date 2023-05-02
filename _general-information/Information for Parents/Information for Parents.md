@@ -50,7 +50,7 @@ More details will also be available via the MOE Internet ([www.moe.edu.sg](http:
 WE Stories is a collection of stories from all secondary schools in the West Zone. You will find within the updated 2023 edition a map that shows schools in their geographical location with links that lead the reader directly to the respective school’s stories.
 
 Click here ([https://online.fliphtml5.com/obrr/qkde/#p=1](https://go.gov.sg/westories-official/)) to access latest WE STories.
-- Guide to Using WE STories ([Video Guide on how to navigate WE STories -	Shared by Westwood Primary] (https://drive.google.com/file/d/1I5bXtNZahXvd4YibQJj-Mo2JSAjdgRIu/view?usp=share_link/))
-- Sharing of Good Practice ([Learn how schools use WE STories in their school-based ECG programme -	Shared by Zhenghua Primary] (https://drive.google.com/file/d/1CaM8OAsgXNeVeK5z81kScfof09PIjIaz/view?usp=sharing/))
+- Guide to Using WE STories ([Video Guide on how to navigate WE STories -	Shared by Westwood Primary](https://drive.google.com/file/d/1I5bXtNZahXvd4YibQJj-Mo2JSAjdgRIu/view?usp=share_link/))
+- Sharing of Good Practice ([Learn how schools use WE STories in their school-based ECG programme -	Shared by Zhenghua Primary](https://drive.google.com/file/d/1CaM8OAsgXNeVeK5z81kScfof09PIjIaz/view?usp=sharing/))
 
 
