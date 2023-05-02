@@ -49,4 +49,4 @@ More details will also be available via the MOE Internet ([www.moe.edu.sg](http:
 
 WE Stories is a collection of stories from all secondary schools in the West Zone. You will find within the updated 2023 edition a map that shows schools in their geographical location with links that lead the reader directly to the respective school’s stories.
 
-Click here ([https://online.fliphtml5.com/obrr/qkde/#p=1]https://go.gov.sg/westories-official/) to access latest WE STories.
+Click here ([https://online.fliphtml5.com/obrr/qkde/#p=1](https://go.gov.sg/westories-official/)) to access latest WE STories.
