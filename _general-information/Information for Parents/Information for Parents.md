@@ -43,7 +43,7 @@ Direct School Admission (DSA) Application (For Parents / Guardians of P6 Student
 
 The school will distribute information notes and brochure of the above-mentioned in March/April. Please do take the time to read through the notes and brochures, and be familiar with the time frame as well as the corresponding actions to be taken, should you want your child/ward to participate in the DSA exercise.
 
-More details will also be available via the MOE Internet ([www.moe.edu.sg](http://www.moe.edu.sg/)) in March/April.
+More details will also be available via the MOE Internet ([www.moe.gov.sg](http://www.moe.gov.sg/)) in March/April.
 
 ### WE STories
 
