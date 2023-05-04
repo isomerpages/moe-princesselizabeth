@@ -14,7 +14,7 @@ The Student Learning Space is an online platform that will support Teaching and 
  [vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/)
 
 SLS User Guide for Students, Technical Support & Login Troubleshooting User Guide:  
-[https://docs.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html](https://docs.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html)  
+[SLS FAQs](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)  
   
 Guide to SLS Account Management - Instructions for Students:  
 [Guide to SLS Account Management Instructions for Students](/files/Guide%20to%20SLS%20Account%20Management%20%20Instructions%20for%20Students.pdf)
