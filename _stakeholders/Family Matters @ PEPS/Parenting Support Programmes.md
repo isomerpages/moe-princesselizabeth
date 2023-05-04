@@ -1,12 +1,12 @@
 ---
 title: Parenting Support Programmes
-permalink: /stakeholders/family-matters-at-peps/parenting-support-programmes
+permalink: /stakeholders/family-matters-at-peps/parenting-support-programmes/
 description: ""
 third_nav_title: Family Matters @ PEPS
 ---
-There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why Triple P Positive Parenting Programmes can help.
+There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;Triple P Positive Parenting Programmes&nbsp;can help.
 
-**Triple P** is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to **promote children and teens’ psychological, social, and emotional competence**. Parents who attend the sessions will receive **complimentary** **Triple P resources** (subject to terms and conditions).
+**Triple P**&nbsp;is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to&nbsp;**promote children and teens’ psychological, social, and emotional competence**. Parents who attend the sessions will receive&nbsp;**complimentary**&nbsp;**Triple P resources**&nbsp;(subject to terms and conditions).
 
 Triple P built on a tiered system that provides different degrees of parental support.
 
@@ -45,7 +45,7 @@ Triple P built on a tiered system that provides different degrees of parental su
 
 ### Feedback on 2021 Triple P Level Seminars
 
-2021 Triple P Level Seminars have come to an end. We are grateful to learn from our partner, **Fei Yue Community Services**, that the seminars have supported you well in one way or another.  
+2021 Triple P Level Seminars have come to an end. We are grateful to learn from our partner,&nbsp;**Fei Yue Community Services**, that the seminars have supported you well in one way or another.  
   
 Hear what some parents have got to say below:
 
@@ -112,14 +112,13 @@ Hear what some parents have got to say below:
 </tbody>
 </table>
 
-Princess Elizabeth Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. If you are interested, you may indicate your interest in Triple P at [https://go.fycs.org/PSS](https://go.fycs.org/PSS).
+Princess Elizabeth Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/&nbsp;Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. If you are interested, you may&nbsp;indicate your interest in Triple P at&nbsp;[https://go.fycs.org/PSS](https://go.fycs.org/PSS).
 
-[Fei Yue Triple PTeaser](https://youtu.be/OktQSOzQ0oY) (https://youtu.be/OktQSOzQ0oY)
+[Fei Yue Triple PTeaser](https://youtu.be/OktQSOzQ0oY)&nbsp;(https://youtu.be/OktQSOzQ0oY)
 
 
-<img src="/images/Pic2-1.jpg" 
-     style="width:75%">
+<img src="/images/Pic2-1.jpg" style="width:75%">
 
-Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes. [https://go.fycs.org/FLEsignup2022](https://go.fycs.org/FLEsignup2022).
+Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes.&nbsp;[https://go.fycs.org/FLEsignup2023](https://forms.office.com/Pages/ResponsePage.aspx?id=enp5W2h6KEyJkTbCaPjr653z4zpLd_ROo02qNlNriXxUNlVBWUNEUEpXVEpCN04yNTlMMVpVQlNBUC4u)
 
-For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at [claraang@fycs.org](mailto:claraang@fycs.org) or 84282433.
+For enquiries, please contact Fei Yue’s staff, Ms Clara Ang, at&nbsp;[claraang@fycs.org](mailto:claraang@fycs.org)&nbsp;or 84282433.
