@@ -8,8 +8,6 @@ third_nav_title: ICT Matters
 
 **[Koobits](https://problemsums.koobits.com/)**
 
-**[学乐](https://xuele.moe.edu.sg/xuele/slot/u107/index1.html)**
-
-**[iMTL Portal](https://imtl.moe.edu.sg/)**
+**[学乐](https://iwant2study.org/taskmeisterx/index.php/interactive-resources/mother-tongue-languages/chinese/136-xuele-ministry-of-education/)**
 
 **[Dudu Town](http://go.dudu.town/cos/o.x?c=/ca4_dd/user&func=login)**

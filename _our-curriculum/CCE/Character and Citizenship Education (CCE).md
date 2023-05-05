@@ -47,7 +47,7 @@ The Learning Our Values through Empathy (LOVE) Experience is the school’s Valu
 
 The LOVE Experience aims to create a positive impact on students’ wellbeing by empowering PEPS students to make a positive change that results in achievement and success. The programme also develops active citizenship in the students as they empathise and help targeted members of the community. The entire process of empathizing, applying their new knowledge and finally trying to address the needs of the target audience enables students to find their VIA learning journey meaningful.
 
-For more information on the LOVE Experience, click **[here](https://princesselizabethpri.moe.edu.sg/signature-programmes-n-events/learning-for-life-programme-student-leadership-n-via/values-in-action-via)**.
+For more information on the LOVE Experience, click **[here](https://www.princesselizabethpri.moe.edu.sg/signature-programme-and-events/Learning-for-Life-Programmes/Values-In-Action-VIA/)**.
 
 
 ![](/images/CCE2.png)
