@@ -1,5 +1,5 @@
 collections:
-  signature-programme-and-events:
+  programme-events:
     output: true
     order:
       - Applied Learning Programme (Innovation and Enterprise).md
