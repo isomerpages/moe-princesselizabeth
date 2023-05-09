@@ -33,7 +33,7 @@ description: ""
 
 ### Earth Day 2023 ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXrFwfExjAIZhC4LaKDlfTb9B-3Fh_FUzTGM-btmczQmBpVSS0LxF1jtuvdQkKq4221LegIxsZjnzl/embed?start=false&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXrFwfExjAIZhC4LaKDlfTb9B-3Fh_FUzTGM-btmczQmBpVSS0LxF1jtuvdQkKq4221LegIxsZjnzl/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
 
 ### Hari Raya 2023 ###
 
