@@ -13,20 +13,28 @@ description: ""
 
 ### Chinese New Year 2023 ###
 
-<iframe allowfullscreen="true" height="400" width="648" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTm1DMRPMMshhRoml9fCrA4an9xleEIgp90LKOME2rgAK43z2sInldV7UlTE2_XIxlOyNmXX15h0wI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTm1DMRPMMshhRoml9fCrA4an9xleEIgp90LKOME2rgAK43z2sInldV7UlTE2_XIxlOyNmXX15h0wI/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
 
 ### MK Open House 2023 ###
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqdL9dSIYsQ4S7h2FuLzLlv0G_BsR76__WFmAEBfND5ZGlfZ1n6Ij7XA89t_52r2SPRZ7nOANdbygO/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="400" width="648" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqdL9dSIYsQ4S7h2FuLzLlv0G_BsR76__WFmAEBfND5ZGlfZ1n6Ij7XA89t_52r2SPRZ7nOANdbygO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
 ### Last Day of Term One! ###
 
 <div class="bp-youtube">
 	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Y9GT9FO3lVU" height="400" width="648"></iframe>
+<iframe width="648" height="400" src="https://www.youtube.com/embed/Y9GT9FO3lVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	
 </div>
 
 ### MK Term 2 First Day of School ###
 
-<iframe allowfullscreen="true" height="400" width="648" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
+
+### Earth Day 2023 ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXrFwfExjAIZhC4LaKDlfTb9B-3Fh_FUzTGM-btmczQmBpVSS0LxF1jtuvdQkKq4221LegIxsZjnzl/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
+
+### Hari Raya 2023 ###
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnKGiiWXjB9en4sceLoFiYG8NVZas2I0WkuavWjU__RFJ5w3dgKzQ2BLFBhYj0MMcn8tSotNz54TF7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
