@@ -18,4 +18,12 @@ sections:
         - title: Downloads
           description: ""
           url: /announcements-n-downloads/downloads/briefings-n-workshops
+  - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION
+      description: Infopic description
+      button: "VIEW OR ASK QUESTIONS ON ASK.GOV "
+      url: https://go.ask.gov.sg/peps
+      image: /images/peps-askgov.png
+      alt: Image alt text
 ---
