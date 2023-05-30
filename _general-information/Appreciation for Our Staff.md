@@ -1,6 +1,6 @@
 ---
 title: Appreciation for Our Staff
-permalink: /general-information/appreciation-for-our-staff
+permalink: /general-information/appreciation-for-our-staff/
 description: ""
 ---
 ![](/images/Appreciation1.png)
@@ -10,3 +10,5 @@ description: ""
 
 ![](/images/appreciation4.png)
 ![](/images/appreciation5.png)
+
+![](/images/may2023_staffappreciation.PNG)
