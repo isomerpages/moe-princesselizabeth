@@ -5,11 +5,11 @@ description: ""
 ---
 ### Teachers' Email 2023
 
-**Class  & Teachers & Email 2023 - Updated 2 January 2023**
+**Class &nbsp;&amp; Teachers &amp; Email 2023 - Updated 2 January 2023**
 
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -18,13 +18,13 @@ description: ""
 <tbody>
   <tr>
     <td>1A</td>
-    <td>Mrs Sharon Grace Tiew-Tan Boon Fong<br>Ms Kalpana Panaysilvam (Level Coordinator)<br>Mdm Hasimah Hasim</td>
-    <td>tan_boon_fong_sharon@schools.gov.sg<br>kalpana_panaysilvam@schools.gov.sg<br>hasimah_hasim@schools.gov.sg</td>
+    <td>Mrs Sharon Grace Tiew-Tan Boon Fong<br>Ms Kalpana Panaysilvam (Level Coordinator)</td>
+    <td>tan_boon_fong_sharon@schools.gov.sg<br>kalpana_panaysilvam@schools.gov.sg</td>
   </tr>
   <tr>
     <td>1B</td>
-    <td>Ms Poh Chiew Fong<br>Ms Michelle Ng<br>Miss Yew Hui Tin (HOD MT)</td>
-    <td>poh_chiew_fong@schools.gov.sg<br>ng_sook_ling@schools.gov.sg<br>yew_hui_tin@schools.gov.sg</td>
+    <td>Ms Poh Chiew Fong<br>Ms Michelle Ng</td>
+    <td>poh_chiew_fong@schools.gov.sg<br>ng_sook_ling@schools.gov.sg</td>
   </tr>
   <tr>
     <td>1C</td>
@@ -43,8 +43,8 @@ description: ""
   </tr>
   <tr>
     <td>1F</td>
-    <td>Mdm Ow May Ling, Angeline (LH EL)<br>Mdm Siti Zahidah Bte Suhaimi</td>
-    <td>ow_may_ling_angeline@schools.gov.sg<br>siti_zahidah_suhaimi@schools.gov.sg<br></td>
+    <td>Mdm Ow May Ling, Angeline (LH EL)<br>Mdm Siti Zahidah Bte Suhaimi<br>Mdm Hasimah Hasim</td>
+    <td>ow_may_ling_angeline@schools.gov.sg<br>siti_zahidah_suhaimi@schools.gov.sg<br>hasimah_hasim@schools.gov.sg</td>
   </tr>
   <tr>
     <td>1G</td>
@@ -57,7 +57,7 @@ description: ""
 
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -71,18 +71,18 @@ description: ""
   </tr>
   <tr>
     <td>2B</td>
-    <td>Ms Nur Diana Bte Abd Rahman (SH Student Leaderhip &amp; VIA)<br>Mdm Kan Pui Yan<br>Mr Zaid Bin Rasid (HOD PE/CCA/Aesthetics)</td>
-    <td>nur_diana_abdul_rahman@schools.gov.sg<br>kan_pui_yan@schools.gov.sg<br>zaid_rasid@schools.gov.sg</td>
+    <td>Ms Nur Diana Bte Abd Rahman (SH Student Leaderhip &amp; VIA)<br>Mr Zaid Bin Rasid (HOD PE/CCA/Aesthetics)</td>
+    <td>nur_diana_abdul_rahman@schools.gov.sg<br>zaid_rasid@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2C</td>
-    <td>Mdm Lee Yian Ping, Emily<br>Mdm Nur Anamaria Bte Mohamed Amin</td>
-    <td>lee_yian_ping@schools.gov.sg<br>nur_anamaria_mohamed_ami@schools.gov.sg</td>
+    <td>Mdm Lee Yian Ping, Emily<br>Ms Chanel Neo Wen Fang</td>
+    <td>lee_yian_ping@schools.gov.sg<br>chanel_neo_wen_fang@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2D</td>
-    <td>Mrs Fiona Soh<br>Mdm Lim Lee Choon<br>Mdm Dalvindar Kaur (HOD English)<br></td>
-    <td>nah_min_yee_fiona@schools.gov.sg<br>lim_lee_choon@schools.gov.sg<br>dalvindar_kaur@schools.gov.sg<br></td>
+    <td>Mrs Fiona Soh<br>Mdm Lim Lee Choon<br>Miss Yew Hui Tin (HOD MT)</td>
+    <td>nah_min_yee_fiona@schools.gov.sg<br>lim_lee_choon@schools.gov.sg<br>yew_hui_tin@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2E</td>
@@ -91,8 +91,8 @@ description: ""
   </tr>
   <tr>
     <td>2F</td>
-    <td>Mdm Chew Tuck Wah<br>Ms Liu Wei</td>
-    <td>chew_tuck_wah@schools.gov.sg<br>liu_wei@schools.gov.sg</td>
+    <td>Ms Liu Wei<br>Mdm Kan Pui Yan</td>
+    <td>liu_wei@schools.gov.sg<br>kan_pui_yan@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2G</td>
@@ -104,7 +104,7 @@ description: ""
 <br>
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -141,7 +141,7 @@ description: ""
 <br>
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -155,13 +155,13 @@ description: ""
   </tr>
   <tr>
     <td>4S</td>
-    <td>Ms Chung Kai Sin<br>Mr Khor Lee Chiang<br>Ms Chen Pei Yu</td>
-    <td>chung_kai_sin@schools.gov.sg<br>khor_lee_chiang@schools.gov.sg<br>chen_peiyu@schools.gov.sg</td>
+    <td>Ms Chung Kai Sin<br>Mr Khor Lee Chiang</td>
+    <td>chung_kai_sin@schools.gov.sg<br>khor_lee_chiang@schools.gov.sg</td>
   </tr>
   <tr>
     <td>4P</td>
-    <td>Ms Sarah Chu Mun<br>Mr Shahroom Noor B Mumeen Muhamed (LH ICT)<br>Mdm Gayathri Naidu D/O Krishnasamy<br>Ms Yap Shu Jun (LH Math)</td>
-    <td>sarah_chu_mun@schools.gov.sg<br>shahroom_noor_mumeen_mohamed@schools.gov.sg<br>gayathri_naidu_krishnasamy@schools.gov.sg<br>yap_shu_jun@schools.gov.sg<br></td>
+    <td>Ms Sarah Chu Mun<br>Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</td>
+    <td>sarah_chu_mun@schools.gov.sg<br>shahroom_noor_mumeen_mohamed@schools.gov.sg</td>
   </tr>
   <tr>
     <td>4I</td>
@@ -179,7 +179,7 @@ description: ""
 <br>
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -198,13 +198,13 @@ description: ""
   </tr>
   <tr>
     <td>5P</td>
-    <td>Mr Teng Shin Chee<br>Ms Chin Sau Lai (LH EL/MRL)</td>
-    <td>teng_shin_chee@schools.gov.sg<br>chin_sau_lai@schools.gov.sg<br></td>
+    <td>Mr Teng Shin Chee<br>Mrs Marselyn Jonatan Prakarsah</td>
+    <td>teng_shin_chee@schools.gov.sg<br>marselyn_prakarsah@schools.gov.sg</td>
   </tr>
   <tr>
     <td>5I</td>
-    <td>Ms Goh Ser Ling Nicole (ST EL)<br>Ms Foo Yan Ni<br></td>
-    <td>goh_ser_ling_nicole@schools.gov.sg<br>foo_yan_ni@schools.gov.sg</td>
+    <td>Ms Chin Sau Lai (LH EL/MRL)<br>Ms Foo Yan Ni<br></td>
+    <td>chin_sau_lai@schools.gov.sg<br>foo_yan_ni@schools.gov.sg</td>
   </tr>
   <tr>
     <td>5R</td>
@@ -221,7 +221,7 @@ description: ""
 <br>
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th>Class</th>
     <th>Name of Teacher</th>
     <th>Email Address</th>
@@ -230,8 +230,8 @@ description: ""
 <tbody>
   <tr>
     <td>6A</td>
-    <td>Ms Noorhirdawati Bte Buang (Level Coordinator)<br>Mr Aaron Chan Jit Ming (LH PE/CCA)<br>Ms Ms Chanel Neo Wen Fang<br></td>
-    <td>noorhirdawati_buang@schools.gov.sg<br>chan_jit_ming@schools.gov.sg<br>chanel_neo_wen_fang@schools.gov.sg</td>
+    <td>Ms Noorhirdawati Bte Buang (Level Coordinator)<br>Mr Aaron Chan Jit Ming (LH PE/CCA)</td>
+    <td>noorhirdawati_buang@schools.gov.sg<br>chan_jit_ming@schools.gov.sg</td>
   </tr>
   <tr>
     <td>6S</td>
@@ -263,7 +263,7 @@ description: ""
 <br>
 <table>
 <thead>
-  <tr bgcolor= "grey">
+  <tr bgcolor="grey">
     <th colspan="3">Name of Teacher</th>
     <th>Email Address</th>
   </tr>
