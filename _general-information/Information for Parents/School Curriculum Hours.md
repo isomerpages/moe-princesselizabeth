@@ -51,7 +51,7 @@ third_nav_title: Information for Parents
 Flag raising ceremony commences at 7.30am  
 Official school hours are from 7.30am to 1.30pm on non CCA days.  
   
-School dismissal timing and gate allocation with effect from January 2023.
+School dismissal timing and gate allocation with effect from 26 Jun 2023.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -72,13 +72,10 @@ School dismissal timing and gate allocation with effect from January 2023.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f4yw">Gate 3</td>
-    <td class="tg-f4yw">P2</td>
-    <td class="tg-f4yw">1.30pm</td>
-  </tr>
+     </tr>
   <tr>
     <td class="tg-f4yw">Gate 4</td>
-    <td class="tg-f4yw">P1 </td>
+    <td class="tg-f4yw">P1 to P2 </td>
     <td class="tg-f4yw">1.25pm <br></td>
   </tr>
   <tr>
