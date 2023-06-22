@@ -198,8 +198,8 @@ description: ""
   </tr>
   <tr>
     <td>5P</td>
-    <td>Mr Teng Shin Chee<br>Mrs Marselyn Jonatan Prakarsah</td>
-    <td>teng_shin_chee@schools.gov.sg<br>marselyn_prakarsah@schools.gov.sg</td>
+    <td>Mr Teng Shin Chee<br>Mdm Kamisah Bte Salleh(YH UP)<br>Xenna Abdalla</td>
+    <td>teng_shin_chee@schools.gov.sg<br>kamisah_salleh@schools.gov.sg</td>
   </tr>
   <tr>
     <td>5I</td>
