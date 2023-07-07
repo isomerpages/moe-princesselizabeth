@@ -11,6 +11,3 @@ description: ""
 * [PEPS P5 FDN 2023](/files/Booklist/2023/PEPS%20P5%20FDN%202023.pdf)
 * [PEPS P6 2023](/files/Booklist/2023/PEPS%20P6%20%202023.pdf)
 * [PEPS P6 FDN 2023](/files/Booklist/2023/PEPS%20P6%20FDN%202023.pdf)
-
-**Please disregard - website testing in progress..**
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUs9qeUX11NitWlleY-K3__T9HZR_UJH2-1mJlN1W-VzV9ogsDhqT8swzVnCIZ_04II4dlf0R41Agd/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe>
