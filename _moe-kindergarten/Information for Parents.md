@@ -9,25 +9,27 @@ Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.
 
 Calendar of Events&nbsp; will be provided termly:
 
-**Term 3: 26 Jun to 1 Sept**
+**Term 3: Monday, 26 Jun to Friday, 1 Sept**
 
 | Date | Description | Remark |
 | -------- | -------- | -------- |
-| 26 Jun <br> Monday     | Mini Molly comes to MK@PEPS     | • Time: 0900 to 1600hrs     |
+| 26 Jun <br> Monday     | MK Reads: Mini Molly Visits MK@ PEPS     | • MK children will visit the mobile library and borrow 4 books with their NLB cards.<br>• They will practice responsibility by returning the books timely at the book drop of any NLB convenient for them.<br>• They will cultivate the joy for reading and care for the books they have borrowed.     |
 | 29 Jun <br> Thursday    | Hari Raya Haji     | • Public Holiday     |
-| 3 Jul <br> Monday    | Youth Day     | • School Holiday     |
-| 4 Jul <br> Tuesday    | Class / Staff Photo Taking     |    |
-| 6 Jul <br> Thursday    | Class / Staff Photo Taking     |     |
-| 17 Jul <br> Monday    | Character Alives Day    |      |
-| 21 Jul <br> Friday    | Racial Harmony Day Celebration     |      |
-| 28 Jul <br>Friday    | July Birthday Celebration     |      |
-| 8 Aug <br> Tuesday    | National Day Celebration (Half-Day)     | • KCare PM centre closure from 1.30pm     |
+| 3 Jul <br> Monday    | Youth Day School Holiday     | • KCare operates as per normal, 7am to 7pm.     |
+| 6 Jul <br> Thursday    | Class Photo Day     |  • MK children and teachers will have their class pictures taken by professional photographers.<br>• Dress smart and neat in MK uniform.<br>• Wear covered shoes with socks.<br>• Ensure hair is neat and tidy.   |
+| 17 Jul <br> Monday    | Characters Alive Day    |  • Design and dress up in your favorite storybook character costume.<br>• Bring the book that showcases your character for show-and-tell.<br>• Come by 7.50am and join PEPS morning assembly.    |
+| 18 Jul <br> Tuesday    | EYC Transition Program     |  • EYC Partner-Sparkletots at Blk 446 to visit MK.    |
+| 21 Jul <br> Friday    | Racial Harmony Day     |  • Dress in Ethnic costume.<br>• In-school activities to share about the cultural diversity in Singapore.<br>• No change in regular curriculum.    |
+| 28 Jul <br>Friday    | July Birthday Celebration     |  • MK will provide a birthday cake as snack for the day.    |
+| 8 Aug <br> Tuesday    | National Day Celebration     | • MK joins PEPS for celebrations from 7.30am to 10.30am.<br>• KCare operates till 1.30pm.     |
 | 9 Aug <br> Wednesday    | National Day     | • Public Holiday     |
-| 10 Aug <br> Thursday    | National Day     | • School Holiday     |
-| 25 Aug <br> Friday    | August Birthday Celebration     |      |
-| 31 Aug <br> Thursday    | Teacher's Day Celebration (Half-Day)     |      |
-| 1 Sept <br> Friday    | Teacher's Day     | • School Holiday<br>• KCare Centre Closure  |
-| Saturday, 2 Sept to Sunday, 10 Sept    | Term 3 School Holidays     | • Term 3 school holiday for MK <br>• KCare remains open     |
+| 10 Aug <br> Thursday    | National Day School Holiday     | • KCare operates as per normal, 7am to 7pm.     |
+| 22 &amp; 23 Aug <br> Tuesday - Wednesday    | HPB National Myopia Prevention Programme     |  • Eye screening by HPB during curriculum hours.<br>• Complete Eye Condition Form by 13 Aug.    |
+| 25 Aug <br> Friday    | August Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
+| 30 Aug <br> Wednesday    | LIFE@MK: Art Appreciation Day     |  • Parents will be invited to view the children’s artworks during curriculum hours. <br>More details will be shared.    |
+| 31 Aug <br> Thursday    | Teacher’s Day Celebration     |  • MK joins PEPS for celebrations from 7.50am to 10.30am.    |
+| 1 Sept <br> Friday    | Teachers’ Day     | • MK and KCare are closed.  |
+| Saturday, 2 Sept to Sunday, 10 Sept    | Term 3 School Holidays     | • Term 3 school holidays for MK.<br>• KCare remains open.     |
 
 
  **Arrival and Dismissal**
