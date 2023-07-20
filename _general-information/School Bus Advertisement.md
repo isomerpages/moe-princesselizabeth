@@ -19,10 +19,10 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 August 2023, to the School’s General Office.
 
-**Address: 30 Bukit Batok West Ave 3 S659163**<br>
-**Contact No: 6565 5111**<br>
-**Email: peps@moe.edu.sg**<br>
-**Contact Person: Mr Tan Yee Sheng**
+**Address:** 30 Bukit Batok West Ave 3 S659163<br>
+**Contact No:** 6565 5111<br>
+**Email:** peps@moe.edu.sg<br>
+**Contact Person:** Mr Tan Yee Sheng
 
 ### How to get there?
 
