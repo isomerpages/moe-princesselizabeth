@@ -21,7 +21,7 @@ sections:
   - infobar:
       title: School Bus Advertisement
       button: Click here for Details
-      url: /general-information/School-Services/school-bus-service/
+      url: /general-information/school-bus-ad
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
