@@ -1,6 +1,6 @@
 ---
 title: School Dental Clinic
-permalink: /general-information/School-Services/school-dental-clinic
+permalink: /general-information/School-Services/school-dental-clinic/
 description: ""
 third_nav_title: School Services
 ---
@@ -11,4 +11,4 @@ third_nav_title: School Services
   
 Please call to check opening hours.  
   
-**Contact No.:** 6566 1035
+**Contact No.:** 9115 4622
