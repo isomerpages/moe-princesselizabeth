@@ -18,6 +18,10 @@ sections:
         - title: Downloads
           description: ""
           url: /announcements-n-downloads/downloads/briefings-n-workshops
+  - infobar:
+      title: School Bus Advertisement
+      button: Click here for Details
+      url: /general-information/school-bus-ad
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
