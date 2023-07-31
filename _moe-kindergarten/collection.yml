@@ -2,10 +2,10 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - "Our Children: Activities/Term 3.md"
       - "Our Children: Activities/.keep"
       - "Our Children: Activities/Term 1.md"
       - "Our Children: Activities/Term 2.md"
+      - "Our Children: Activities/Term 3.md"
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
       - Information for Parents.md
