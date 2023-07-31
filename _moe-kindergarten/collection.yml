@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - "Our Children: Activities/Term 2.md"
       - "Our Children: Activities/Term 1.md"
       - "Our Children: Activities/.keep"
       - MK@Princess Elizabeth.md
