@@ -1,7 +1,8 @@
 ---
-title: "Our Children: Events & Celebrations"
-permalink: /moe-kindergarten/our-children-events-and-celebrations/
+title: Term 1
+permalink: /moe-kindergarten/our-children-events/term-1/
 description: ""
+third_nav_title: "Our Children: Events"
 ---
 ### Children Engagement on 30/12/2022 ###
 ![](/images/2023%20MK/Picture20.jpg)
@@ -26,15 +27,3 @@ description: ""
 <iframe width="648" height="400" src="https://www.youtube.com/embed/Y9GT9FO3lVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 	
 </div>
-
-### MK Term 2 First Day of School ###
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
-
-### Earth Day 2023 ###
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXrFwfExjAIZhC4LaKDlfTb9B-3Fh_FUzTGM-btmczQmBpVSS0LxF1jtuvdQkKq4221LegIxsZjnzl/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
-
-### Hari Raya 2023 ###
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnKGiiWXjB9en4sceLoFiYG8NVZas2I0WkuavWjU__RFJ5w3dgKzQ2BLFBhYj0MMcn8tSotNz54TF7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="648" height="400" allowfullscreen="true"></iframe>
