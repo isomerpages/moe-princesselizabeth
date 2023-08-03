@@ -14,13 +14,13 @@ As part of PEPS and MK@ Princess Elizabeth National Day #OOTD Contest, students 
 Let your child’s OOTD represent their national pride. It is time to bring on the patriotic fun in PEPS! There will be a mini competition to select the best dressed students.
 As part of Family Time activity, you are invited to upload pictures on how you and your child celebrate National Day with your loved ones via the following Padlet Wall link or QR Code:
 
-![](/images/ndp%202023_qr.PNG)
 
-https://bit.ly/pepsnd
+
+| ![](/images/ndp%202023_qr.PNG) | https://bit.ly/pepsnd |  |
+| -------- | -------- | -------- |
+
 
 All students are to report to school by 7.30 a.m. and will be dismissed at Gate 4 at the following staggered timings:
-
-
 
 | Time | Levels Dismissed at Gate 4 |
 | -------- | -------- |
@@ -60,6 +60,3 @@ PTM would be held on **30 August, from 8am to 4pm**, for all levels. Parents fro
 | 2 Oct | PSLE Mother Tongue Language<br>PSLE Foundation Mother Tongue Language |  |
 | 3 Oct | PSLE Science<br>PSLE Foundation Science |  |
 | 4 Oct | PSLE Higher Mother Tongue Language |  |
-
-
-
