@@ -3,26 +3,23 @@ title: Announcements
 permalink: /announcements-n-downloads/announcements/
 description: ""
 ---
-### Weighted Assessment 1
+### National Day Celebrations 2023
 
-Students from Primary 3 to 5 would be having their Weighted Assessment 1 in the month of May and we would like all parents to refer to the PG notification and take note of the dates when your child would be having their class assessments for the various subjects.
+We will be celebrating National Day on Tuesday, 8 August 2023. This year, the theme for NDP 2023 is “Onward as One”.
 
-Please ensure your child is present for the assessments and should they be absent without a valid reason, your child would be marked as absent without a valid reason.
+It calls upon Singaporeans to look forward confidently and move onward together in building our shared future as one united people.
 
-Primary 6 students would be having Timed-Practices in Term 2 to help them prepare for their upcoming Preliminary Examination and Primary School Leaving Examination in Term 3.
+As part of PEPS and MK@ Princess Elizabeth National Day #OOTD Contest, students are encouraged to dress in their best National Day Red and White Outfit of the Day (OOTD). PEPS bursting with white and red colours – what better way to show our love for our country. So go all out; let your child come in red and white face paint, temporary National Day-related tattoos and bring the National Flag to wave in the air. 
 
-### Primary 4 Camp
+Let your child’s OOTD represent their national pride. It is time to bring on the patriotic fun in PEPS! There will be a mini competition to select the best dressed students.
+As part of Family Time activity, you are invited to upload pictures on how you and your child celebrate National Day with your loved ones via the following Padlet Wall link or QR Code:
 
-Primary 4 students would have the opportunity to experience outdoor learning through the 2D1N Camp organised for them. The camp would be held on **18-19 May 2023**.
 
-Attendance is compulsory.
 
-### Parent-Teacher-Child Conference (PCTC)
+https://bit.ly/pepsnd
 
-Please note that PCTC will be held on **26 May 2023** in school from **8:00am to 4:00pm**. <br>There will be no school on that day. <br>Parents will be invited to the school to meet with the form teachers. <br>
+### Weighted Assessment 2 (WA2) 2023 For Primary 3-5
+As a continual process to develop your child’s self-directedness and cultivate a learn-for-life attitude, the school will be conducting WA2 in Term 3 (Refer to PG Notification which has already been sent to you for more details).
 
-More details will be shared with you shortly.
-
-### School Holidays
-
-School holidays would be from **27 May 2023 to 25 June 2023**.  <br>School reopens on **26 June 2023 for Term 3**.
+### Timed Practice For Primary 6
+The school organised Timed Practice sessions for the Primary 6 students on Wednesday afternoons from 2 pm to 4 pm to familiarize with themselves with examination conditions and help them stay composed and collected during the examination. Doing the Timed Practice will help them to determine topics they know and areas they need to focus on.
