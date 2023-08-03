@@ -16,8 +16,9 @@ As part of Family Time activity, you are invited to upload pictures on how you a
 
 
 
-| ![](/images/ndp%202023_qr.PNG) | https://bit.ly/pepsnd |  |
+| ![](/images/ndp%202023_qr.PNG) |  | https://bit.ly/pepsnd |
 | -------- | -------- | -------- |
+|      |      |      |
 
 
 All students are to report to school by 7.30 a.m. and will be dismissed at Gate 4 at the following staggered timings:
