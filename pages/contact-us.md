@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Princess Elizabeth Primary School
 locations:
   - address:
-      - "30 Bukit Batok West Avenue 3, "
+      - 30 Bukit Batok West Avenue 3,
       - Singapore 659163
       - ""
     operating_hours: []
@@ -14,14 +14,14 @@ locations:
 contacts:
   - content:
       - phone: +65 6565 5111
-      - email: ""
-      - other: "Fax: 6563 7859"
+      - email: peps@moe.edu.sg
+      - other: "Fax: +65 6563 7859"
     title: Contact Information
   - content:
       - phone: ""
       - email: ""
       - other: https://go.gov.sg/peps-helpline
-    title: "School Online-Based Helpline  "
+    title: School Online-Based Helpline
   - content:
       - phone: ""
       - email: ""

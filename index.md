@@ -18,6 +18,9 @@ sections:
         - title: Downloads
           description: ""
           url: /announcements-n-downloads/downloads/briefings-n-workshops
+        - title: Appreciate a Staff Member
+          description: ""
+          url: https://form.gov.sg/64db1afe141a460012429257
   - infobar:
       title: School Bus Advertisement
       button: Click here for Details

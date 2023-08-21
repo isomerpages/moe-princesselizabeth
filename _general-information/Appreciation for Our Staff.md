@@ -3,6 +3,9 @@ title: Appreciation for Our Staff
 permalink: /general-information/appreciation-for-our-staff/
 description: ""
 ---
+
+![](/images/aug%20staff%20appreciation.jpg)
+
 ![](/images/jul2023_staffappreciation_v2.PNG)
 
 ![](/images/appreciation2023-01.png)
