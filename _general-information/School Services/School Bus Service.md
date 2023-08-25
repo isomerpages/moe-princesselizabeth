@@ -20,5 +20,4 @@ The School Bus Operator for **2024** can be contacted at the following addresses
 Person-in-charge: Grif Lim <br>
 Email Address: griflim@hotmail.com <br>
 
-
-(PDF) Operator NTE Price
+[Operator NTE Price](/files/operator%20nte%20price_250823.pdf)
