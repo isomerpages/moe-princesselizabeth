@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space
-permalink: /general-information/ICT-Matters/student-learning-space
+permalink: /general-information/ICT-Matters/student-learning-space/
 description: ""
 third_nav_title: ICT Matters
 ---
@@ -13,7 +13,7 @@ The Student Learning Space is an online platform that will support Teaching and 
 
  [vle.learning.moe.edu.sg](https://vle.learning.moe.edu.sg/)
 
-SLS User Guide for Students, Technical Support & Login Troubleshooting User Guide:  
+SLS User Guide for Students, Technical Support &amp; Login Troubleshooting User Guide:  
 [SLS FAQs](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)  
   
 Guide to SLS Account Management - Instructions for Students:  
@@ -25,7 +25,7 @@ Guide to SLS Account Management - Instructions for Students:
 
 #### Q1 : I have forgotten my password. What should I do?
 
-Please refer to [paragraphs 6-9 in Annex A](/files/Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf)
+Please refer to&nbsp;[paragraphs 6-9 in Annex A](/files/Student%20Annexes%20(Instructions%20and%20FAQs,%20updated%2015%20Mar).pdf)
 
 #### Q2 : I have forgotten my username. What should I do?
 
@@ -35,11 +35,11 @@ The format of your user name is a combination of the first 5 characters of your 
 #### Q3 : My account has been locked. What should I do?
 
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password. Please call the SLS Helpdesk to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.  <br>
-Tel: (65) 6702 6513  <br>
-Operating Hours: Mondays - Fridays: 9:00 am ― 9:00 pm, Saturdays: 9:00 am ― 3:00 pm  <br>
-*Closed on Sundays & Public Holidays  
+**Tel:** (65) 6702 6513  <br>
+**Operating Hours:** Mondays - Fridays: 9:00 am ― 9:00 pm, Saturdays: 9:00 am ― 3:00 pm  <br>
+*Closed on Sundays &amp; Public Holidays  
   
-You may fill in the [School Online-Based Helpline (Home-based Learning)](https://go.gov.sg/peps-helpline)  
+You may fill in the&nbsp;[School Online-Based Helpline (Home-based Learning)](https://go.gov.sg/peps-helpline)  
   
 
 #### Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?
@@ -55,7 +55,7 @@ The following are the recommended operating systems:
 * Apple laptop/desktop with Mac OS X 10.9 and later  
 * iPad with iOS 8 and later  
 * Android tablet with Android 5 and later  
-* SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 & later, Google Chrome 51 & later, FireFox 51 & l later or Safari 7.1 & later).  
+* SLS is accessible through the latest internet browsers (minimum: Internet Explorer 11 &amp; later, Google Chrome 51 &amp; later, FireFox 51 &amp; l later or Safari 7.1 &amp; later).  
   
 
 #### Q6 : Can SLS run on mobile phones?
