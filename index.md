@@ -21,10 +21,6 @@ sections:
         - title: Appreciate a Staff Member
           description: ""
           url: https://form.gov.sg/64db1afe141a460012429257
-  - infobar:
-      title: School Bus Advertisement
-      button: Click here for Details
-      url: /general-information/school-bus-ad
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
