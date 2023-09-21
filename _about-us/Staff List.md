@@ -5,7 +5,7 @@ description: ""
 ---
 ### Teachers' Email 2023
 
-**Class &nbsp;&amp; Teachers &amp; Email  - Updated 27 June 2023**
+**Class &nbsp;&amp; Teachers &amp; Email  - Updated as of 21 Sept 2023**
 
 <table>
 <thead>
@@ -66,8 +66,8 @@ description: ""
 <tbody>
   <tr>
     <td>2A</td>
-    <td>Mdm Toh Su Shing, Genevieve (Level Coordinator)<br>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)</td>
-    <td>toh_su_shing_genevieve@schools.gov.sg<br>hasyimah_harith@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg</td>
+    <td>Mdm Toh Su Shing, Genevieve (Level Coordinator)<br>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)<br> Ms Yap Shu Jun (Wef 1st Oct)</td>
+    <td>toh_su_shing_genevieve@schools.gov.sg<br>hasyimah_harith@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg<br>yap_shu_jun@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2B</td>
@@ -113,8 +113,8 @@ description: ""
 <tbody>
   <tr>
     <td>3A</td>
-    <td>Ms Tabitha Tan<br>Mr Mohd Adib Bin Suhiat (ST PE)<br> Ms Yap Shu Jun (Wef 1st Oct)</td>
-    <td>tan_ying_xiu@schools.gov.sg<br>mohd_adib_b_suhiat@schools.gov.sg<br>yap_shu_jun@schools.gov.sg</td>
+    <td>Ms Tabitha Tan<br>Mr Mohd Adib Bin Suhiat (ST PE)</td>
+    <td>tan_ying_xiu@schools.gov.sg<br>mohd_adib_b_suhiat@schools.gov.sg</td>
   </tr>
   <tr>
     <td>3S</td>
