@@ -21,6 +21,9 @@ sections:
         - title: Appreciate a Staff Member
           description: ""
           url: https://form.gov.sg/64db1afe141a460012429257
+        - title: School Calendar
+          description: ""
+          url: /general-information/school-calendar/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
