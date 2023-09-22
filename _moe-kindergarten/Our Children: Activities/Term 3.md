@@ -20,7 +20,7 @@ third_nav_title: "Our Children: Activities"
 </div>
 
 #### Planting with Mr Seelan ####
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7yQHDv5EjBJnGPh2RKmDDTEt3XBa6wHme3n_5eD5NQsyvOqI9iE-rjhHFQPgiZjWsJEZrYVGl92wg/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="560" height="350" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7yQHDv5EjBJnGPh2RKmDDTEt3XBa6wHme3n_5eD5NQsyvOqI9iE-rjhHFQPgiZjWsJEZrYVGl92wg/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="600" height="400" allowfullscreen="true"></iframe>
 
 #### K1 Learning Journey - Jacob Ballas Children's Garden ####
 
