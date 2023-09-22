@@ -66,7 +66,7 @@ description: ""
 <tbody>
   <tr>
     <td>2A</td>
-    <td>Mdm Toh Su Shing, Genevieve (Level Coordinator)<br>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)<br> Ms Yap Shu Jun (Wef 1st Oct)</td>
+    <td>Mdm Toh Su Shing, Genevieve (Level Coordinator)<br>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)<br> Ms Yap Shu Jun</td>
     <td>toh_su_shing_genevieve@schools.gov.sg<br>hasyimah_harith@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg<br>yap_shu_jun@schools.gov.sg</td>
   </tr>
   <tr>
