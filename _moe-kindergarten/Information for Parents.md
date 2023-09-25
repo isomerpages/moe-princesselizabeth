@@ -7,30 +7,25 @@ description: ""
 
 Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
 
-Calendar of Events&nbsp; will be provided termly:
+*Calendar of Events will be provided termly*
 
-**Term 3: Monday, 26 Jun to Friday, 1 Sept**
+**Term 4: Mon 11 Sept to Fri 17 Nov**
 
 | Date | Description | Remark |
 | -------- | -------- | -------- |
-| 26 Jun <br> Monday     | MK Reads: Mini Molly Visits MK@ PEPS     | • MK children will visit the mobile library and borrow 4 books with their NLB cards.<br>• They will practice responsibility by returning the books timely at the book drop of any NLB convenient for them.<br>• They will cultivate the joy for reading and care for the books they have borrowed.     |
-| 29 Jun <br> Thursday    | Hari Raya Haji     | • Public Holiday     |
-| 3 Jul <br> Monday    | Youth Day School Holiday     | • KCare operates as per normal, 7am to 7pm.     |
-| 6 Jul <br> Thursday    | Class Photo Day     |  • MK children and teachers will have their class pictures taken by professional photographers.<br>• Dress smart and neat in MK uniform.<br>• Wear covered shoes with socks.<br>• Ensure hair is neat and tidy.   |
-| 17 Jul <br> Monday    | Characters Alive Day    |  • Design and dress up in your favorite storybook character costume.<br>• Bring the book that showcases your character for show-and-tell.<br>• Come by 7.50am and join PEPS morning assembly.    |
-| 18 Jul <br> Tuesday    | EYC Transition Program     |  • EYC Partner-Sparkletots at Blk 446 to visit MK.    |
-| 21 Jul <br> Friday    | Racial Harmony Day     |  • Dress in Ethnic costume.<br>• In-school activities to share about the cultural diversity in Singapore.<br>• No change in regular curriculum.    |
-| 28 Jul <br>Friday    | July Birthday Celebration     |  • MK will provide a birthday cake as snack for the day.    |
-| 8 Aug <br> Tuesday    | National Day Celebration     | • MK joins PEPS for celebrations from 7.30am to 10.30am.<br>• KCare operates till 1.30pm.     |
-| 9 Aug <br> Wednesday    | National Day     | • Public Holiday     |
-| 10 Aug <br> Thursday    | National Day School Holiday     | • KCare operates as per normal, 7am to 7pm.     |
-| 22 &amp; 23 Aug <br> Tuesday - Wednesday    | HPB National Myopia Prevention Programme     |  • Eye screening by HPB during curriculum hours.<br>• Complete Eye Condition Form by 13 Aug.    |
-| 25 Aug <br> Friday    | August Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
-| 30 Aug <br> Wednesday    | LIFE@MK: Art Appreciation Day     |  • Parents will be invited to view the children’s artworks during curriculum hours. <br>More details will be shared.    |
-| 31 Aug <br> Thursday    | Teacher’s Day Celebration     |  • MK joins PEPS for celebrations from 7.50am to 10.30am.    |
-| 1 Sept <br> Friday    | Teachers’ Day     | • MK and KCare are closed.  |
-| Saturday, 2 Sept to Sunday, 10 Sept    | Term 3 School Holidays     | • Term 3 school holidays for MK.<br>• KCare remains open.     |
-
+| 11 Sep<br>Monday     | Teacher’s Day School Holiday     | • MK and KCare are closed. |
+| 29 Sep<br>Friday    | September Birthday Celebration     | • MK will provide a birthday cake as snack for the day.     |
+| 2 Oct<br>Monday | Fire Drill (2) | • If weather permits, Fire Drill will be conducted, and evacuation will be at External Holding Area - Millenia Institute. |
+| 5 Oct<br>Thursday | Children’s Day Celebration | • Combined morning school for MK, 8am to 12pm. Arrival starts at 7.50am.<br>• KCare operates as per normal, 7am to 7pm. |
+| 6 Oct<br>Friday | Children’s Day School Holiday | • MK and KCare are closed. |
+| 27 Oct<br>Friday | October Birthday Celebration | • MK will provide a birthday cake as snack for the day. |
+| 6 Nov<br>Monday | Deepavali Celebrations | • Children will join morning assembly at 7.50am for celebration with PEPS. Please report to school by 7.45am.<br>• Dress in Indian ethnic costume, or MK uniform.<br>• Regular school hours for MK and KCare. |
+| 10 Nov<br>Friday | November and December Birthday Celebration | • MK will provide a birthday cake as snack for the day. |
+| 13 Nov<br>Monday | Deepavali | • Public Holiday |
+| 14 Nov<br>Tuesday | MK Year-End Celebration | • Combined morning school for MK, 8am to 12pm. Arrival starts at 7.50am.<br>• KCare operates as per normal, 7am to 7pm. |
+| 15 &amp; 16 Nov<br>Wednesday &amp; Thursday | Year-End Parent Teacher Conference | • It will be a non-school day for MK.<br>• KCare operates as per normal.<br>• It will be an in-person session at MK (no zoom).<br>• Booking details will be shared closer to date via Parents Gateway. |
+| 17 Nov<br>Friday | Princess Elizabeth Award and Prize Ceremony | • MK is closed.<br>• KCare operates as per normal, 7am to 7pm. |
+| Saturday, 18 Nov<br>to<br>Sunday, 31 Dec | Term 4 School Holidays | • Term 4 school holidays for MK.<br>• KCare remains open, unless otherwise informed of closure. |
 
  **Arrival and Dismissal**
 
