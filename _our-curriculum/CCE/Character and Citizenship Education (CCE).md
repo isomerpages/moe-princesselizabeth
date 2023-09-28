@@ -9,8 +9,10 @@ third_nav_title: CCE
 Ms Shanthi Govindasamy
 
 ### Level Head
-
 Mdm Faizlyana Binte Ismail
+
+### Subject Head (NE/SS)
+Aida Lisa Bte Aliman
   
 ### Vision
 
@@ -24,7 +26,7 @@ The Character and Citizenship Education curriculum in PEPS is anchored by the AS
 
 ![](/images/CCE.png)
 
-Through the PEPS CCE key programmes, we aim to develop our students to be **morally upright and resilient individuals of good character, caring citizens with a sense of active citizenship** and **steadfast leaders who are ready for the future**. 
+Through the PEPS CCE key programmes, we aim to develop our students to be&nbsp;**morally upright and resilient individuals of good character, caring citizens with a sense of active citizenship**&nbsp;and&nbsp;**steadfast leaders who are ready for the future**.&nbsp;
 
   
 
@@ -32,7 +34,7 @@ Through the PEPS CCE key programmes, we aim to develop our students to be **mor
 
 **L**earning <br>
 **O**ur <br>
-**V**alues through <br>
+**V**alues through&nbsp;<br>
 **E**mpathy (LOVE)<br>
 Experience
 
@@ -47,7 +49,7 @@ The Learning Our Values through Empathy (LOVE) Experience is the school’s Valu
 
 The LOVE Experience aims to create a positive impact on students’ wellbeing by empowering PEPS students to make a positive change that results in achievement and success. The programme also develops active citizenship in the students as they empathise and help targeted members of the community. The entire process of empathizing, applying their new knowledge and finally trying to address the needs of the target audience enables students to find their VIA learning journey meaningful.
 
-For more information on the LOVE Experience, click **[here](https://www.princesselizabethpri.moe.edu.sg/signature-programme-and-events/Learning-for-Life-Programmes/Values-In-Action-VIA/)**.
+For more information on the LOVE Experience, click&nbsp;**[here](https://www.princesselizabethpri.moe.edu.sg/signature-programme-and-events/Learning-for-Life-Programmes/Values-In-Action-VIA/)**.
 
 
 ![](/images/CCE2.png)
@@ -67,12 +69,12 @@ Primary 1 to 6
 
 National Education is developed in our students via the commemoration of the following 4 NE Days:
 
-*   Total Defence Day 
+*   Total Defence Day&nbsp;
 *   International Friendship Day
 *   Racial Harmony Day
 *   National Day
 
-and via the Social Studies curriculum. The Social Studies curriculum aims to develop the civic competencies of our pupils from Primary 1 to Primary 6. Civic competencies, which encompass the body of knowledge, skills and values expressed in the Philosophy of SS, will empower students to be informed, concerned and participative citizens.
+and via the Social Studies curriculum.&nbsp;The Social Studies curriculum aims to develop the civic competencies of our pupils from Primary 1 to Primary 6. Civic competencies, which encompass the body of knowledge, skills and values expressed in the Philosophy of SS, will empower students to be informed, concerned and participative citizens.
 
 ![](/images/CCE3.png)
 
