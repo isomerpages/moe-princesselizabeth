@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Leave of Absence.md
       - Appreciation for Our Staff.md
       - Booklist 2023.md
       - ICT Matters/.keep
@@ -10,6 +9,7 @@ collections:
       - ICT Matters/Student iCon.md
       - ICT Matters/School Online Based Helpline.md
       - ICT Matters/Student Learning Space.md
+      - Leave of Absence.md
       - Information for Parents/.keep
       - Information for Parents/Homework Policy.md
       - Information for Parents/Information for Parents.md
