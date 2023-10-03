@@ -28,7 +28,7 @@ sections:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
       button: VIEW & ASK QUESTIONS Here
-      url: https://go.ask.gov.sg/peps
+      url: https://ask.gov.sg/peps
       image: /images/peps-askgov.png
       alt: Image alt text
 ---
