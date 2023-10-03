@@ -9,22 +9,20 @@ locations:
       - Singapore 659163
       - ""
     operating_hours: []
-    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.349203512653&lng=103.74101964471
+    maps_link: ""
     title: General Office
 contacts:
   - content:
       - phone: +65 6565 5111
       - email: peps@moe.edu.sg
-      - other: "Fax: +65 6563 7859"
+      - other: 'Fax: +65 6563 7859  <br><br><h5>Got a Question? Ask here:<br></h5><h5>
+          <p><a
+          href="https://ask.gov.sg/peps">https://ask.gov.sg/peps</a></p></h5>'
     title: Contact Information
   - content:
       - phone: ""
       - email: ""
       - other: https://go.gov.sg/peps-helpline
     title: School Online-Based Helpline
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://go.ask.gov.sg/peps
-    title: "Got a Question? Ask here:"
+feedback: ""
 ---
