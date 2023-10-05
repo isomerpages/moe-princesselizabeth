@@ -1,6 +1,6 @@
 ---
 title: School Library
-permalink: /general-information/School-Services/school-library
+permalink: /general-information/School-Services/school-library/
 description: ""
 third_nav_title: School Services
 ---
@@ -17,7 +17,7 @@ Together, we nurture our students to develop good reading habits and become self
 ### Functions of School Library
 
 1. It is a physical space that provides staff and students with fast and easy access to reliable and updated information through quality resources for teaching and learning.  
-2. It plays a pivotal role in supporting the school curriculum and equipping students with knowledge and skills to develop them into independent and lifelong learners.  
+2. It plays a pivotal role in supporting the school curriculum and equipping students with knowledge and skills to develop them into independent and&nbsp;lifelong learners.  
 3. It functions as a cultural nucleus, promoting an awareness of the students’ heritage and an understanding of the diversity of the different cultures.  
 4. Its environment is conducive to reading.
 
@@ -50,15 +50,10 @@ Together, we nurture our students to develop good reading habits and become self
   </tr>
 </tbody>
 </table>
-
-### Library Contact Number
-
-65644195  
   
-
 ### Our School Library Online (OPAC)
 
-For any information about the books available in our library, please click **[here](https://schoolibrary.moe.edu.sg/princesselizabethpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME). [](http://schoolibrary.moe.edu.sg/princesselizabethpri)**   
+For any information about the books available in our library, please click&nbsp;**[here](https://schoolibrary.moe.edu.sg/princesselizabethpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME).&nbsp;[](http://schoolibrary.moe.edu.sg/princesselizabethpri)**&nbsp;  
 
 Guide to our school library online:  
 [School Library Online Updated.docx](/files/School%20Library%20Online%20Updated.pdf)
@@ -84,4 +79,3 @@ Guide to our school library online:
 ### Book Buzz Session
 
 ![](/images/lib3.png)
-
