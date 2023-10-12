@@ -5,7 +5,7 @@ description: ""
 ---
 ### Teachers' Email 2023
 
-**Class | Teachers | Email  - Updated as of 12th Oct 2023**
+**Class - Teachers - Email  - Updated as of 12th Oct 2023**
 
 <table>
 <thead>
