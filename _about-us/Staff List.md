@@ -81,8 +81,8 @@ description: ""
   </tr>
   <tr>
     <td>2D</td>
-    <td>Mdm Nah Min Yee Fiona<br>Mdm Lim Lee Choon<br>Ms Yew Hui Tin (HOD MT)</td>
-    <td>nah_min_yee_fiona@schools.gov.sg<br>lim_lee_choon@schools.gov.sg<br>yew_hui_tin@schools.gov.sg</td>
+    <td>Mdm Lim Lee Choon<br>Ms Yew Hui Tin (HOD MT)<br>Mr Goh Deqiang, Joseph</td>
+    <td>lim_lee_choon@schools.gov.sg<br>yew_hui_tin@schools.gov.sg<br>Goh_Deqiang_Joseph@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2E</td>
