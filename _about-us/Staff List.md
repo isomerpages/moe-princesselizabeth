@@ -5,7 +5,7 @@ description: ""
 ---
 ### Teachers' Email 2023
 
-**Class &nbsp;&amp; Teachers &amp; Email  - Updated as of 21 Sept 2023**
+**Class - Teachers - Email  - Updated as of 12th Oct 2023**
 
 <table>
 <thead>
@@ -66,8 +66,8 @@ description: ""
 <tbody>
   <tr>
     <td>2A</td>
-    <td>Mdm Toh Su Shing, Genevieve (Level Coordinator)<br>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)<br> Ms Yap Shu Jun</td>
-    <td>toh_su_shing_genevieve@schools.gov.sg<br>hasyimah_harith@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg<br>yap_shu_jun@schools.gov.sg</td>
+    <td>Mdm Hasyimah Bte Harith<br>Ms Teresa Maria Lee Dan Lin (SSD)<br> Ms Yap Shu Jun</td>
+    <td>hasyimah_harith@schools.gov.sg<br>teresa_maria_lee_dan@schools.gov.sg<br>yap_shu_jun@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2B</td>
@@ -81,8 +81,8 @@ description: ""
   </tr>
   <tr>
     <td>2D</td>
-    <td>Mdm Nah Min Yee Fiona<br>Mdm Lim Lee Choon<br>Ms Yew Hui Tin (HOD MT)</td>
-    <td>nah_min_yee_fiona@schools.gov.sg<br>lim_lee_choon@schools.gov.sg<br>yew_hui_tin@schools.gov.sg</td>
+    <td>Mdm Lim Lee Choon<br>Ms Yew Hui Tin (HOD MT)<br>Mr Goh Deqiang, Joseph</td>
+    <td>lim_lee_choon@schools.gov.sg<br>yew_hui_tin@schools.gov.sg<br>Goh_Deqiang_Joseph@schools.gov.sg</td>
   </tr>
   <tr>
     <td>2E</td>
@@ -113,8 +113,8 @@ description: ""
 <tbody>
   <tr>
     <td>3A</td>
-    <td>Ms Tabitha Tan<br>Mr Mohd Adib Bin Suhiat (ST PE)</td>
-    <td>tan_ying_xiu@schools.gov.sg<br>mohd_adib_b_suhiat@schools.gov.sg</td>
+    <td>Mr Mohd Adib Bin Suhiat (ST PE)<br>Ms Yeo Suan Shih (HOD MA)</td>
+    <td>mohd_adib_b_suhiat@schools.gov.sg<br>yeo_suan_shih@schools.gov.sg</td>
   </tr>
   <tr>
     <td>3S</td>
@@ -250,8 +250,8 @@ description: ""
   </tr>
   <tr>
     <td>6R</td>
-    <td>Ms Lee Hui Ling, Felicia<br>Ms Jiang Yanyan (ST CL)<br>Ms Yeo Suan Shih (HOD MA)</td>
-    <td>lee_hui_ling_felicia@schools.gov.sg<br>jiang_yanyan@schools.gov.sg<br>yeo_suan_shih@schools.gov.sg</td>
+    <td>Ms Lee Hui Ling, Felicia<br>Ms Jiang Yanyan (ST CL)</td>
+    <td>lee_hui_ling_felicia@schools.gov.sg<br>jiang_yanyan@schools.gov.sg</td>
   </tr>
   <tr>
     <td>6E</td>
