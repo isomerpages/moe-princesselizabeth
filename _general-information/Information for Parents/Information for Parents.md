@@ -1,6 +1,6 @@
 ---
 title: Information for Parents
-permalink: /general-information/information-for-parents
+permalink: /general-information/information-for-parents/
 description: ""
 third_nav_title: Information for Parents
 ---
@@ -16,12 +16,13 @@ Due to the limited space within the school, the car park is strictly for staff u
 
 ### Visitors to the School  
 
-For security reasons, all visitors are required to furnish their names and identification documents at the guard post to obtain a "Visitor Pass". Visitors will then need to proceed to the General Office.
+The school follows the guidelines provided by MOE with regards to visitor management procedures. The school requires all visitors to make an official appointment before visiting the school. Visitors are only allowed to enter from Main Gate.
+
+All visitors to the school need to register at the Security Guard Post upon arrival at the school. Those who have official appointments with valid purpose(s) will be issued with a visitor’s label upon producing their identity card for verification. Visitors are required to put on the visitor’s label and proceed directly to the General Office. Parents are prohibited from going to the classroom, staff room or canteen on their own.
 
 To inculcate a sense of personal responsibility in our students, the school will not accept from parents or guardians any items, except medications that the students have forgotten to bring.
 
-Parents' / Guardians' Particulars  
-  
+**Parents' / Guardians' Particulars**
 
 It is important for parents/guardians to update the school of the changes in their addresses and /or contact numbers so that the school is able to contact parties concerned in the event of an emergency.
 
@@ -52,5 +53,3 @@ WE Stories is a collection of stories from all secondary schools in the West Zon
 Click here ([https://online.fliphtml5.com/obrr/qkde/#p=1](https://go.gov.sg/westories-official/)) to access latest WE STories.
 - Guide to Using WE STories ([Video Guide on how to navigate WE STories -	Shared by Westwood Primary](https://drive.google.com/file/d/1I5bXtNZahXvd4YibQJj-Mo2JSAjdgRIu/view?usp=share_link/))
 - Sharing of Good Practice ([Learn how schools use WE STories in their school-based ECG programme -	Shared by Zhenghua Primary](https://drive.google.com/file/d/1CaM8OAsgXNeVeK5z81kScfof09PIjIaz/view?usp=sharing/))
-
-
