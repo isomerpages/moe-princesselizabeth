@@ -18,3 +18,5 @@ third_nav_title: Downloads
 ### P3 and P4 HTML Briefing Slides
 
 [P3 and P4 HTML Briefing Slides](/files/P3%20and%20P4%20HMTL_Briefing%20Slides%20for%20parents.pdf)
+
+[P4 Parent Briefing Slides on SBB & DSA](/files/sbb%20&%20dsa%20briefing%20for%20p4%20parents%2020%20oct%202023.pdf)
