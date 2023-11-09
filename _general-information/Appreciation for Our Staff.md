@@ -2,7 +2,9 @@
 title: Appreciation for Our Staff
 permalink: /general-information/appreciation-for-our-staff/
 description: ""
+variant: markdown
 ---
+![](/images/staffappreciation_071123.png)
 
 ![](/images/aug%20staff%20appreciation.jpg)
 
