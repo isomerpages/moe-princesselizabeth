@@ -17,6 +17,6 @@ variant: markdown
 
 [P6 Parent Engagement Session 2023](/files/P6%20Parent%20Engagement%202023.pdf)
 
-### Briefing Slides on P4 SBB & DSA 
+### Briefing Slides on SBB & DSA 
 
 [P4 Parent Briefing Slides on SBB & DSA](/files/sbb%20&%20dsa%20briefing%20for%20p4%20parents%2020%20oct%202023.pdf)
