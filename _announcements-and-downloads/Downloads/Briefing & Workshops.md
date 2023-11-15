@@ -20,3 +20,7 @@ variant: markdown
 ### Briefing Slides on SBB & DSA 
 
 [P4 Parent Briefing Slides on SBB & DSA](/files/sbb%20&%20dsa%20briefing%20for%20p4%20parents%2020%20oct%202023.pdf)
+
+### Briefing Slides on Higher Mother Tongue Language (HMTL) for P3 & P4
+
+[P3 & P4 Briefing Slides on HMTL](/files/P3_and_P4_HMTL_Briefing_Slides_for_Parents_14_Nov_2023.pdf)
