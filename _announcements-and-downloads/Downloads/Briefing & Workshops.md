@@ -23,5 +23,4 @@ variant: markdown
 
 ### Briefing Slides on Higher Mother Tongue Language (HMTL) for P3 & P4
 
-
-
+[P3 & P4 Briefing Slides on HMTL](/files/P3_and_P4_HMTL_Briefing_Slides_for_Parents_14_Nov_2023.pdf)
