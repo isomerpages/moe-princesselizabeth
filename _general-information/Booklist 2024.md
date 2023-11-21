@@ -2,13 +2,13 @@
 title: Booklist 2024
 permalink: /general-information/booklist-2024/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-* [PEPS P1 2023](/files/Booklist/2023/P1%20Booklist%202023.pdf)
-* [PEPS P2 2023](/files/Booklist/2023/P2%20BOOKLIST%202023%20updated.pdf)
-* [PEPS P3 2023](/files/Booklist/2023/PEPS%20P3%202023.pdf)
-* [PEPS P4 2023](/files/Booklist/2023/PEPS%20P4%202023.pdf)
-* [PEPS P5 2023](/files/Booklist/2023/PEPS%20P5%202023.pdf)
-* [PEPS P5 FDN 2023](/files/Booklist/2023/PEPS%20P5%20FDN%202023.pdf)
-* [PEPS P6 2023](/files/Booklist/2023/PEPS%20P6%20%202023.pdf)
-* [PEPS P6 FDN 2023](/files/Booklist/2023/PEPS%20P6%20FDN%202023.pdf)
+* [PEPS_P1_2024](/files/Booklist/2024/PEPS_P1_2024.pdf)
+* [PEPS_P2_2024](/files/Booklist/2024/PEPS_P2_2024.pdf)
+* [PEPS_P3_2024](/files/Booklist/2024/PEPS_P3_2024.pdf)
+* [PEPS_P4_2024](/files/Booklist/2024/PEPS_P4_2024.pdf)
+* [PEPS_P5_2024](/files/Booklist/2024/PEPS_P5_2024.pdf)
+* [PEPS_P5_FDN_2024](/files/Booklist/2024/PEPS_P5_FDN_2024.pdf)
+* [PEPS_P6_2024](/files/Booklist/2024/PEPS_P6__2024.pdf)
+* [PEPS_P6_FDN_2024](/files/Booklist/2024/PEPS_P6_FDN_2024.pdf)
