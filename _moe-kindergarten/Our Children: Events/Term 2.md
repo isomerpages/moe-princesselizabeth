@@ -19,4 +19,4 @@ variant: markdown
 
 ### Junior Sports Day 2023 ###
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S2UKSuL1PjQ?si=yuiXu-dfWdSNwYPC" height="400" width="648"></iframe>
+<iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S2UKSuL1PjQ?si=yuiXu-dfWdSNwYPC" height="400" width="648"></iframe>
