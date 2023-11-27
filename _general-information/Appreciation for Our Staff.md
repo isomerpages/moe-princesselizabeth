@@ -4,6 +4,8 @@ permalink: /general-information/appreciation-for-our-staff/
 description: ""
 variant: markdown
 ---
+![](/images/Staff_Appreciation_Ms_Chanel_Neo_221123.png)
+
 ![](/images/staffappreciation_071123.png)
 
 ![](/images/aug%20staff%20appreciation.jpg)
@@ -21,4 +23,5 @@ variant: markdown
 ![](/images/appreciation3.png)
 
 ![](/images/appreciation4.png)
+
 ![](/images/appreciation5.png)
