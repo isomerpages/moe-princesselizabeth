@@ -1,7 +1,8 @@
 ---
 title: Trips for Internationalisation Experience (TIE)
-permalink: /signature-programmes-n-events/trips-for-internationalisation-experience-tie
+permalink: /signature-programmes-n-events/trips-for-internationalisation-experience-tie/
 description: ""
+variant: markdown
 ---
 Every year, the school organises overseas learning journeys to different countries in Asia and students are given a choice to opt for a trip that best meets their interest and needs.
 
@@ -17,7 +18,7 @@ The objectives of the internationalisation programme are:
 ![](/images/TIE1.png)
 ![](/images/TIE2.jpg)
 
-### Virtual Trips for Internalisation (VTIE)
+### Virtual Trips for Internationalisation (VTIE)
 
 The virus may keep our borders shut but it cannot suppress our students’ enthusiasm for learning and interacting with their Asian counterparts. In lieu of the yearly TIE trips, the Primary 5 students ‘visited’ China, India and Indonesia virtually through the virtual TIE programme (VTIE). Over the virtual TIE sessions, our students had a wonderful experience interacting and getting to know more about the students from the three countries, gaining new friendships across the waters. 
 
