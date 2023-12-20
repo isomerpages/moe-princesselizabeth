@@ -31,4 +31,10 @@ sections:
       url: https://ask.gov.sg/peps
       image: /images/peps-askgov.png
       alt: Image alt text
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      description: Please click the following link for more details
+      button: CLICK HERE
+      url: /general-information/school-canteen-advertisement/
 ---
