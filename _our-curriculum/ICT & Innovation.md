@@ -2,40 +2,6 @@
 title: ICT & Innovation
 permalink: /our-curriculum/ict-innovation/
 description: ""
+variant: tiptap
 ---
-### Head Of Department
-
-Mrs Marselyn Jonatan 
-
-### Subject Head  
-
-Mr Shahroom Noor
-
-### Vision
-
-Enriching Education through ICT.
-
-### Mission
-
-To promote a pervasive ICT culture that develops 21st century competencies and nurtures self-directed and life-long learners.
-
-
-### 6 - Year Progressive ICT Programme
-
-In order for students to fully benefit from a curriculum enriched by ICT, they are equipped with a set of ICT skill competencies that are integrated into core subject areas and Interdisciplinary Project Work (IPW).  
-
-  
-
-### Technology in Teaching & Learning
-
-![](/images/ICT%2011.png)
-
-### Innovation
-
-To develop the next generation of future-ready innovators and encourage the development of 21CC, the school offers a range of engaging activities for all students that foster the value of empathy, spirit of creativity and inventive thinking skill. Through these activities, students are provided with the opportunity to synthesise and apply knowledge and skills from various areas of learning with real-life applications.
-
-![](/images/ICT%202.png)
-
-![](/images/ICT13.png)
-
-![](/images/ICT14.png)
+<h3>Head Of Department</h3><p>Mrs Marselyn Jonatan</p><h3>Subject Head</h3><p>Mr Shahroom Noor</p><h3>Vision</h3><p>Enriching Education through Information and Communication Technology (ICT).</p><h3>Mission</h3><p>To promote a pervasive ICT culture that develops 21st century competencies and nurtures self-directed and life-long learners.</p><h3>Educational Technology (EdTech) &amp; Innovation</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT%2011.png"></div><h3>Innovation</h3><p>To develop the next generation of future-ready innovators and encourage the development of 21CC, the school offers a range of engaging activities for all students that foster the value of empathy, spirit of creativity and inventive thinking skill. Through these activities, students are provided with the opportunity to synthesise and apply knowledge and skills from various areas of learning with real-life applications.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT%202.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT13.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT14.png"></div><p></p>
