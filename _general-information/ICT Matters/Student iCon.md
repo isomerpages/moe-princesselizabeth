@@ -1,8 +1,9 @@
 ---
 title: Student iCon
-permalink: /general-information/ICT-Matters/student-icon
+permalink: /general-information/ICT-Matters/student-icon/
 description: ""
 third_nav_title: ICT Matters
+variant: markdown
 ---
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
 
@@ -12,28 +13,28 @@ third_nav_title: ICT Matters
 
   
 
-### Q1.  What is the naming convention for Student iCON email address?
+### Q1.&nbsp;&nbsp;What is the naming convention for Student iCON email address?
 
   
 
-a.    The student’s email address will be based on @students.edu.sg.
+a.&nbsp;&nbsp; &nbsp;The student’s email address will be based on @students.edu.sg.
 
-b.    Any space in the full name will be replaced with an underscore.
+b.&nbsp;&nbsp; &nbsp;Any space in the full name will be replaced with an underscore.
 
-c.    Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
+c.&nbsp;&nbsp; &nbsp;Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.
 
-d.    For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
+d.&nbsp;&nbsp; &nbsp;For cases where students share the same full name, we have added a numerical number (e.g. Jon\_Tan\_1, Jon\_Tan\_2) to differentiate their email addresses.
 
-  
+&nbsp;&nbsp;
 
 #### Q2. How can my child log in to Student iCON?
 
   
 
 Student iCON is web-based. Students can use their web browser in their internet- enabled computing or mobile devices to visit  
-**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** to access Student iCON
+**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;to access Student iCON
 
-#### Q3.    Which Operating System or browser should my students use?
+#### Q3.&nbsp;&nbsp; &nbsp;Which Operating System or browser should my students use?
 
   
 
@@ -109,7 +110,7 @@ You can refer to the following table for guidance on the Operating System/browse
 </tbody>
 </table>
 
-#### Q4.    What are the default Google applications available for each level?
+#### Q4.&nbsp;&nbsp; &nbsp;What are the default Google applications available for each level?
 
   
 
@@ -117,11 +118,11 @@ Please refer to the attached Student iCON Onboarding guide for the list of defau
   
   
 
-#### Q5.    What is the password requirement?  
+#### Q5.&nbsp;&nbsp;&nbsp; What is the password requirement? &nbsp;
 
   
 
-Please follow the password requirements below:  
+Please follow the password requirements below: &nbsp;
 
 * Password must be at least 8 character(s) long.  
 * Password must contain at least 1 lowercase letter(s).  
@@ -134,7 +135,7 @@ Please follow the password requirements below:  
 * Password must not match or contain last name.  
 *  Password must not match or contain user ID.
 
-#### Q6.    I have encountered one of the following problems:
+#### Q6.&nbsp; &nbsp; I have encountered one of the following problems:
 
   
 
@@ -148,16 +149,17 @@ Please follow the password requirements below:  
 
 **What should I do?**
 
-a) Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+a)&nbsp;Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above.&nbsp;Close the browser and reopen it. Navigate to&nbsp;**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
-b) If the above does not work, use Incognito mode on your browser to login. Upon activating Incognito mode, proceed to **[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)** and repeat the logging in procedure.
+b) If the above does not work, use&nbsp;Incognito mode&nbsp;on your browser to login.&nbsp;Upon activating Incognito mode, proceed to&nbsp;**[https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)**&nbsp;and repeat the logging in procedure.
 
-c) Contact the school's General Office at **6565 5111**
+c) Contact the school's General Office at&nbsp;**6565 5111**
 
   
 
-#### 7.  I receive the following message: Your account is temporarily locked to prevent unauthorized use. What should I do?
+#### 7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?
 
-a) Contact the school's General Office at 6565 5111. 
+a) Contact the school's General Office at&nbsp;6565 5111.&nbsp;
 
-b)  Write in online help form [School Online-Based Helpline (Home-based Learning)](https://go.gov.sg/peps-helpline)
+b)&nbsp;&nbsp;Write in online help form&nbsp;
+[School Online-Based Helpline](https://go.gov.sg/peps-helpline)
