@@ -19,7 +19,13 @@ contacts:
           Helpline<br></h5><h5> <p><a
           href="https://go.gov.sg/peps-helpline">https://go.gov.sg/peps-helpline</a></p></h5><br><br><h5>Got
           a Question? Ask here:<br></h5><h5> <p><a
-          href="https://ask.gov.sg/peps">https://ask.gov.sg/peps</a></p></h5> '
+          href="https://ask.gov.sg/peps">https://ask.gov.sg/peps</a></p></h5>'
     title: Contact Information
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <h5> <p><a
+          href="https://go.gov.sg/peps-helpline">https://go.gov.sg/peps-helpline</a></p></h5>
+    title: School Online-Based Helpline
 feedback: ""
 ---
