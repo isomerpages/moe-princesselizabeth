@@ -40,7 +40,7 @@ Your account will be locked after 6 consecutive attempts to log in with an incor
 **Operating Hours:** Mondays - Fridays: 9:00 am ― 9:00 pm, Saturdays: 9:00 am ― 3:00 pm  <br>
 *Closed on Sundays &amp; Public Holidays  
   
-You may fill in the&nbsp;[School Online-Based Helpline (Home-based Learning)](https://go.gov.sg/peps-helpline)  
+You may fill in the&nbsp;[School Online-Based Helpline](https://go.gov.sg/peps-helpline)
   
 
 #### Q4 : I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?
