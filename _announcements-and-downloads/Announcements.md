@@ -2,26 +2,6 @@
 title: Announcements
 permalink: /announcements-n-downloads/announcements/
 description: ""
+variant: tiptap
 ---
-### Important Dates
-
-| Date | Details | Remarks |
-| -------- | -------- | -------- |
-| Fri, 6 Oct | Children’s Day     | No school for all students. <br>All after school activities will be cancelled.     |
-| Mon, 9 Oct to Thurs, 12 Oct | P3 – P5 End-of-Year Oral Examination | P3 – Oral Exam held during Curriculum hours <br>P4 – P5 Oral Exam held from 2.00pm – 5.30pm (after school) |
-| Fri, 13 Oct | P3 – P5 End-of-Year Listening Comprehension Exam | Listening Comprehension Exam held during Curriculum hours |
-| Mon, 16 Oct to Wed, 18 Oct | PSLE Marking Days | No school for all students except for those having extra classes or Learning Journeys |
-| Fri, 20 Oct | P3 – P5 End-of-Year EL/MTL Paper 1 Examination | Examination held during Curriculum hours |
-| Fri, 20 Oct - 1600 to 1700hrs | P4 SBB Briefing | Only for P4 Parents |
-| Mon, 23 Oct | P3-P5 End-of-Year Foundation Science/Science Exam | Examination held during Curriculum hours |
-| Tues, 24 Oct | P3-P5 End-of-Year Foundation English Language/English Language Exam | Examination held during Curriculum hours |
-| Wed, 25 Oct | P3-P5 End-of-Year Foundation Mother Tongue/Mother Tongue Examination | Examination held during Curriculum hours |
-| Thurs, 26 Oct | P3-P5 End-of-Year Foundation Mathematics/Mathematics Examination | Examination held during Curriculum hours |
-| Fri, 27 Oct | P5 End-of-Year Higher Mother Tongue Paper 1 &amp; 2 Examination | Examination held during Curriculum hours |
-| Sat, 4 Nov | P1 Orientation | No school for P1 to P6 students except for selected Student Leaders |
-| Wed, 8 Nov | Admin Day | No school for P1 to P6 students |
-| Fri, 17 Nov | Awards Presentation Ceremony | No school for P1 to P6 students except for award recipients and selected concert performers  |
-
-
-
- 
+<h4>First Day of School Matters</h4><p>Please note that only 2024 <strong>Primary One students</strong> will report to school on <strong>Tuesday, 2 January by 7:15am</strong>. All <strong>P2 to P6 students</strong> will report to school on <strong>Wednesday, 3 January</strong> together with the P1 students. Kindly inform your child to report to the school hall by 7:15am on Wednesday.</p><p>The arrival and dismissal timing and arrangements are as follows w.e.f. 3 January:</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Dismissal Timings</p></th><th rowspan="1" colspan="1"><p>Arrival &amp; Dismissal Gate</p></th><th rowspan="1" colspan="1"><p>Remarks</p></th></tr><tr><td rowspan="1" colspan="1"><p>P1: 1:25pm</p><p>P2 - P6: 1.30pm </p></td><td rowspan="1" colspan="1"><p>Gate 4</p></td><td rowspan="1" colspan="1"><p>To reduce congestion, P1 students will be allowed to leave outside Blk 160 and P2 students will be allowed to leave along the sheltered walkway towards Blk 160.</p></td></tr></tbody></table><h4>Parent Engagement Day</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>Time</p></th><th rowspan="1" colspan="1"><p>Level</p></th></tr><tr><td rowspan="3" colspan="1"><p>Friday, 12th January</p></td><td rowspan="1" colspan="1"><p>3 to 4pm</p></td><td rowspan="1" colspan="1"><p>P2 – Meet the Form Teachers</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 to 3:45pm</p></td><td rowspan="1" colspan="1"><p>P6 - P’s Talk @ Hall</p></td></tr><tr><td rowspan="1" colspan="1"><p>4pm to 5pm</p></td><td rowspan="1" colspan="1"><p>P6 - Meet the Form Teachers</p></td></tr><tr><td rowspan="3" colspan="1"><p>Friday, 19th January</p></td><td rowspan="1" colspan="1"><p>3 to 4pm</p></td><td rowspan="1" colspan="1"><p>P1 – Meet the Form Teachers</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 to 3:45pm</p></td><td rowspan="1" colspan="1"><p>P5 - P’s Talk @ Hall</p></td></tr><tr><td rowspan="1" colspan="1"><p>4pm to 5pm</p></td><td rowspan="1" colspan="1"><p>P5 - Meet the Form Teachers</p></td></tr><tr><td rowspan="3" colspan="1"><p>Friday, 26th January</p></td><td rowspan="1" colspan="1"><p>3 to 4pm</p></td><td rowspan="1" colspan="1"><p>P3 – Meet the Form Teachers</p></td></tr><tr><td rowspan="1" colspan="1"><p>3 to 3:45pm</p></td><td rowspan="1" colspan="1"><p>P4 - P’s Talk @ Hall</p></td></tr><tr><td rowspan="1" colspan="1"><p>4pm to 5pm</p></td><td rowspan="1" colspan="1"><p>P4 - Meet the Form Teachers</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
