@@ -2,10 +2,11 @@
 title: Information for Parents
 permalink: /moe-kindergarten/info-for-parents/
 description: ""
+variant: markdown
 ---
 ### Calendar of Events ###
 
-Important Dates to Note: [School Terms and Holidays for 2023 - MOE](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
+Important Dates to Note: [School Terms and Holidays for 2024](https://www.moe.gov.sg/news/press-releases/20230807-school-terms-and-holidays-for-2024)
 
 *Calendar of Events will be provided termly*
 
