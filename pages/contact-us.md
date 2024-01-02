@@ -22,7 +22,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://go.gov.sg/peps-helpline
+      - other: <h5> <p><a
+          href="https://go.gov.sg/peps-helpline">https://go.gov.sg/peps-helpline</a></p></h5>
     title: School Online-Based Helpline
 feedback: ""
 ---
