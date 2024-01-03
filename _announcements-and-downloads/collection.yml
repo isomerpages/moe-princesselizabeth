@@ -1,0 +1,8 @@
+collections:
+  announcements-and-downloads:
+    output: true
+    order:
+      - Announcements.md
+      - Downloads/.keep
+      - Downloads/Briefing & Workshops.md
+      - School Publications.md

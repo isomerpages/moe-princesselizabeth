@@ -1,0 +1,17 @@
+collections:
+  stakeholders:
+    output: true
+    order:
+      - School Advisory Committee.md
+      - Alumni.md
+      - Family Matters @ PEPS/.keep
+      - Family Matters @ PEPS/Family Matters @ PEPS.md
+      - Family Matters @ PEPS/Parenting Support Programmes.md
+      - Family Matters @ PEPS/Upcoming Seminars & Programmes.md
+      - Family Matters @ PEPS/Newsletter.md
+      - Family Matters @ PEPS/Family Services.md
+      - "Parent Support Group: 3PIE/.keep"
+      - "Parent Support Group: 3PIE/Parent Support Group: 3PIE.md"
+      - "Parent Support Group: 3PIE/Organisation Structure.md"
+      - "Parent Support Group: 3PIE/Activities.md"
+      - "Parent Support Group: 3PIE/Resources.md"

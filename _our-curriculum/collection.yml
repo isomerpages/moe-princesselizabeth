@@ -1,0 +1,20 @@
+collections:
+  our-curriculum:
+    output: true
+    order:
+      - Aesthetics (Art & Music).md
+      - CCE/.keep
+      - CCE/Character and Citizenship Education (CCE).md
+      - CCE/CCE MTL.md
+      - CCE/Growing Years Series (GYS) for P5 & P6.md
+      - English Language.md
+      - ICT & Innovation.md
+      - Mathematics.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Chinese.md
+      - Mother Tongue Languages/Malay.md
+      - Mother Tongue Languages/Tamil.md
+      - Physical Education.md
+      - Programme for Active Learning (PAL) for P1 & P2.md
+      - Science.md
+      - Student Well Being and Discipline.md

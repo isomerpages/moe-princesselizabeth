@@ -1,0 +1,16 @@
+logo: /images/schoollogo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Programme & Events
+    collection: programme-events
+  - title: General Info
+    collection: general-information
+  - title: Announcements & Downloads
+    collection: announcements-and-downloads
+  - title: Stakeholders
+    collection: stakeholders
+  - title: MK @ Princess Elizabeth
+    collection: moe-kindergarten
