@@ -2,21 +2,6 @@
 title: Aesthetics (Art & Music)
 permalink: /our-curriculum/aesthetics-art-n-music/
 description: ""
+variant: tiptap
 ---
-![](/images/2023%20Aesthetics/picture1.png)
-
-![](/images/2023%20Aesthetics/picture2.png)
-
-![](/images/2023%20Aesthetics/picture3.png)
-
-![](/images/2023%20Aesthetics/picture4.png)
-
-![](/images/2023%20Aesthetics/picture5.png)
-
-![](/images/2023%20Aesthetics/picture6.png)
-
-![](/images/2023%20Aesthetics/picture7.png)
-
-![](/images/2023%20Aesthetics/picture8.png)
-
-![](/images/2023%20Aesthetics/picture9.png)
+<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/1.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/2.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/3.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/4.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/5.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/6.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Aesthetics/7.png"></div><p></p>
