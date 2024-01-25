@@ -17,8 +17,6 @@ variant: tiptap
     beliefs of the different ethnic and religious communities in Singapore
     on sexuality issues.</p>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
-<p></p>
-<p></p>
 <p>(a) Support students in managing their physiological, social and emotional
     changes as they grow up and develop safe and healthy relationships</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -66,13 +64,24 @@ variant: tiptap
     to make wise, informed and responsible decisions to keep themselves safe
     from sexuality-related risks.</p>
 <h3>At Princess Elizabeth Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</h3>
-<p>&lt;&lt; insert pic here &gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYS_P5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYS_P5_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GYS_P6.png">
+</div>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
     supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
     lessons need to complete an opt-out form. This form will be communicated
-    &nbsp;to parents at the start of the year and is also downloadable &lt;&lt;form&gt;&gt;.
+    &nbsp;to parents at the start of the year and is also downloadable <a href="/files/2024   New Uploads/ANNEX_A_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
     The completed opt-out form is to be submitted by 16/02/24.</p>
 <p>Parents can contact the school at (<a href="peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion or
     to seek clarification about the school’s Sexuality Education programme.</p>
