@@ -43,5 +43,38 @@ variant: tiptap
     themes: Human Development, Interpersonal Relationships, Sexual Health,
     Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
     more information on the scope of Sexuality Education in the school curriculum.</p>
+<p>The subjects that incorporate topics on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+    (CCE)</p>
+<h4><u>Sexuality Education Lessons</u>:</h4>
+<p>The upper primary years mark the onset of puberty. With better nutrition
+    and improved health care, children are reaching puberty at a younger age
+    and have to grapple with physical, emotional and psychological changes
+    in themselves. The implication is that our children are becoming biologically
+    ready for sexual activity sooner without necessarily having the corresponding
+    cognitive or emotional maturity to modulate their behaviours. Furthermore,
+    our young are also exposed to a wide range of influences that could endanger
+    health and undermine the integrity of the family. Our students require
+    close guidance so that they can respond with discernment to the sexual
+    messages in the media and other sources.</p>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+    Primary 5 and 6. Through these lessons, students will learn healthy ways
+    to manage the physiological, social and emotional changes in their growing
+    years. They learn to build healthy and rewarding relationships with others,
+    including those with members of the opposite sex. Students are also guided
+    to make wise, informed and responsible decisions to keep themselves safe
+    from sexuality-related risks.</p>
+<h3>At Princess Elizabeth Primary School, the following Sexuality Education lessons will be taught in <u>2024</u>:</h3>
+<p>&lt;&lt; insert pic here &gt;&gt;</p>
+<h3>Information for Parents</h3>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+    supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>Parents who wish to opt their children out of the Sexuality Education
+    lessons need to complete an opt-out form. This form will be communicated
+    &nbsp;to parents at the start of the year and is also downloadable &lt;&lt;form&gt;&gt;.
+    The completed opt-out form is to be submitted by 16/02/24.</p>
+<p>Parents can contact the school at (<a href="peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion or
+    to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <p></p>
