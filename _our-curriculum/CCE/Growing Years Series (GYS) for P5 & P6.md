@@ -83,7 +83,7 @@ variant: tiptap
     lessons need to complete an opt-out form. This form will be communicated
     &nbsp;to parents at the start of the year and is also downloadable <a href="/files/2024   New Uploads/ANNEX_A_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
     The completed opt-out form is to be submitted by 16/02/24.</p>
-<p>Parents can contact the school at (<a href="peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion or
-    to seek clarification about the school’s Sexuality Education programme.</p>
+<p>Parents can contact the school at (<a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion
+    or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
 <p></p>
