@@ -266,18 +266,127 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Sanmuga Malar d/o Rathakrishna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LT EL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Cheng Mee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LT MA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Ser Ling Nicole</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jiang Yanyan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST CL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norfidah Bte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST ML</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Adib Bin Suhiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Tan- Ng Sook Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST (Ed Support Learning Needs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Koh Qiuwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST HAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Xu Huimin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST SCI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Admin Team</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kweh Joo Tat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bu Teck Siang, Frankie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Soi Heong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct ICTM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunnisa Binte Ja'afar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjunct ICTM</p>
 </td>
 </tr>
 </tbody>
