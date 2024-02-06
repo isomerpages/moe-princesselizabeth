@@ -131,7 +131,7 @@ variant: tiptap
 <p>Mdm Kwan Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH LP / HOD CCA (Covering)</p>
+<p>YH LP / HOD PE/CCA/Aesthetics (Covering)</p>
 </td>
 </tr>
 <tr>
