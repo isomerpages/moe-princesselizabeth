@@ -3,24 +3,16 @@ title: School Bus Service
 permalink: /general-information/School-Services/school-bus-service/
 description: ""
 third_nav_title: School Services
+variant: tiptap
 ---
-# School Bus Operator and Bus Fare #
-
-The School Bus Operator for **2023** can be contacted at the following addresses: <br>
-### Peng Yang Transport Pte Ltd ###
-
-Person-in-Charge: Anna /&nbsp;Mr Tang <br>
-Mobile No.: 9199 1587 / 6472 6046 <br>
-Email Address: pengyangtpl@yahoo.com.sg
-
-:
-:
-
-The School Bus Operator for **2024** can be contacted at the following addresses: <br>
-### Chang Chen Pte Ltd ###
-
-Person-in-charge: Grif Lim <br>
-Email Address: griflim@hotmail.com <br>
-
-[Application Form](https://file.go.gov.sg/myderz.pdf) <br>
-[Operator NTE Price](/files/not%20to%20exceed%20price.pdf)
+<h1>School Bus Operator and Bus Fare</h1>
+<p>The School Bus Operator for <strong>2024</strong> can be contacted at the
+following addresses:</p>
+<h3>Chang Chen Pte Ltd</h3>
+<p>Person-in-charge: Grif Lim
+<br>Email Address: griflim@hotmail.com
+<br>
+</p>
+<p><a href="https://file.go.gov.sg/myderz.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
+<br><a href="/files/not%20to%20exceed%20price.pdf" rel="noopener noreferrer nofollow" target="_blank">Operator NTE Price</a>
+</p>
