@@ -37,4 +37,10 @@ sections:
       description: Sat, 17th February - 8.30am to 12.30pm
       button: CLICK HERE for details
       url: /moe-kindergarten/open-house-2024/
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      description: Please click the following link for more details
+      button: Click here
+      url: /general-information/school-canteen-advertisement/
 ---
