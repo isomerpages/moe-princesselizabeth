@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4>MK Registration information</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 MK/MK_Registration_2024.jpeg">
+</div>
+<h2>MK Registration Information</h2>
 <p>You can register your child for the 2025 Kindergarten 1 (K1) admission
 to an MOE Kindergarten (MK) if your child is:</p>
 <ol data-tight="true" class="tight">
