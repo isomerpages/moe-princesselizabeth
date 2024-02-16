@@ -32,9 +32,9 @@ sections:
       image: /images/peps-askgov.png
       alt: Image alt text
   - infobar:
-      title: School Canteen Advertisement
+      title: MK @ PEPS - Open House 2024
       id: infobar
-      description: Please click the following link for more details
-      button: CLICK HERE
-      url: /general-information/school-canteen-advertisement/
+      description: Sat, 17th February - 8.30am to 12.30pm
+      button: CLICK HERE for details
+      url: /moe-kindergarten/open-house-2024/
 ---
