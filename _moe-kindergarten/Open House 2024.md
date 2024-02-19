@@ -24,5 +24,7 @@ and Early Years Centre (EYC) children will <strong>open from 9am on Friday, 16 F
 </p>
 <p>Please click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 registration</p>
+<hr>
+<p></p>
 <p><a href="https://go.gov.sg/mkoh-2024-peps" rel="noopener noreferrer nofollow" target="_blank">MK@PEPS Open House 2024</a>
 </p>
