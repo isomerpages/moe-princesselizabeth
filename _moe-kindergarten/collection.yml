@@ -2,7 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - Open House 2024.md
+      - Open House.md
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
       - Information for Parents.md
