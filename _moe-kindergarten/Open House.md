@@ -1,6 +1,6 @@
 ---
-title: Open House 2024
-permalink: /moe-kindergarten/open-house-2024/
+title: Open House
+permalink: /moe-kindergarten/open-house/
 variant: tiptap
 description: ""
 ---
@@ -8,6 +8,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 MK/MK_Registration_2024.jpeg">
 </div>
+<p><a href="https://go.gov.sg/mkoh-2024-peps" rel="noopener noreferrer nofollow" target="_blank">MK@PEPS Open House 2024</a>
+</p>
+<hr>
+<p></p>
 <h2>MK Registration Information</h2>
 <p>You can register your child for the 2025 Kindergarten 1 (K1) admission
 to an MOE Kindergarten (MK) if your child is:</p>
@@ -24,3 +28,4 @@ and Early Years Centre (EYC) children will <strong>open from 9am on Friday, 16 F
 </p>
 <p>Please click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 registration</p>
+<p></p>
