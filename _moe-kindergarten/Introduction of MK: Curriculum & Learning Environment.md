@@ -110,9 +110,4 @@ or positive behaviours and attitudes towards learning
 <div class="iframe-wrapper">
 <iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OmuyJvdt9Zk?si=mFXVCvvvTD5OSJ-m"></iframe>
 </div>
-<p><strong>Open House 2023</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_zaMbcZRxBs"></iframe>
-</div>
 <p></p>
