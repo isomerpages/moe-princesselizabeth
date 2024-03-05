@@ -4,19 +4,19 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>Chinese New Year 2024</h4>
-<p>We will be celebrating Chinese New Year on <strong>Friday, 9 February 2024</strong>.Together
-with 20 seniors from the Lion’s Befrienders Organisation, our students
-will be enjoying a concert and engage in festive activities.</p>
-<p>As there will not be any lessons on that day, all students are encouraged
-to bring a small bag that can contain stationery and some upcycling materials
-as informed by their teacher. The canteen will also be closed on that day.
-Parents can pack a small snack for your child if necessary.</p>
-<p>Please note that on this day, your child can put on his/her Chinese traditional
-costume or red top to school. If your child is wearing a red top, he/she
-will need to put on the school shorts/skirt. Please also note that only
-school shoes and socks are allowed on this day.</p>
-<h4>Key Dates in Term 1, 2024</h4>
+<h4>School Health Visit for Primary 1 to 6 Students</h4>
+<p>The Health Promotion Board (HPB) will be conducting the annual school
+health visit at the school <strong>from 18-Mar 2023 to 26-Mar-2023</strong>.
+During this visit, age-appropriate health screening and/or immunisation
+services will be provided for your child as required.</p>
+<p>Please access the following website for more information on Screening
+services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Health Screening for Primary School Students</a>
+</p>
+<p>After the school visit, you may access your child’s School Health Assessment
+Summary via SingPass login <a href="https://www.healthhub.sg/healtheservices" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h4>Key Dates in End of Term 1 &amp; Term 2, 2024</h4>
 <table>
 <tbody>
 <tr>
@@ -35,105 +35,78 @@ school shoes and socks are allowed on this day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 12 January</p>
+<p>Monday, 11 March &amp; Tuesday, 12 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session for P6 and P2</p>
+<p>P5 Coding Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 - 3 to 5pm</p>
-<p>P2 – 3 to 4pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 15 January</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Remedial/Intervention Programmes begins this week for all students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG for selected students</p>
+<p>Information has been provided through Parents Gateway for the level.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday, 16 January</p>
+<p>Friday, 29 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA begins for P3 to P6 students</p>
+<p>Good Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 19 January</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent Engagement Session for P1 and P5</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 - 3 to 5pm</p>
-<p>P1 – 3 to 4pm</p>
+<p>No school for students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 26 January</p>
+<p>Wednesday, 10 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session for P3 and P4</p>
-<p>&nbsp;</p>
+<p>Hari Raya Puasa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4- 3 to 5pm</p>
-<p>P3 – 3 to 4pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 1 February</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Photo-taking for Primary 1 and Primary 6 students for School Smart Cards
-(SSC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>During curriculum time</p>
+<p>No school for students. All Muslim students and staff will be allowed
+to go home at 10:30am on Tuesday 9 April.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday, 9 February</p>
+<p>Wednesday, 24 April &amp; Thursday, 25 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebrations</p>
+<p>Class Photo-taking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School will operate from 7:30am to 10:30am</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Saturday, 10 February to Tuesday, 13 February</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Holiday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School will be closed, including the General Office, Student Care Centre,
-MK and Kindergarten Care (KCare) Centre</p>
+<p>All students are expected to wear their full school uniform. Photo-taking
+is during curriculum time.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 26 February to Friday, 1 March</p>
+<p>Thursday, 25 April to Saturday, 27 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
+<p>P5 Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent to all parents of P5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 6 May to Friday, 10 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More details will be sent via PG</p>
@@ -141,10 +114,43 @@ MK and Kindergarten Care (KCare) Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 11 March and Tuesday, 12 March</p>
+<p>Friday, 17 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5 Coding Programme</p>
+<p>Sports Day (To be confirmed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for P1 to P2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 22 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 24 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent-Child-Teacher Conference</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8am to 4pm (no lessons for the day)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 27 May and Tuesday, 28 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P3 Coding Programme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Conducted in the morning on both days. More details will be made known
