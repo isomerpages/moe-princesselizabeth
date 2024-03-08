@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Parent Engagement Sharing 2024</h3>
 <h4>Classroom</h4>
 <p></p>
-<h4>Hall</h4>
+<h4>Hall Session with Principal</h4>
 <p><a href="/files/2024   New Uploads/P4_Parent_Engagement_Session_2024_Hall_session.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Parent Engagement Session (Hall)</a>
 </p>
 <p><a href="/files/2024   New Uploads/P5_Parent_Engagement_Session_2024___Hall_session.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Parent Engagement Session (Hall)</a>
