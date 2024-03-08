@@ -7,7 +7,16 @@ variant: tiptap
 ---
 <h3>Parent Engagement Sharing 2024</h3>
 <h4>Classroom</h4>
-<p></p>
+<p><a href="https://go.gov.sg/p1-parent-engagement-session-2024-classroom" rel="noopener noreferrer nofollow" target="_blank">P1 Parent Engagement Session (Classroom)</a>
+</p>
+<p><a href="https://go.gov.sg/p2-parent-engagement-session-2024-classroom" rel="noopener noreferrer nofollow" target="_blank">P2 Parent Engagement Session (Classroom)</a>
+</p>
+<p><a href="https://go.gov.sg/p3-parent-engagement-session-2024-classroom" rel="noopener noreferrer nofollow" target="_blank">P3 Parent Engagement Session (Classroom)</a>
+</p>
+<p><a href="https://go.gov.sg/p4-parent-engagement-session-2024-classroom" rel="noopener noreferrer nofollow" target="_blank">P4 Parent Engagement Session (Classroom)</a>
+</p>
+<p><a href="https://go.gov.sg/p6-parent-engagement-session-2024-classroom" rel="noopener noreferrer nofollow" target="_blank">P6 Parent Engagement Session (Classroom)</a>
+</p>
 <h4>Hall Session with Principal</h4>
 <p><a href="/files/2024   New Uploads/P4_Parent_Engagement_Session_2024_Hall_session.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Parent Engagement Session (Hall)</a>
 </p>
