@@ -99,7 +99,7 @@ variant: tiptap
 <p>Mrs Marselyn Jonatan Prakarsah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT INNOVATION</p>
+<p>HOD ICT Innovation</p>
 </td>
 </tr>
 <tr>
