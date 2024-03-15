@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - 2023   Events & Activities/.keep
       - Open House.md
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
