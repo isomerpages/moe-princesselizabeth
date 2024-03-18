@@ -31,10 +31,12 @@ sections:
       url: https://ask.gov.sg/peps
       image: /images/peps-askgov.png
       alt: Image alt text
-  - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      description: Please click the following link for more details
+  - infopic:
+      subtitle: Follow us on our instagram
+      id: infopic
+      description: Scan the QR Code on the left or click the following link
       button: Click here
-      url: /general-information/school-canteen-advertisement/
+      url: https://www.instagram.com/peps.sg/
+      image: /images/2024 Others/Insta_QR_resize2.jpg
+      alt: Image alt text
 ---
