@@ -37,6 +37,6 @@ sections:
       description: Scan the QR Code on the left or click the following link
       button: Click here
       url: https://www.instagram.com/peps.sg/
-      image: /images/schoollogo.jpg
+      image: /images/2024 Others/Insta_QR.jpg
       alt: Image alt text
 ---
