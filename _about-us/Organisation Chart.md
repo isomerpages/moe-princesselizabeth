@@ -274,14 +274,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Mee Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT MA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Goh Ser Ling Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
