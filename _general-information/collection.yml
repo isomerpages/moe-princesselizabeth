@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Appreciation for Our Staff.md
       - Booklist 2024.md
       - ICT Matters/.keep
