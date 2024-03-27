@@ -27,6 +27,8 @@ and Early Years Centre (EYC) children will <strong>open from 9am on Friday, 16 F
 <p>Please click <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 registration</p>
 <hr>
-<h3></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZuUTCuKDm90?si=hekOcEHl4diYVH4Q"></iframe>
+</div>
 <p></p>
 <p></p>
