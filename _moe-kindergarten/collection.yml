@@ -2,7 +2,6 @@ collections:
   moe-kindergarten:
     output: true
     order:
-      - 2023/.keep
       - Open House.md
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
@@ -18,4 +17,5 @@ collections:
       - "Our Children: Activities/Term 2.md"
       - "Our Children: Activities/Term 3.md"
       - "Our Children: Activities/Term 4.md"
+      - 2023/.keep
       - Kindergarten Care.md
