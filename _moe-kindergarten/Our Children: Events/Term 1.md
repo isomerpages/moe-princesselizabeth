@@ -29,10 +29,3 @@ variant: tiptap
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y9GT9FO3lVU"></iframe>
 </div>
 <p></p>
-<blockquote>
-<h1>2024</h1>
-</blockquote>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j69wqJZE9XY?si=F99lMPBFHVu8_pcm"></iframe>
-</div>
-<p></p>
