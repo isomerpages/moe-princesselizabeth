@@ -4,19 +4,32 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
-<h4>School Health Visit for Primary 1 to 6 Students</h4>
-<p>The Health Promotion Board (HPB) will be conducting the annual school
-health visit at the school <strong>from 18-Mar 2023 to 26-Mar-2023</strong>.
-During this visit, age-appropriate health screening and/or immunisation
-services will be provided for your child as required.</p>
-<p>Please access the following website for more information on Screening
-services offered to primary school students - <a href="https://www.healthhub.sg/live-healthy/health_screening_for_primary_school" rel="noopener noreferrer nofollow" target="_blank">Health Screening for Primary School Students</a>
-</p>
-<p>After the school visit, you may access your child’s School Health Assessment
-Summary via SingPass login <a href="https://www.healthhub.sg/healtheservices" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<h3>Hot weather management</h3>
+<p>Due to the current hot weather recently, we hope to take steps to ensure
+our students stay cool and comfortable while they are in school.</p>
+<p><strong>Starting from Monday, 1 April 2024, students will be allowed to wear their PE attire to school</strong>.
+While such provisions are made for your child’s comfort, we seek your help
+to ensure your child is always neat and presentable. We will monitor and
+review such arrangements in due course.</p>
 <p></p>
-<h4>Key Dates in End of Term 1 &amp; Term 2, 2024</h4>
+<h3>Primary 5 Cohort Camp at Dairy Farm Outdoor Adventure Learning Centre</h3>
+<p>Primary 5 students would be having their <strong>3D2N</strong> cohort camp
+from <strong>25 April – 27 April 2024</strong>. Students will <strong>report to school at 7.30am on 25 April</strong> and
+be <strong>dismissed at 11.30am on 27 April 2024.</strong>
+</p>
+<p>More details would be made known to the students in due course.</p>
+<h3>Weighted Assessment 2</h3>
+<p>Students from <strong>Primary 3 to 5 would be having their Weighted Assessment 2 in the month of May</strong> and
+we would like all parents to refer to the PG notification and take note
+of the dates when your child would be having their class assessments for
+the various subjects.</p>
+<p>Please ensure your child is present for the assessments and should they
+be absent without a valid reason, your child would be marked as absent
+without a valid reason.</p>
+<p><strong>Primary 6 students would be having non-weighted assessment practices in Term 2</strong> to
+help them prepare for their upcoming Preliminary Examination and Primary
+School Leaving Examination in Term 3.</p>
+<h4>Key Dates in Term 2, 2024</h4>
 <table>
 <tbody>
 <tr>
@@ -31,28 +44,6 @@ Summary via SingPass login <a href="https://www.healthhub.sg/healtheservices" re
 <td rowspan="1" colspan="1">
 <p><strong>Remarks</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 11 March &amp; Tuesday, 12 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Coding Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Information has been provided through Parents Gateway for the level.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 29 March</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +148,17 @@ is during curriculum time.</p>
 to parents.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><em>** March Holidays : Saturday 9 March to Sunday 17 March</em>
-</p>
+<p></p>
