@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - "Our Children: Events 2024/Term 1.md"
       - "Our Children: Events 2024/.keep"
       - Open House.md
       - MK@Princess Elizabeth.md
