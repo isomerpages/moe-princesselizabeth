@@ -11,26 +11,22 @@ our students stay cool and comfortable while they are in school.</p>
 While such provisions are made for your child’s comfort, we seek your help
 to ensure your child is always neat and presentable. We will monitor and
 review such arrangements in due course.</p>
-<p></p>
-<h3>Primary 5 Cohort Camp at Dairy Farm Outdoor Adventure Learning Centre</h3>
-<p>Primary 5 students would be having their <strong>3D2N</strong> cohort camp
-from <strong>25 April – 27 April 2024</strong>. Students will <strong>report to school at 7.30am on 25 April</strong> and
-be <strong>dismissed at 11.30am on 27 April 2024.</strong>
-</p>
-<p>More details would be made known to the students in due course.</p>
 <h3>Weighted Assessment 2</h3>
-<p>Students from <strong>Primary 3 to 5 would be having their Weighted Assessment 2 in the month of May</strong> and
-we would like all parents to refer to the PG notification and take note
-of the dates when your child would be having their class assessments for
-the various subjects.</p>
-<p>Please ensure your child is present for the assessments and should they
-be absent without a valid reason, your child would be marked as absent
-without a valid reason.</p>
-<p><strong>Primary 6 students would be having non-weighted assessment practices in Term 2</strong> to
-help them prepare for their upcoming Preliminary Examination and Primary
-School Leaving Examination in Term 3.</p>
+<p>Weighted Assessment 2 for <strong>Primary 3 to 6 students</strong> will
+be conducted <strong>from 6 to 10 May 2024</strong>. Please refer to the <u>PG notification dated 9 April 2024</u> for
+the schedule of your child’s class assessments. Please ensure your child
+is present for the assessments and should they be absent without a valid
+reason, your child would be marked as absent without a valid reason.</p>
+<p><strong>Primary 6 students</strong> would be having non-weighted assessment
+practices in Term 2 to help them prepare for their upcoming Preliminary
+Examination and Primary School Leaving Examination in Term 3.</p>
 <h4>Key Dates in Term 2, 2024</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,52 +40,6 @@ School Leaving Examination in Term 3.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Remarks</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 10 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students. All Muslim students and staff will be allowed
-to go home at 10:30am on Tuesday 9 April.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 24 April &amp; Thursday, 25 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class Photo-taking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All students are expected to wear their full school uniform. Photo-taking
-is during curriculum time.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 25 April to Saturday, 27 April</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent to all parents of P5 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 1 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students</p>
 </td>
 </tr>
 <tr>
@@ -146,6 +96,39 @@ is during curriculum time.</p>
 <td rowspan="1" colspan="1">
 <p>Conducted in the morning on both days. More details will be made known
 to parents.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 27 May to Friday, 21 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 26 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Mathematics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For selected students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday &amp; Friday, 27 &amp; 28 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
 </td>
 </tr>
 <tr>
