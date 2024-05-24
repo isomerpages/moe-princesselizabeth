@@ -7,7 +7,12 @@ variant: tiptap
 <h3>Teachers' Email 2024</h3>
 <p><strong>Class - Teachers - Email - Updated as of 21st Dec 2023</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,13 +31,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Diana Bte Abd Rahman (LH Student Leadership)</p>
-<p>Mdm Fadhillah Bte Md Hussin</p>
 <p>Mdm Nah Min Yee Fiona</p>
+<p>Mr Teo Kee Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_diana_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diana_abdul_rahman@schools.gov.sg</a>
-</p>
-<p><a href="mailto:fadhillah_md_hussin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fadhillah_md_hussin@schools.gov.sg</a>
 </p>
 <p><a href="mailto:Nah_Min_Yee_Fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nah_Min_Yee_Fiona@schools.gov.sg</a>
 </p>
@@ -133,7 +136,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -262,7 +270,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -358,7 +371,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -454,7 +472,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -550,7 +573,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -664,7 +692,13 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
