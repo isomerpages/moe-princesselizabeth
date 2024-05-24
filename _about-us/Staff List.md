@@ -396,14 +396,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Jeslyn Loh-Ho Li Jun (LH SCI)</p>
 <p>Mr Mohd Adib Bin Suhiat (ST PE)</p>
-<p>Mr Joseph Goh Deqiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_li_jun_jeslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@schools.gov.sg</a>
 </p>
 <p><a href="mailto:mohd_adib_b_suhiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_adib_b_suhiat@schools.gov.sg</a>
-</p>
-<p><a href="mailto:Goh_Deqiang_Joseph@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Deqiang_Joseph@schools.gov.sg</a>
 </p>
 </td>
 </tr>
