@@ -11,15 +11,18 @@ our students stay cool and comfortable while they are in school.</p>
 While such provisions are made for your child’s comfort, we seek your help
 to ensure your child is always neat and presentable. We will monitor and
 review such arrangements in due course.</p>
-<h3>Weighted Assessment 2</h3>
-<p>Weighted Assessment 2 for <strong>Primary 3 to 6 students</strong> will
-be conducted <strong>from 6 to 10 May 2024</strong>. Please refer to the <u>PG notification dated 9 April 2024</u> for
-the schedule of your child’s class assessments. Please ensure your child
-is present for the assessments and should they be absent without a valid
-reason, your child would be marked as absent without a valid reason.</p>
-<p><strong>Primary 6 students</strong> would be having non-weighted assessment
-practices in Term 2 to help them prepare for their upcoming Preliminary
-Examination and Primary School Leaving Examination in Term 3.</p>
+<h3>Health, Safety and Security</h3>
+<p>We are committed to providing our students with a safe and secure environment
+to facilitate quality learning. In line with this commitment, we kindly
+seek your support in ensuring the well-being of all students. We urge parents <strong>not to send your child/ward to school if he/she is unwell or exhibiting flu-like symptoms</strong>.
+This precautionary measure is essential in safeguarding the health of our
+school community.</p>
+<p>As part of our emergency preparedness exercise, we will be conducting
+a <strong>temperature-taking exercise on Wednesday, 3 July 2024</strong>.
+To facilitate this process, <strong>we kindly request that your child/ward brings his/her personal thermometer to school on the specified date</strong>.
+Your cooperation in this matter is deeply appreciated, and it plays a vital
+role in our collective efforts to maintain a safe and healthy environment
+for all members of our school community.</p>
 <h4>Key Dates in Term 2, 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
