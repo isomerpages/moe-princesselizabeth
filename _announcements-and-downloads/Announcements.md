@@ -38,7 +38,7 @@ characters they have learnt about in Social Studies lessons and books.</p>
 during the June holidays so that they can start making their props and
 costumes. We look forward to seeing our students all dressed up for Characters
 Alive Day on 8 July!</p>
-<h4>Key Dates in Term 2, 2024</h4>
+<h4>Key Dates in Term 3, 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,91 +62,201 @@ Alive Day on 8 July!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 6 May to Friday, 10 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Weighted Assessment (2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 17 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sports Day (To be confirmed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for P1 to P2 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 22 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 24 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent-Child-Teacher Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8am to 4pm (no lessons for the day)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 27 May and Tuesday, 28 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3 Coding Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Conducted in the morning on both days. More details will be made known
-to parents.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 27 May to Friday, 21 June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Wednesday, 26 June</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Mathematics Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For selected students</p>
+<p>More details will be sent via PG for selected students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday &amp; Friday, 27 &amp; 28 June</p>
+<p>Thursday 27 June &amp; Friday, 28 June</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P4 Camp</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 28 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Cohort LJ to Asian Civilizations Museum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 1 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Youth Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 3 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coding Enrichment (Elite Coder 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG for selected students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 10 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coding Enrichment (Elite Coder 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG for selected students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 8 July to Friday, 19 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Fortnight</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday, 13 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 NE Show</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 22 July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commemoration of Racial Harmony Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 29 July &amp; Thursday, 1 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Prelim Examination</p>
+<p>English Language and Mother Tongue Language Oral Examination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For P6 students only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 8 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School ends at 10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 9 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 13 August &amp; Tuesday, 14 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Oral Examination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 15 August &amp; Wednesday 28 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5 Cohort LJ to Indian Heritage Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 19 August to Friday, 23 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment (3) / P6 Prelim Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday 27 August &amp; Wednesday, 28 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Cohort LJ to Kreta Ayer HG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 29 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher's Day Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School ends at 10.30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday 30 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers' Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for students</p>
 </td>
 </tr>
 <tr>
@@ -162,4 +272,6 @@ to parents.</p>
 </tr>
 </tbody>
 </table>
+<p><em>** September Holidays: Saturday, 31 August to Sunday, 8 September</em>
+</p>
 <p></p>
