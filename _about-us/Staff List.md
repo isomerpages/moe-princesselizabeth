@@ -39,6 +39,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:Nah_Min_Yee_Fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nah_Min_Yee_Fiona@schools.gov.sg</a>
 </p>
+<p><a href="mailto:Teo_Kee_Chong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Kee_Chong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -239,14 +241,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Ow May Ling, Angeline (LH EL)</p>
 <p>Ms Esther Tham Jia Hui</p>
-<p>Mdm Mu Jin Zhao, Angela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ow_may_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_may_ling_angeline@schools.gov.sg</a>
 </p>
 <p><a href="mailto:tham_jia_hui_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_jia_hui_esther@schools.gov.sg</a>
-</p>
-<p><a href="mailto:Mu_Jinzhao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mu_Jinzhao@schools.gov.sg</a>
 </p>
 </td>
 </tr>
