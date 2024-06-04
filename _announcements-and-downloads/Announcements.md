@@ -23,6 +23,21 @@ To facilitate this process, <strong>we kindly request that your child/ward bring
 Your cooperation in this matter is deeply appreciated, and it plays a vital
 role in our collective efforts to maintain a safe and healthy environment
 for all members of our school community.</p>
+<h3>Language and Cultural Fortnight</h3>
+<p>The Language and Cultural Fortnight will be taking place from <strong>8 to 19 July 2024</strong>.
+This event aims at promoting both the English and Mother Tongue languages
+as well as to enhance students’ understanding of the different cultures.
+Students will be actively engaged in their learning during English and
+Mother Tongue Language lessons.</p>
+<p>In addition, as part of our school’s efforts in promoting a reading culture, <strong>Characters Alive Day will be held on Monday, 8 July 2024, in which all students are invited to dress up as book characters</strong>.
+Students are encouraged to use recycled materials to make their props/character
+costumes. They can select fiction or non-fiction characters from English
+and Mother Tongue books. Alternatively, they may also dress up as historical
+characters they have learnt about in Social Studies lessons and books.</p>
+<p>We seek parents’ cooperation to help your children collect recycled materials
+during the June holidays so that they can start making their props and
+costumes. We look forward to seeing our students all dressed up for Characters
+Alive Day on 8 July!</p>
 <h4>Key Dates in Term 2, 2024</h4>
 <table style="minWidth: 75px">
 <colgroup>
