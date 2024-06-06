@@ -20,7 +20,7 @@ more operating details.</p>
 <p>Uniform Purchase enquiries during 2024 June Holidays:</p>
 <p><strong>Contact No</strong>: 6479 6811</p>
 <p><strong>Operating Hours</strong>: Mon-Fri 9am-12pm, 1pm-5pm)</p>
-<p><strong>Email</strong>: <a href="sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p><strong>Email</strong>: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <p>Production of all Uniform items are in progress and expected to be ready
 around end of June 2024. Please call or email us so we can take your orders.</p>
