@@ -5,17 +5,6 @@ description: ""
 third_nav_title: School Services
 variant: tiptap
 ---
-<h3>Asencio Pte Ltd</h3>
-<p>120 Hillview Avenue
-<br>#05-02 Kewalram Hillview
-<br>Singapore 669594</p>
-<p><strong>Contact No :</strong>&nbsp;6764 3102
-<br><strong>Operating Hours :</strong>&nbsp;Monday to Friday: 09:00am to 5:00pm
-,&nbsp;Saturday: 09:00am to 1.00pm <em>(Closed every Sundays, Eve of Public Holidays (Christmas Eve and New Year Eve) &amp; Public Holidays)</em> 
-<br><strong>Email :</strong>&nbsp;uniforms@asencio.com.sg
-<br>Please refer to&nbsp;<a href="https://asencio.com.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/contact-us/</a>&nbsp;for
-more operating details.</p>
-<p></p>
 <h3>KH Uniform Pte Ltd</h3>
 <p>Uniform Purchase enquiries during 2024 June Holidays:</p>
 <p><strong>Contact No</strong>: 6479 6811</p>
