@@ -237,11 +237,12 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ow May Ling, Angeline (LH EL)</p>
+<p>Ms Tan Yi Ying</p>
+<p></p>
 <p>Ms Esther Tham Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ow_may_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_may_ling_angeline@schools.gov.sg</a>
+<p><a href="mailto:tan_yi_ying_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_c@schools.gov.sg</a>
 </p>
 <p><a href="mailto:tham_jia_hui_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_jia_hui_esther@schools.gov.sg</a>
 </p>
