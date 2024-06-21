@@ -666,14 +666,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Teng Shin Chee</p>
 <p>Mrs Muthu (Mdm T Poongkodi) (TL Coordinator)</p>
-<p>Mdm Ambeka</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_shin_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shin_chee@schools.gov.sg</a>
 </p>
 <p><a href="mailto:t_poongkodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">t_poongkodi@schools.gov.sg</a>
-</p>
-<p><a href="mailto:Ambeka_Sethupathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ambeka_Sethupathy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
