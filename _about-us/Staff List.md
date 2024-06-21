@@ -353,12 +353,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</p>
-<p>Mdm Ng Jie Xin</p>
+<p>Mdm Puspalatha Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahroom_noor_mumeen_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@schools.gov.sg</a>
 </p>
-<p><a href="mailto:Ng_Jie_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Jie_Xin@schools.gov.sg</a>
+<p><a href="mailto:puspalatha_saravanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
