@@ -489,13 +489,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Xu Huimin (ST SCI)</p>
-<p>Ms Jiang Yanyan (ST CL)</p>
 <p>Ms Teresa Maria Lee Dan Lin (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_huimin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_huimin_a@schools.gov.sg</a>
-</p>
-<p><a href="mailto:jiang_yanyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@schools.gov.sg</a>
 </p>
 <p><a href="mailto:teresa_maria_lee_dan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@schools.gov.sg</a>
 </p>
