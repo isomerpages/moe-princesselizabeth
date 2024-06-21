@@ -12,8 +12,8 @@ variant: tiptap
 <p><strong>Email</strong>: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <p>The production of all uniform items is currently underway and is anticipated
-to be completed by the end of June 2024. Kindly reach out via phone or
-email to place your orders.</p>
+to be completed by Mid-July 2024. Kindly reach out via phone or email to
+place your orders.</p>
 <h3>Name Tag Placement</h3>
 <table style="minWidth: 50px">
 <colgroup>
