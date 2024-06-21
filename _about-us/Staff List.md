@@ -177,15 +177,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Lee Jiaying</p>
+<p></p>
 <p>Ms Poh Chiew Fong</p>
-<p>Ms Michelle Tan- Ng Sook Ling (ST - Ed Support &amp; Learning Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joey_lee_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_lee_jiaying@schools.gov.sg</a>
 </p>
 <p><a href="mailto:poh_chiew_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_chiew_fong@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ng_sook_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sook_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
