@@ -4,8 +4,6 @@ permalink: /privacy/
 variant: tiptap
 ---
 <h4><strong>PRINCESS ELIZABETH PRIMARY SCHOOL PRIVACY STATEMENT</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
 <p>1.&nbsp; This is Princess Elizabeth Primary School website. Thank you
 for examining our privacy statement.</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
