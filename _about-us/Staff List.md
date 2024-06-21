@@ -322,13 +322,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noorhirdawati Bte Buang</p>
-<p>Mdm Fazeelah Khan Bte Pate Khan</p>
+<p></p>
 <p>Mdm Siti Zahidah Bte Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noorhirdawati_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhirdawati_buang@schools.gov.sg</a>
-</p>
-<p><a href="mailto:fazeelah_khan_pate_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazeelah_khan_pate_khan@schools.gov.sg</a>
 </p>
 <p><a href="mailto:siti_zahidah_suhaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahidah_suhaimi@schools.gov.sg</a>
 </p>
