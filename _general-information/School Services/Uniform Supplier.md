@@ -6,13 +6,14 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h3>KH Uniform Pte Ltd</h3>
-<p>Uniform Purchase enquiries during 2024 June Holidays:</p>
+<p>Enquires about Uniform Purchases during 2024 June Holidays:</p>
 <p><strong>Contact No</strong>: 6479 6811</p>
-<p><strong>Operating Hours</strong>: Mon-Fri 9am-12pm, 1pm-5pm)</p>
+<p><strong>Operating Hours</strong>: Mon-Fri (9 am - 12 noon, 1 pm - 5 pm)</p>
 <p><strong>Email</strong>: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
-<p>Production of all Uniform items are in progress and expected to be ready
-around end of June 2024. Please call or email us so we can take your orders.</p>
+<p>The production of all uniform items is currently underway and is anticipated
+to be completed by Mid-July 2024. Kindly reach out via phone or email to
+place your orders.</p>
 <h3>Name Tag Placement</h3>
 <table style="minWidth: 50px">
 <colgroup>

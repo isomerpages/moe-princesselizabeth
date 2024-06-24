@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Teachers' Email 2024</h3>
-<p><strong>Class - Teachers - Email - Updated as of 21st Dec 2023</strong>
+<p><strong>Class - Teachers - Email - Updated as of 21st June 2024</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -177,15 +177,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Lee Jiaying</p>
+<p></p>
 <p>Ms Poh Chiew Fong</p>
-<p>Ms Michelle Tan- Ng Sook Ling (ST - Ed Support &amp; Learning Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joey_lee_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_lee_jiaying@schools.gov.sg</a>
 </p>
 <p><a href="mailto:poh_chiew_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_chiew_fong@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ng_sook_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sook_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -239,11 +237,12 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ow May Ling, Angeline (LH EL)</p>
+<p>Ms Tan Yi Ying</p>
+<p></p>
 <p>Ms Esther Tham Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ow_may_ling_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ow_may_ling_angeline@schools.gov.sg</a>
+<p><a href="mailto:tan_yi_ying_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_c@schools.gov.sg</a>
 </p>
 <p><a href="mailto:tham_jia_hui_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_jia_hui_esther@schools.gov.sg</a>
 </p>
@@ -323,13 +322,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noorhirdawati Bte Buang</p>
-<p>Mdm Fazeelah Khan Bte Pate Khan</p>
+<p></p>
 <p>Mdm Siti Zahidah Bte Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noorhirdawati_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhirdawati_buang@schools.gov.sg</a>
-</p>
-<p><a href="mailto:fazeelah_khan_pate_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazeelah_khan_pate_khan@schools.gov.sg</a>
 </p>
 <p><a href="mailto:siti_zahidah_suhaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahidah_suhaimi@schools.gov.sg</a>
 </p>
@@ -356,12 +353,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</p>
-<p>Mdm Ng Jie Xin</p>
+<p>Mdm Puspalatha Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahroom_noor_mumeen_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@schools.gov.sg</a>
 </p>
-<p><a href="mailto:Ng_Jie_Xin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Jie_Xin@schools.gov.sg</a>
+<p><a href="mailto:puspalatha_saravanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -492,13 +489,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Xu Huimin (ST SCI)</p>
-<p>Ms Jiang Yanyan (ST CL)</p>
 <p>Ms Teresa Maria Lee Dan Lin (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_huimin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_huimin_a@schools.gov.sg</a>
-</p>
-<p><a href="mailto:jiang_yanyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_yanyan@schools.gov.sg</a>
 </p>
 <p><a href="mailto:teresa_maria_lee_dan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@schools.gov.sg</a>
 </p>
@@ -672,14 +666,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Teng Shin Chee</p>
 <p>Mrs Muthu (Mdm T Poongkodi) (TL Coordinator)</p>
-<p>Mdm Ambeka</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_shin_chee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_shin_chee@schools.gov.sg</a>
 </p>
 <p><a href="mailto:t_poongkodi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">t_poongkodi@schools.gov.sg</a>
-</p>
-<p><a href="mailto:Ambeka_Sethupathy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ambeka_Sethupathy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
