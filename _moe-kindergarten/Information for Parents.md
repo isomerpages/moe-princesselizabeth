@@ -11,7 +11,12 @@ variant: tiptap
 </p>
 <p><strong>Term 2: 18 March to 24 May</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -283,7 +288,7 @@ kindergarten.</p>
 <p>Fees are also payable during the June and December holidays.</p>
 <h2>MK financial assistance</h2>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
-under the <a href="https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
+under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
 applies only to MK school fees.</p>
 <div class="isomer-image-wrapper">
@@ -300,7 +305,12 @@ their daily lessons. Please purchase your child/ward's uniforms directly
 from the following suppliers via the website or retail outlets. Do make
 an appointment before visiting the store and check on availability of sizes
 beforehand.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
