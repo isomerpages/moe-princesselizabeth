@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 2: 18 March to 24 May</strong>
+<p><strong>Term 3: 24 June to 30 August</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -31,10 +31,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 March, Friday</p>
+<p>28 June, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>March Birthday Celebration</p>
+<p>June Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -42,102 +42,76 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 March, Friday</p>
+<p>1 July, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday</p>
+<p>Youth Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday</p>
+<p>• School Holiday</p>
+<p>• KCare operates as per normal.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 April, Monday</p>
+<p>5 July, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>International Friendship Day / Science &amp; Environment Champs Day</p>
+<p>MK Reads: Mini Molly Visits MK@ PEPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• MK children will join the morning assembly with PEPS students to commemorate
-International Friendship Day.</p>
-<p>• MK children will present a song on friendship and about the Earth.</p>
-<p>• This is also to kick-start Earth Day 2024.</p>
+<p>• MK children will visit the mobile library and borrow 4 books with their
+NLB cards.</p>
+<p>• They will practice responsibility by returning the books timely at the
+book drop of any NLB convenient for them.</p>
+<p>• They will cultivate the joy for reading and care for the books they
+have borrowed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 July, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Fortnight and</p>
+<p>Characters Alive Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Design and dress up in your favorite storybook character costume.</p>
+<p>• Bring the book that showcases your character for show-and-tell.</p>
+<p>• Arrive by 7.50am and join PEPS morning assembly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 July, Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Racial Harmony Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Dress in Ethnic costume.</p>
+<p>• In-school activities to share about the cultural diversity in Singapore.</p>
 <p>• No change in regular curriculum.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 April, Tuesday</p>
+<p>23 July, Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa Eve</p>
+<p>EYC Transition Program</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Half-day for Muslim students and staff:</p>
-<p>o AM Session: 10.30am</p>
-<p>o PM Session: 2.30pm</p>
-<p>• KCare operates as per normal.</p>
+<p>EYC Partner - Sparkletots at Blk 446 to visit MK.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 April, Wednesday</p>
+<p>26 July, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Public Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 April, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Children to wear ethnic Malay costume or MK uniform.</p>
-<p>• MK children will join the morning assembly with PEPS students for combined
-celebration.</p>
-<p>• MK celebrations will continue during regular curriculum hours for am
-and pm sessions respectively.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 April, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Earth Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Children will be engaged in Earth Day related activities during curriculum
-time.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25 April, Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Class Photo Taking</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK children will have their class pictures taken by professional photographers.</p>
-<p>• Dress smart and neat in MK uniform.</p>
-<p>• Wear covered shoes with socks.</p>
-<p>• Ensure hair is neat and tidy.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 April, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April Birthday Celebration</p>
+<p>July Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -145,10 +119,22 @@ time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 May, Wednesday</p>
+<p>8 August, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Labour Day</p>
+<p>National Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• MK joins PEPS for celebrations from 7.30am to 10.30am.</p>
+<p>• KCare operates at regular hours.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 August, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday</p>
@@ -156,10 +142,10 @@ time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 May, Friday</p>
+<p>23 August, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>May Birthday Celebration</p>
+<p>August Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -167,52 +153,48 @@ time.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 May (TBC), Tuesday</p>
+<p>28 August, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior Sports Day</p>
+<p>LIFE@MK 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Combined event in the morning for both sessions.</p>
-<p>• KCare operates as per normal.</p>
-<p>• Details of event will be shared closer to date.</p>
+<p>Details of event will be shared closer to date.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 May, Wednesday</p>
+<p>29 August, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vesak Day</p>
+<p>Teachers’ Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 &amp; 24 May, Thursday &amp; Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-Year Parent Teacher Conference</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• It will be a non-school day for MK.</p>
-<p>• KCare operates as per normal.</p>
-<p>• It will be an in-person session at MK (no virtual session).</p>
-<p>• Booking details will be shared closer to date via Parents Gateway.</p>
+<p>• MK joins PEPS for celebrations from 7.50am to 10.30am.</p>
+<p>• KCare operates till 1.30pm.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday, 25 May to Sunday, 23 June</p>
+<p>30 August, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 School Holidays</p>
+<p>Teachers’ Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Term 2 school holidays for MK.</p>
-<p>• KCare remains open unless it is Centre Closure.</p>
+<p>MK and KCare are closed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saturday, 31 August to Sunday, 8 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Term 3 school holidays for MK.</p>
+<p>• KCare remains open unless indicated Centre Closure.</p>
 </td>
 </tr>
 <tr>
