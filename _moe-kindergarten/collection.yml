@@ -2,6 +2,7 @@ collections:
   moe-kindergarten:
     output: true
     order:
+      - "Our Children: Activities 2024/.keep"
       - Open House.md
       - MK@Princess Elizabeth.md
       - "Introduction of MK: Curriculum & Learning Environment.md"
