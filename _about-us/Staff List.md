@@ -1063,7 +1063,7 @@ variant: tiptap
 <p>Ms Yap Soo Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_soo_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_soo_ting@schools.gov.sg</a>
+<p><a href="mailto:yap_soo_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_soo_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1077,7 +1077,7 @@ variant: tiptap
 <p>Mdm Nadiyah Bte Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nadiyah_suhaimi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nadiyah_suhaimi@schools.gov.sg</a>
+<p><a href="mailto:nadiyah_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiyah_suhaimi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1091,22 +1091,23 @@ variant: tiptap
 <p>Mdm Nur Sabrina Bte Abdul Shukur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_sabrina_abdul_shukur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_sabrina_abdul_shukur@schools.gov.sg</a>
+<p><a href="mailto:nur_sabrina_abdul_shukur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_sabrina_abdul_shukur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="2" colspan="2">
 <p>School Counsellor</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Jasimah Bte Syed Sulaiman</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Jasima_Syed_Sulaiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jasima_Syed_Sulaiman@schools.gov.sg</a>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jasima_Syed_Sulaiman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
