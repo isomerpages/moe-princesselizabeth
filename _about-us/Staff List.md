@@ -931,7 +931,7 @@ variant: tiptap
 <p>Mdm Dalvindar Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dalvindar_kaur@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dalvindar_kaur@schools.gov.sg</a>
+<p><a href="mailto:dalvindar_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dalvindar_kaur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -943,7 +943,7 @@ variant: tiptap
 <p>Ms Yeo Suan Shih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_suan_shih@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_suan_shih@schools.gov.sg</a>
+<p><a href="mailto:yeo_suan_shih@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_suan_shih@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -955,7 +955,7 @@ variant: tiptap
 <p>Mdm Nur Hazreen Binte Subadar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hazreen_subadar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazreen_subadar@schools.gov.sg</a>
+<p><a href="mailto:nur_hazreen_subadar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazreen_subadar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -967,7 +967,7 @@ variant: tiptap
 <p>Miss Yew Hui Tin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yew_hui_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_tin@schools.gov.sg</a>
+<p><a href="mailto:yew_hui_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yew_hui_tin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -979,7 +979,7 @@ variant: tiptap
 <p>Mrs Marselyn Jonatan Prakarsah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marselyn_prakarsah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marselyn_prakarsah@schools.gov.sg</a>
+<p><a href="mailto:marselyn_prakarsah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marselyn_prakarsah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -991,7 +991,7 @@ variant: tiptap
 <p>Ms Shanthi Govindasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanthi_govindasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shanthi_govindasamy@schools.gov.sg</a>
+<p><a href="mailto:shanthi_govindasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanthi_govindasamy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1003,7 +1003,7 @@ variant: tiptap
 <p>Ms Sonia Lee Lu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lu_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@schools.gov.sg</a>
+<p><a href="mailto:lee_lu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1015,7 +1015,7 @@ variant: tiptap
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresa_maria_lee_dan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@schools.gov.sg</a>
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1027,7 +1027,7 @@ variant: tiptap
 <p>Mdm Kamisah Bte Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kamisah_salleh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kamisah_salleh@schools.gov.sg</a>
+<p><a href="mailto:kamisah_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kamisah_salleh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1039,7 +1039,7 @@ variant: tiptap
 <p>Mrs Puspalatha Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puspalatha_saravanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@schools.gov.sg</a>
+<p><a href="mailto:puspalatha_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1051,7 +1051,7 @@ variant: tiptap
 <p>Mdm Kwan Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwan_yue_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yue_hua@schools.gov.sg</a>
+<p><a href="mailto:kwan_yue_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yue_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
