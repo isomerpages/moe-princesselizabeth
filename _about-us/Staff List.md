@@ -848,20 +848,32 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>6R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Roselinda Bte Mahat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roselinda_mahat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roselinda_mahat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yang Shu Han, Sophia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yang_shu_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shu_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Hazreen Bte Subadar (HOD SCI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:roselinda_mahat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roselinda_mahat@schools.gov.sg</a>
-</p>
-<p><a href="mailto:yang_shu_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shu_han@schools.gov.sg</a>
-</p>
-<p><a href="mailto:nur_hazreen_subadar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazreen_subadar@schools.gov.sg</a>
+<p><a href="mailto:nur_hazreen_subadar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazreen_subadar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
