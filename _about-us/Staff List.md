@@ -269,66 +269,90 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lynette Ho Su-Shien</p>
-<p>Ms Li Hui, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_su_shien_lynette@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_shien_lynette@schools.gov.sg</a>
-</p>
-<p><a href="mailto:li_hui_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_hui_a@schools.gov.sg</a>
+<p><a href="mailto:ho_su_shien_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_su_shien_lynette@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Li Hui, Ivy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_hui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_hui_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teng Ling Ling</p>
-<p>Mdm Haji Noor Jainub Begam (Mdm Jainub Begam)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ling_ling@schools.gov.sg</a>
-</p>
-<p><a href="mailto:haji_noor_jainub_begam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haji_noor_jainub_begam@schools.gov.sg</a>
+<p><a href="mailto:teng_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ling_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Haji Noor Jainub Begam (Mdm Jainub Begam)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:haji_noor_jainub_begam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haji_noor_jainub_begam@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yi Ying</p>
-<p></p>
-<p>Ms Esther Tham Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_ying_c@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_c@schools.gov.sg</a>
-</p>
-<p><a href="mailto:tham_jia_hui_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tham_jia_hui_esther@schools.gov.sg</a>
+<p><a href="mailto:tan_yi_ying_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi_ying_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Esther Tham Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tham_jia_hui_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_jia_hui_esther@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sanmuga Malar d/o Rathakrishna (LT EL)</p>
-<p>Ms Khaizuran Supaat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sanmuga_malar_rathakrishna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@schools.gov.sg</a>
-</p>
-<p><a href="mailto:khaizuran_supaat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khaizuran_supaat@schools.gov.sg</a>
+<p><a href="mailto:sanmuga_malar_rathakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms Khaizuran Supaat</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:khaizuran_supaat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaizuran_supaat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p>
