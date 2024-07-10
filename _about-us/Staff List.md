@@ -527,65 +527,90 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4S</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Hui Ling, Felicia</p>
-<p>Ms Aida Lisa Bte Aliman (SH NESS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_hui_ling_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hui_ling_felicia@schools.gov.sg</a>
-</p>
-<p><a href="mailto:aida_lisa_aliman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@schools.gov.sg</a>
+<p><a href="mailto:lee_hui_ling_felicia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hui_ling_felicia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Aida Lisa Bte Aliman (SH NESS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aida_lisa_aliman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>4P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Faith Goh Li Hoon</p>
-<p>Mr Wong Chee Kuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_li_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li_hoon@schools.gov.sg</a>
-</p>
-<p><a href="mailto:wong_chee_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chee_kuen@schools.gov.sg</a>
+<p><a href="mailto:goh_li_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li_hoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wong Chee Kuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_chee_kuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chee_kuen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>4I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mahmud Bin Ahmad</p>
-<p>Mdm Lim Lee Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mahmud_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mahmud_ahmad@schools.gov.sg</a>
-</p>
-<p><a href="mailto:lim_lee_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lee_choon@schools.gov.sg</a>
+<p><a href="mailto:mahmud_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mahmud_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Lim Lee Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_lee_choon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_lee_choon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>4R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheak Hai Joon</p>
-<p>Ms Chanel Neo Wen Fang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheak_hai_joon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheak_hai_joon@schools.gov.sg</a>
-</p>
-<p><a href="mailto:chanel_neo_wen_fang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chanel_neo_wen_fang@schools.gov.sg</a>
+<p><a href="mailto:cheak_hai_joon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheak_hai_joon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Ms Chanel Neo Wen Fang</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:chanel_neo_wen_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chanel_neo_wen_fang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p>
