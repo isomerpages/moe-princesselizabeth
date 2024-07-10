@@ -227,33 +227,44 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joey Lee Jiaying</p>
-<p></p>
-<p>Ms Poh Chiew Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joey_lee_jiaying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joey_lee_jiaying@schools.gov.sg</a>
-</p>
-<p><a href="mailto:poh_chiew_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_chiew_fong@schools.gov.sg</a>
+<p><a href="mailto:joey_lee_jiaying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joey_lee_jiaying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Poh Chiew Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_chiew_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_chiew_fong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Lum (Neo Qingxia Jennifer)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_qingxia_jennifer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_qingxia_jennifer@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hasyimah Bte Harith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_qingxia_jennifer@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_qingxia_jennifer@schools.gov.sg</a>
-</p>
-<p><a href="mailto:hasyimah_harith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hasyimah_harith@schools.gov.sg</a>
+<p><a href="mailto:hasyimah_harith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasyimah_harith@moe.edu.sg</a>
 </p>
 </td>
 </tr>
