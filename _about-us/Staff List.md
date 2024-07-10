@@ -635,32 +635,44 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Xu Huimin (ST SCI)</p>
-<p>Ms Teresa Maria Lee Dan Lin (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_huimin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xu_huimin_a@schools.gov.sg</a>
-</p>
-<p><a href="mailto:teresa_maria_lee_dan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@schools.gov.sg</a>
+<p><a href="mailto:xu_huimin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_huimin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Teresa Maria Lee Dan Lin (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>5S</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yap Shu Jun (LH MA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yap_shu_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shu_jun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Sonia Lee Lu Mei (HOD Discipline / SM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yap_shu_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yap_shu_jun@schools.gov.sg</a>
-</p>
-<p><a href="mailto:lee_lu_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@schools.gov.sg</a>
+<p><a href="mailto:lee_lu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
