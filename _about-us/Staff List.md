@@ -506,17 +506,23 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jeslyn Loh-Ho Li Jun (LH SCI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohd Adib Bin Suhiat (ST PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_li_jun_jeslyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@schools.gov.sg</a>
-</p>
-<p><a href="mailto:mohd_adib_b_suhiat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_adib_b_suhiat@schools.gov.sg</a>
+<p><a href="mailto:mohd_adib_b_suhiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_adib_b_suhiat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
