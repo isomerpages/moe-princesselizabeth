@@ -461,20 +461,27 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Shahroom Noor B Mumeen Muhamed (LH ICT)</p>
-<p>Mdm Puspalatha Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahroom_noor_mumeen_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@schools.gov.sg</a>
-</p>
-<p><a href="mailto:puspalatha_saravanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@schools.gov.sg</a>
+<p><a href="mailto:shahroom_noor_mumeen_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mdm Puspalatha Saravanan</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:puspalatha_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p>
