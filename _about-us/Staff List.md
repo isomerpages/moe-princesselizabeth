@@ -377,32 +377,44 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Ser Ling Nicole (ST EL)</p>
-<p>Ms Lin Qiuwen (ST HAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ser_ling_nicole@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ser_ling_nicole@schools.gov.sg</a>
-</p>
-<p><a href="mailto:lin_qiuwen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_qiuwen@schools.gov.sg</a>
+<p><a href="mailto:goh_ser_ling_nicole@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ser_ling_nicole@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Lin Qiuwen (ST HAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_qiuwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_qiuwen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>3S</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khor Lee Chiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khor_lee_chiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khor_lee_chiang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Jia Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khor_lee_chiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_lee_chiang@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ng_jia_le@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_le@schools.gov.sg</a>
+<p><a href="mailto:ng_jia_le@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jia_le@moe.edu.sg</a>
 </p>
 </td>
 </tr>
