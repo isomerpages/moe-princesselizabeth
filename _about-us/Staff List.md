@@ -827,17 +827,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chin Chwee Tin - Chua Chwee Tin (LH MA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chwee_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chwee_tin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Gay Li Ting (LH CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chwee_tin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chwee_tin@schools.gov.sg</a>
-</p>
-<p><a href="mailto:gay_li_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gay_li_ting@schools.gov.sg</a>
+<p><a href="mailto:gay_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_li_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
