@@ -677,50 +677,69 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Samuel Chong JunQuan</p>
-<p>Ms Chung Kai Sin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_junquan_samuel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_junquan_samuel@schools.gov.sg</a>
-</p>
-<p><a href="mailto:chung_kai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_kai_sin@schools.gov.sg</a>
+<p><a href="mailto:chong_junquan_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_junquan_samuel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Chung Kai Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chung_kai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_kai_sin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>5I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shermin Low</p>
-<p>Ms Kerk Rui Qi, Yvonne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shermin_low_simin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shermin_low_simin@schools.gov.sg</a>
-</p>
-<p><a href="mailto:kerk_rui_qi_yvonne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kerk_rui_qi_yvonne@schools.gov.sg</a>
+<p><a href="mailto:shermin_low_simin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermin_low_simin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Kerk Rui Qi, Yvonne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kerk_rui_qi_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kerk_rui_qi_yvonne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>5R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rena Lim Yung Chi</p>
-<p>Mr Yazid Bin Adali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rena_lim_yung_chi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rena_lim_yung_chi@schools.gov.sg</a>
-</p>
-<p><a href="mailto:yazid_adali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yazid_adali@schools.gov.sg</a>
+<p><a href="mailto:rena_lim_yung_chi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rena_lim_yung_chi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mr Yazid Bin Adali</p>
+</td>
+<td rowspan="2" colspan="1">
+<p><a href="mailto:yazid_adali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yazid_adali@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr></tr>
 </tbody>
 </table>
 <p>
