@@ -806,17 +806,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chin Sau Lai (LH EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_sau_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_sau_lai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Chua - Gui Wan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chin_sau_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_sau_lai@schools.gov.sg</a>
-</p>
-<p><a href="mailto:gui_wan_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gui_wan_yi@schools.gov.sg</a>
+<p><a href="mailto:gui_wan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gui_wan_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
