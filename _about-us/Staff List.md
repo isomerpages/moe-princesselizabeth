@@ -764,32 +764,44 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Cheng Mee Eng (LT MA)</p>
-<p>Ms Foo Yan Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheng_mee_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_mee_eng@schools.gov.sg</a>
-</p>
-<p><a href="mailto:foo_yan_ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yan_ni@schools.gov.sg</a>
+<p><a href="mailto:cheng_mee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_mee_eng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Foo Yan Ni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:foo_yan_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_yan_ni@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>6S</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ng-Lau Bak Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lau_bak_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_bak_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Norfidah Bte Othman (ST ML / ML Coordinator)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_bak_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lau_bak_eng@schools.gov.sg</a>
-</p>
-<p><a href="mailto:norfidah_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norfidah_othman@schools.gov.sg</a>
+<p><a href="mailto:norfidah_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norfidah_othman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
