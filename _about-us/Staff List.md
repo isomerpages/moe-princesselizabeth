@@ -206,17 +206,23 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Jia Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tang_jia_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jia_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Kalpana Panaysilvam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_jia_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jia_min@schools.gov.sg</a>
-</p>
-<p><a href="mailto:kalpana_panaysilvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kalpana_panaysilvam@schools.gov.sg</a>
+<p><a href="mailto:kalpana_panaysilvam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalpana_panaysilvam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
