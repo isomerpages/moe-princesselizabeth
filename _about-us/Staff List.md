@@ -440,17 +440,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3I</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Elizabeth Ting-Lai Siew Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:elizabeth_lai_siew_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_lai_siew_yuan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hasimah Hasim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:elizabeth_lai_siew_yuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_lai_siew_yuan@schools.gov.sg</a>
-</p>
-<p><a href="mailto:hasimah_hasim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hasimah_hasim@schools.gov.sg</a>
+<p><a href="mailto:hasimah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasimah_hasim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
