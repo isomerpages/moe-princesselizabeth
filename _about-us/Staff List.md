@@ -98,63 +98,95 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Yian Ping, Emily</p>
-<p>Mdm Nur Aina Bte Mohamed Ishak</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yian_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yian_ping@schools.gov.sg</a>
-</p>
-<p><a href="mailto:nur_aina_mohamed_ishak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aina_mohamed_ishak@schools.gov.sg</a>
+<p><a href="mailto:lee_yian_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yian_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Nur Aina Bte Mohamed Ishak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_aina_mohamed_ishak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aina_mohamed_ishak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rozanita Bte Mohd Mokhtar</p>
-<p>Mr Aaron Chan Jit Ming (LH PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rozanita_mohd_mokhtar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rozanita_mohd_mokhtar@schools.gov.sg</a>
-</p>
-<p><a href="mailto:chan_jit_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jit_ming@schools.gov.sg</a>
+<p><a href="mailto:rozanita_mohd_mokhtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rozanita_mohd_mokhtar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Aaron Chan Jit Ming (LH PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_jit_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jit_ming@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ernie Ennor Bte Razali</p>
-<p>Mdm Ng Hui Mei (Huang Huimei)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ernie_ennor_razali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_ennor_razali@schools.gov.sg</a>
-</p>
-<p><a href="mailto:ng_hui_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_mei@schools.gov.sg</a>
+<p><a href="mailto:ernie_ennor_razali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernie_ennor_razali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ng Hui Mei (Huang Huimei)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_hui_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_hui_mei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kan Pui Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kan_pui_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan_pui_yan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Faizlyana Bte Ismail (LH CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kan_pui_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kan_pui_yan@schools.gov.sg</a>
+<p><a href="mailto:faizlyana_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizlyana_ismail@moe.edu.sg</a>
 </p>
-<p><a href="mailto:faizlyana_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faizlyana_ismail@schools.gov.sg</a>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
