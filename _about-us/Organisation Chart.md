@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3>School Leaders</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,7 +56,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Heads of Department</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -161,7 +169,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Subject &amp; Level Heads</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -193,14 +205,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ow May Ling, Angeline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH EL</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +258,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -331,7 +339,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Admin Team</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
