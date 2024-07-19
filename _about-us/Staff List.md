@@ -768,7 +768,7 @@ variant: tiptap
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Mee Eng (LT MA)</p>
+<p>Mdm Cheng Mee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheng_mee_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_mee_eng@moe.edu.sg</a>
