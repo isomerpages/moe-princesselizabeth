@@ -4,41 +4,157 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Hot weather management</h3>
-<p>Due to the current hot weather recently, we hope to take steps to ensure
-our students stay cool and comfortable while they are in school.</p>
-<p><strong>Starting from Monday, 1 April 2024, students will be allowed to wear their PE attire to school</strong>.
-While such provisions are made for your child’s comfort, we seek your help
-to ensure your child is always neat and presentable. We will monitor and
-review such arrangements in due course.</p>
-<h3>Health, Safety and Security</h3>
-<p>We are committed to providing our students with a safe and secure environment
-to facilitate quality learning. In line with this commitment, we kindly
-seek your support in ensuring the well-being of all students. We urge parents <strong>not to send your child/ward to school if he/she is unwell or exhibiting flu-like symptoms</strong>.
-This precautionary measure is essential in safeguarding the health of our
-school community.</p>
-<p>As part of our emergency preparedness exercise, we will be conducting
-a <strong>temperature-taking exercise on Wednesday, 3 July 2024</strong>.
-To facilitate this process, <strong>we kindly request that your child/ward brings his/her personal thermometer to school on the specified date</strong>.
-Your cooperation in this matter is deeply appreciated, and it plays a vital
-role in our collective efforts to maintain a safe and healthy environment
-for all members of our school community.</p>
-<h3>Language and Cultural Fortnight</h3>
-<p>The Language and Cultural Fortnight will be taking place from <strong>8 to 19 July 2024</strong>.
-This event aims at promoting both the English and Mother Tongue languages
-as well as to enhance students’ understanding of the different cultures.
-Students will be actively engaged in their learning during English and
-Mother Tongue Language lessons.</p>
-<p>In addition, as part of our school’s efforts in promoting a reading culture, <strong>Characters Alive Day will be held on Monday, 8 July 2024, in which all students are invited to dress up as book characters</strong>.
-Students are encouraged to use recycled materials to make their props/character
-costumes. They can select fiction or non-fiction characters from English
-and Mother Tongue books. Alternatively, they may also dress up as historical
-characters they have learnt about in Social Studies lessons and books.</p>
-<p>We seek parents’ cooperation to help your children collect recycled materials
-during the June holidays so that they can start making their props and
-costumes. We look forward to seeing our students all dressed up for Characters
-Alive Day on 8 July!</p>
-<h4>Key Dates in Term 3, 2024</h4>
+<h3>Weighted Assessment 3 for P3 to P5</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day / Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 16 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language / Foundation English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 19 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics / Foundation Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday, 20 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science / Foundation Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday, 21 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages / Foundation Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 22 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Mother Tongue Languages</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>National Day</h3>
+<p>To mark our nation’s 59th birthday, we have organized a half-day full
+of exciting activities on <strong>8th August</strong>. Please take note
+that there will be <strong>no lessons and recess on this day as school will end at 10.30 a.m.</strong> Please
+remind your child/ward to pack light snacks and a small bag to school.</p>
+<p>Dismissal details for this day are listed below:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Timing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Levels to be dismissed at Gate 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Levels to be dismissed at Gate 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.25 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.30 am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3, 4 and 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Teacher's Day</h3>
+<p>On <strong>29th August</strong>, please note that there will be <strong>no lessons and recess and school ends at 10.30 a.m.</strong> Please
+remind your child/ward to pack light snacks and a small bag to school.
+Dismissal details for this day are indicated in the table above.</p>
+<p>We would also like to invite you to affirm our teachers with messages
+which you can submit via the following <a href="https://form.gov.sg/64db1afe141a460012429257" rel="noopener noreferrer nofollow" target="_blank">link</a>
+</p>
+<h3>Key Dates in Term 3, 2024</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
