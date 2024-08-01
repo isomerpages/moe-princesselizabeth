@@ -178,105 +178,6 @@ which you can submit via the following <a href="https://form.gov.sg/64db1afe141a
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 26 June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Mathematics Olympiad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG for selected students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday 27 June &amp; Friday, 28 June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 28 June</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Cohort LJ to Asian Civilizations Museum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 1 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Youth Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 3 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coding Enrichment (Elite Coder 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG for selected students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 10 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coding Enrichment (Elite Coder 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG for selected students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 8 July to Friday, 19 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Language Fortnight</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Saturday, 13 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 NE Show</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 22 July</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Commemoration of Racial Harmony Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Monday, 29 July &amp; Thursday, 1 August</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,12 +218,12 @@ which you can submit via the following <a href="https://form.gov.sg/64db1afe141a
 <p>PSLE Oral Examination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No school for students</p>
+<p>No school for P1 to P5 students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wednesday, 15 August &amp; Wednesday 28 August</p>
+<p>Wednesday, 15 August &amp; Wednesday, 28 August</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5 Cohort LJ to Indian Heritage Centre</p>
@@ -337,6 +238,39 @@ which you can submit via the following <a href="https://form.gov.sg/64db1afe141a
 </td>
 <td rowspan="1" colspan="1">
 <p>Weighted Assessment (3) / P6 Prelim Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 22 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Speech &amp; Drama Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 23 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P2 Speech &amp; Drama Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>More details will be sent via PG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 26 August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent-Teacher Meeting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More details will be sent via PG</p>
