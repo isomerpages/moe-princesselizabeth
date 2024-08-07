@@ -13,10 +13,11 @@ until further notice.</p>
 </p>
 <p></p>
 <blockquote>
-<p>Homecoming Teachers' Day - Former Students Visit 2024</p>
+<p>Homecoming for Former Students to celebrate Teachers’ Day on 29 Aug 2024</p>
 </blockquote>
 <p>Dear Former Students of PEPS,</p>
-<p>We are pleased to welcome all former students into the school on <strong>29 August 2024 from 12.45 pm and 2.00 pm in the school hall</strong>.</p>
+<p>We are pleased to welcome all former students into the school on 29 August
+2024 from <strong>12.45 pm and 2.00 pm in the school hall</strong>.</p>
 <p>Teacher’s Day is a day of celebration for your teachers. To make the visit
 enjoyable for everyone, we hope you will note the following guidelines:</p>
 <p>• Please wear your school uniform/official PE attire to show pride and
