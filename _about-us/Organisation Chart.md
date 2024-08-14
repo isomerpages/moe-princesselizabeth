@@ -72,18 +72,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Dalvindar Kaur</p>
+<p>Ms Chin Sau Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yew Hui Tin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD MTL</p>
+<p>HOD EL</p>
 </td>
 </tr>
 <tr>
@@ -92,6 +84,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD MA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hazreen Bte Subadar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD SCI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yew Hui Tin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD MTL</p>
 </td>
 </tr>
 <tr>
@@ -112,14 +120,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hazreen Bte Subadar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD SCI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sonia Lee Lu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,10 +128,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Dalvindar Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Special Projects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD SSD</p>
+<p>SSD</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +152,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Sau Lai</p>
+<p>Mrs Puspalatha Saravanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH EL / HOD EL (Covering)</p>
+<p>YH MP</p>
 </td>
 </tr>
 <tr>
@@ -156,14 +164,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>YH UP</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Puspalatha Saravanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YH MP</p>
 </td>
 </tr>
 </tbody>
@@ -185,31 +185,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Diana Bte Abd Rahman</p>
+<p>Ms Gay Li Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aida Lisa Bte Aliman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH NE/SS</p>
+<p>LH CL</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Faizlyana Bte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
+<p>Ms Yap Shu Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH MA</p>
@@ -217,7 +201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Shu Jun</p>
+<p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH MA</p>
@@ -233,10 +217,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gay Li Ting</p>
+<p>Mdm Faizlyana Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH CL</p>
+<p>LH CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shahroom Noor B Mumeen Muhamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH ICT</p>
 </td>
 </tr>
 <tr>
@@ -249,10 +241,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shahroom Noor B Mumeen Muhamed</p>
+<p>Ms Aida Lisa Bte Aliman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH ICT</p>
+<p>SH NE/SS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Diana Bte Abd Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Student Leadership</p>
 </td>
 </tr>
 </tbody>
@@ -306,18 +306,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Adib Bin Suhiat</p>
+<p>Miss Xu Huimin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST PE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Tan- Ng Sook Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST (Ed Support Learning Needs)</p>
+<p>ST SCI</p>
 </td>
 </tr>
 <tr>
@@ -330,10 +322,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Xu Huimin</p>
+<p>Mr Mohd Adib Bin Suhiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST SCI</p>
+<p>ST PE</p>
 </td>
 </tr>
 </tbody>
@@ -382,7 +374,7 @@ variant: tiptap
 <p>Mr Goh Soi Heong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct ICTM</p>
+<p>ICTM</p>
 </td>
 </tr>
 <tr>

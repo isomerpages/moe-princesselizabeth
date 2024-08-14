@@ -810,7 +810,7 @@ variant: tiptap
 <p>6P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Sau Lai (LH EL)</p>
+<p>Ms Chin Sau Lai (HOD EL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chin_sau_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_sau_lai@moe.edu.sg</a>
