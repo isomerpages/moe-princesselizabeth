@@ -13,5 +13,3 @@ variant: tiptap
 </p>
 <p><strong><a href="http://go.dudu.town/cos/o.x?c=/ca4_dd/user&amp;func=login" rel="noopener noreferrer nofollow" target="_blank">Dudu Town</a></strong>
 </p>
-<p><strong><u>Microsoft Teams for Video Conferencing</u></strong>
-</p>
