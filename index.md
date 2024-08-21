@@ -39,4 +39,10 @@ sections:
       url: https://www.instagram.com/peps.sg/
       image: /images/2024 Others/Insta_QR_resize2.jpg
       alt: Image alt text
+  - infobar:
+      title: Teacher's Day 2024
+      id: infobar
+      description: Homecoming for Former Students to celebrate Teachers’ Day on 29th August
+      button: Click here for more details
+      url: https://www.princesselizabethpri.moe.edu.sg/stakeholders/alumni/
 ---
