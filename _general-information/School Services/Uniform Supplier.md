@@ -6,14 +6,24 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h3>KH Uniform Pte Ltd</h3>
-<p>Enquires about Uniform Purchases during 2024 June Holidays:</p>
-<p><strong>Contact No</strong>: 6479 6811</p>
-<p><strong>Operating Hours</strong>: Mon-Fri (9 am - 12 noon, 1 pm - 5 pm)</p>
-<p><strong>Email</strong>: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p>Uniform Purchase During School Term:
+<br>
+<br><strong>Purchase from our Agent</strong>:
+<br>CHEN NUM SING DEPARTMENT STORE</p>
+<p>Blk 413 Bukit Batok West Ave 4, #01-206
+<br>Singapore 650413
+<br>
+<br>Business Hours: 10am – 7pm (Tuesdays to Sundays)
+<br>
+<br>Tel: 6565 8961
+<br>(Please call to check availability of stock.)</p>
+<p><strong>&nbsp;</strong>
 </p>
-<p>The production of all uniform items is currently underway and is anticipated
-to be completed by Mid-July 2024. Kindly reach out via phone or email to
-place your orders.</p>
+<p><strong>Order for Delivery from our website</strong>:
+<br>Go to <a rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a> and
+search for PEPS.</p>
+<p><strong>Email</strong>:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+</p>
 <h3>Name Tag Placement</h3>
 <table style="minWidth: 50px">
 <colgroup>
