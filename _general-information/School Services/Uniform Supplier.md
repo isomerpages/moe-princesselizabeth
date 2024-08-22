@@ -20,9 +20,9 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Order for Delivery from our website</strong>:
-<br>Go to <a rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/</a> and
+<br>Go to <a href="https://khuniform.com/" rel="noopener nofollow" target="_blank">https://khuniform.com/</a> and
 search for PEPS.</p>
-<p><strong>Email</strong>:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p><strong>Email</strong>:&nbsp;<a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <h3>Name Tag Placement</h3>
 <table style="minWidth: 50px">
