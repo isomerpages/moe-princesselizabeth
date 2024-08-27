@@ -4,101 +4,32 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Weighted Assessment 3 for P3 to P5</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Day / Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P3</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P4</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>P5</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 16 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language / Foundation English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 19 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics / Foundation Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 20 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science / Foundation Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 21 August</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue Languages / Foundation Mother Tongue Languages</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 22 August</p>
-</td>
-<td rowspan="1" colspan="1">
+<h3>Homecoming for Former Students to celebrate Teachers’ Day on 29 Aug 2024</h3>
+<p>Dear Former Students of PEPS,</p>
+<p>We are pleased to welcome all former students into the school on 29 August
+2024 from <strong>12.45 pm and 2.00 pm in the school hall</strong>.</p>
+<p>Teacher’s Day is a day of celebration for your teachers. To make the visit
+enjoyable for everyone, we hope you will note the following guidelines:</p>
+<p>• Please wear your school uniform/official PE attire to show pride and
+respect for your secondary school.</p>
+<p>• Entry and exit to the school will only be <strong><u>by the school main gate</u></strong>.
+We will start admitting students into the school at <strong><u>12.40 pm</u></strong>.</p>
+<p>• Be gracious and polite and spend some time catching up with your teachers
+and ex schoolmates.</p>
+<p>• Stay only in the school hall. All other areas, e.g., basketball court,
+Princess Court, staff room, are out of bounds.</p>
+<p>• Keep the school grounds clean.</p>
+<p>• Leave the school at <strong><u>2.00 pm</u></strong> as your teachers have
+their celebration. It is after all, a day for our teachers!</p>
+<p>Only former students of PEPS are allowed to be in the school. Therefore,
+the friends you invite into PEPS will be escorted out of the school premises
+with you.</p>
+<p>Let’s all make the experience a very memorable one for our teachers and
+everyone in PEPS.</p>
+<p>Thank you!</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Mother Tongue Languages</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Mdm Malar</p>
+<p>Member of PEPS Alumni committee</p>
 <h3>National Day</h3>
 <p>To mark our nation’s 59th birthday, we have organized a half-day full
 of exciting activities on <strong>8th August</strong>. Please take note
