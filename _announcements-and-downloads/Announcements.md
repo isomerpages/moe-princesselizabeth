@@ -5,8 +5,90 @@ description: ""
 variant: tiptap
 ---
 <h3>Trash to Treasure Programme</h3>
-<p>'Trash to Treasure' is part of the school's 'Learning '</p>
+<p>'Trash to Treasure' is part of the school's 'Learning Our Values through
+Empathy (LOVE) for Gaia' programme. We invite our students and parents
+to donate unwanted yet useful products which are still in good condition
+for Treasure Day.</p>
+<p><strong><em>We are calling out for donation of fiction and non-fiction books, educational toys and other reusables such as stationery.</em></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Accepted Items</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Items to Avoid</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fiction books, non-fiction books for children, board games / game sets
+in properly sealed packaging, pencil cases, A4 files and toys for age 5
+to 12 years</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clothing, incomplete game sets, game sets without packaging, used bags,
+incomplete coloring sets</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The details of our collection days are as follows:-</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, 2 September to Tuesday, 10 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 to P6 Recess</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recycling Nook</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Dates in Term 4, 2024</h3>
 <table style="minWidth: 75px">
 <colgroup>
