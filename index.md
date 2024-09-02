@@ -24,12 +24,6 @@ sections:
         - title: School Calendar
           description: ""
           url: /general-information/school-calendar/
-  - infobar:
-      title: Teacher's Day 2024
-      id: infobar
-      description: Homecoming for Former Students to celebrate Teachers’ Day on 29th August
-      button: Click here for more details
-      url: https://www.princesselizabethpri.moe.edu.sg/stakeholders/alumni/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
