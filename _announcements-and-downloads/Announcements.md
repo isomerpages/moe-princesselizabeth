@@ -4,6 +4,9 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
+<h3>Trash to Treasure Programme</h3>
+<p>'Trash to Treasure' is part of the school's 'Learning '</p>
+<p></p>
 <h3>Key Dates in Term 4, 2024</h3>
 <table style="minWidth: 75px">
 <colgroup>
