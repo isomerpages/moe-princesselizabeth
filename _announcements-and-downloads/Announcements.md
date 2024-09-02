@@ -61,10 +61,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Monday, 23 September to Wednesday, 25 September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>PSLE Study Break (For P6 Only)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No school for P6 only* except for selected P6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 26th September to Wednesday, 2 October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSLE Written Examination</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -72,46 +83,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thursday, 3 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>School ends at 10.30 am</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Friday, 4 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Day</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No school for all students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Monday, 7 October &amp; Thursday, 10 October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>P4 &amp; P5 End-Of-Year Examinations: English Language / Mother Tongue
+Language Oral Exam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Session to be conducted after school</p>
 </td>
 </tr>
 <tr>
