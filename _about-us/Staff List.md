@@ -1108,11 +1108,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>SEN Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Suriyani Binte Mohammad Nasir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Suriyani_Md_Nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Suriyani_Md_Nasir@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="2">
 <p>School Counsellor</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Jasimah Bte Syed Sulaiman</p>
+<p>Ms Jasimah Bte Syed Sulaiman</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jasima_Syed_Sulaiman@moe.edu.sg</a>
@@ -1120,6 +1132,29 @@ variant: tiptap
 </td>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Syuhada Hassan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Syuhada_Hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Syuhada_Hassan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
