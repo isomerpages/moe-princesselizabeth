@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 3: 24 June to 30 August</strong>
+<p><strong>Term 4: 9 September to 15 November</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -31,10 +31,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 June, Friday</p>
+<p>27 September, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June Birthday Celebration</p>
+<p>September Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -42,76 +42,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July, Monday</p>
+<p>3 October, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Day</p>
+<p>Children’s Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Combined morning school for MK from 8am to 12pm. Arrival starts at 7.50am.</p>
+<p>• KCare operates as per normal, 7am to 7pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 October, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children’s Day School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• School Holiday</p>
-<p>• KCare operates as per normal.</p>
+<p>• Both MK and KCare are closed.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 July, Friday</p>
+<p>25 October, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK Reads: Mini Molly Visits MK@ PEPS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK children will visit the mobile library and borrow 4 books with their
-NLB cards.</p>
-<p>• They will practice responsibility by returning the books timely at the
-book drop of any NLB convenient for them.</p>
-<p>• They will cultivate the joy for reading and care for the books they
-have borrowed.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 July, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Language Fortnight and</p>
-<p>Characters Alive Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Design and dress up in your favorite storybook character costume.</p>
-<p>• Bring the book that showcases your character for show-and-tell.</p>
-<p>• Arrive by 7.50am and join PEPS morning assembly.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 July, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Dress in Ethnic costume.</p>
-<p>• In-school activities to share about the cultural diversity in Singapore.</p>
-<p>• No change in regular curriculum.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 July, Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EYC Transition Program</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EYC Partner - Sparkletots at Blk 446 to visit MK.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 July, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>July Birthday Celebration</p>
+<p>October Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -119,22 +77,10 @@ have borrowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 August, Thursday</p>
+<p>31 October, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK joins PEPS for celebrations from 7.30am to 10.30am.</p>
-<p>• KCare operates at regular hours.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 August, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day</p>
+<p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday</p>
@@ -142,10 +88,24 @@ have borrowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 August, Friday</p>
+<p>4 November, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>August Birthday Celebration</p>
+<p>Deepavali Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Children will join morning assembly at 7.50am for celebration with PEPS.
+Please report to school by 7.45am.</p>
+<p>• Dress in Indian ethnic costume, or MK uniform.</p>
+<p>• Regular school hours for MK and KCare.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 November, Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November &amp; December Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -153,47 +113,51 @@ have borrowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 August, Wednesday</p>
+<p>11 November, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIFE@MK 2</p>
+<p>MK Year-End Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details of event will be shared closer to date.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 August, Thursday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK joins PEPS for celebrations from 7.50am to 10.30am.</p>
-<p>• KCare operates till 1.30pm.</p>
+<p>• Combined morning school for MK from 8am to 12pm. Arrival starts at 7.50am.</p>
+<p>• KCare operates as per normal from 7am to 7pm.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 August, Friday</p>
+<p>13 - 14 November, Wednesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers’ Day</p>
+<p>Year-End Parent Teacher Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK and KCare are closed.</p>
+<p>• It will be a non-school day for MK.</p>
+<p>• KCare operates as per normal.</p>
+<p>• It will be an in-person session at MK (no Zoom).</p>
+<p>• Booking details will be shared closer to date via Parents Gateway.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday, 31 August to Sunday, 8 September</p>
+<p>15 November, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 School Holidays</p>
+<p>Annual Prize Giving Ceremony and K2 Celebrates</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Term 3 school holidays for MK.</p>
+<p>• MK is closed.</p>
+<p>• KCare operates as per normal from 7am to 7pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 November - 31 December, Saturday to Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4 School Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Term 4 school holidays for MK.</p>
 <p>• KCare remains open unless indicated Centre Closure.</p>
 </td>
 </tr>
@@ -211,8 +175,7 @@ have borrowed.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Arrival and Dismissal</strong>
-</p>
+<h3>Arrival and Dismissal</h3>
 <p>Children should attend kindergarten daily and be present for the entire
 programme.</p>
 <p>&nbsp;AM session: 8.00AM to 12.00PM
@@ -262,13 +225,13 @@ of health from the medical practitioner for the child to return to the
 kindergarten.</p>
 <p><strong>MK teachers will not administer medication to your child or do the ART test</strong>.</p>
 <h3>Admissions and Fees</h3>
-<h2>MOE Kindergarten fees</h2>
+<h4>MOE Kindergarten fees</h4>
 <p>The monthly fee for MK in 2022 and 2023 is:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $160 for Singapore Citizens (SCs).
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $320 for Singapore Permanent Residents
 (PRs).</p>
 <p>Fees are also payable during the June and December holidays.</p>
-<h2>MK financial assistance</h2>
+<h4>MK financial assistance</h4>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
 under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
@@ -276,11 +239,11 @@ applies only to MK school fees.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture11.png">
 </div>
-<h3>MK Uniform</h3>
+<h4>MK Uniform</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture12.png">
 </div>
-<h2>Purchasing of MK Uniforms</h2>
+<h4>Purchasing of MK Uniforms</h4>
 <p>Children attending MK@ Princess Elizabeth should look smart by wearing
 well-fitted MOE Kindergarten Uniform, socks, and fully covered shoes for
 their daily lessons. Please purchase your child/ward's uniforms directly
