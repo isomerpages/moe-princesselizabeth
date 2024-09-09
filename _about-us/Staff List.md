@@ -461,7 +461,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3R</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +477,16 @@ variant: tiptap
 <p>Mdm Nah Min Yee Fiona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nah_Min_Yee_Fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">Nah_Min_Yee_Fiona@moe.edu.sg</a>
+<p><a href="mailto:Nah_Min_Yee_Fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">nah_min_yee_fiona@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fazeelah Khan Binte Pate Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fazeelah_khan_pate_khan@moe.edu.sg" rel="noopener nofollow" target="_blank">fazeelah_khan_pate_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
