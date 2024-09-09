@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 3: 24 June to 30 August</strong>
+<p><strong>Term 4: 9 September to 15 November</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -31,10 +31,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 June, Friday</p>
+<p>27 September, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June Birthday Celebration</p>
+<p>September Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -42,76 +42,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July, Monday</p>
+<p>3 October, Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Youth Day</p>
+<p>Children’s Day Celebration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Combined morning school for MK from 8am to 12pm. Arrival starts at 7.50am.</p>
+<p>• KCare operates as per normal, 7am to 7pm.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 October, Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Children’s Day School Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• School Holiday</p>
-<p>• KCare operates as per normal.</p>
+<p>• Both MK and KCare are closed.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 July, Friday</p>
+<p>25 October, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK Reads: Mini Molly Visits MK@ PEPS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK children will visit the mobile library and borrow 4 books with their
-NLB cards.</p>
-<p>• They will practice responsibility by returning the books timely at the
-book drop of any NLB convenient for them.</p>
-<p>• They will cultivate the joy for reading and care for the books they
-have borrowed.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 July, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Language Fortnight and</p>
-<p>Characters Alive Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Design and dress up in your favorite storybook character costume.</p>
-<p>• Bring the book that showcases your character for show-and-tell.</p>
-<p>• Arrive by 7.50am and join PEPS morning assembly.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 July, Monday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Racial Harmony Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Dress in Ethnic costume.</p>
-<p>• In-school activities to share about the cultural diversity in Singapore.</p>
-<p>• No change in regular curriculum.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 July, Tuesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EYC Transition Program</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EYC Partner - Sparkletots at Blk 446 to visit MK.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 July, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>July Birthday Celebration</p>
+<p>October Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MK will provide a birthday cake as snack for the day.</p>
@@ -119,22 +77,10 @@ have borrowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 August, Thursday</p>
+<p>31 October, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day Celebration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• MK joins PEPS for celebrations from 7.30am to 10.30am.</p>
-<p>• KCare operates at regular hours.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 August, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day</p>
+<p>Deepavali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Holiday</p>
@@ -142,59 +88,104 @@ have borrowed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>23 August, Friday</p>
+<p>4 November, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>August Birthday Celebration</p>
+<p>Deepavali Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MK will provide a birthday cake as snack for the day.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 August, Wednesday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LIFE@MK 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Details of event will be shared closer to date.</p>
+<p>• Children will join morning assembly at 7.50am for celebration with PEPS.
+Please report to school by 7.45am.</p>
+<p>• Dress in Indian ethnic costume, or MK uniform.</p>
+<p>• Regular school hours for MK and KCare.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 August, Thursday</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers’ Day Celebration</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• MK joins PEPS for celebrations from 7.50am to 10.30am.</p>
-<p>• KCare operates till 1.30pm.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 August, Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers’ Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MK and KCare are closed.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Saturday, 31 August to Sunday, 8 September</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 School Holidays</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Term 3 school holidays for MK.</p>
-<p>• KCare remains open unless indicated Centre Closure.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
