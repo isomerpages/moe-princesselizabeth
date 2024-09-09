@@ -102,90 +102,63 @@ Please report to school by 7.45am.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>6 November, Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>November &amp; December Birthday Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>MK will provide a birthday cake as snack for the day.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>11 November, Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MK Year-End Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>• Combined morning school for MK from 8am to 12pm. Arrival starts at 7.50am.</p>
+<p>• KCare operates as per normal from 7am to 7pm.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>13 - 14 November, Wednesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Year-End Parent Teacher Conference</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>• It will be a non-school day for MK.</p>
+<p>• KCare operates as per normal.</p>
+<p>• It will be an in-person session at MK (no Zoom).</p>
+<p>• Booking details will be shared closer to date via Parents Gateway.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 November, Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Annual Prize Giving Ceremony and K2 Celebrates</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>• MK is closed.</p>
+<p>• KCare operates as per normal from 7am to 7pm.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 November - 31 December, Saturday to Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 4 School Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>• Term 4 school holidays for MK.</p>
+<p>• KCare remains open unless indicated Centre Closure.</p>
 </td>
 </tr>
 <tr>
@@ -202,8 +175,7 @@ Please report to school by 7.45am.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Arrival and Dismissal</strong>
-</p>
+<h3>Arrival and Dismissal</h3>
 <p>Children should attend kindergarten daily and be present for the entire
 programme.</p>
 <p>&nbsp;AM session: 8.00AM to 12.00PM
@@ -253,13 +225,13 @@ of health from the medical practitioner for the child to return to the
 kindergarten.</p>
 <p><strong>MK teachers will not administer medication to your child or do the ART test</strong>.</p>
 <h3>Admissions and Fees</h3>
-<h2>MOE Kindergarten fees</h2>
+<h4>MOE Kindergarten fees</h4>
 <p>The monthly fee for MK in 2022 and 2023 is:</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $160 for Singapore Citizens (SCs).
 <br>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $320 for Singapore Permanent Residents
 (PRs).</p>
 <p>Fees are also payable during the June and December holidays.</p>
-<h2>MK financial assistance</h2>
+<h4>MK financial assistance</h4>
 <p>If your child is a Singapore Citizen, they may qualify for financial assistance
 under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
@@ -267,11 +239,11 @@ applies only to MK school fees.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture11.png">
 </div>
-<h3>MK Uniform</h3>
+<h4>MK Uniform</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture12.png">
 </div>
-<h2>Purchasing of MK Uniforms</h2>
+<h4>Purchasing of MK Uniforms</h4>
 <p>Children attending MK@ Princess Elizabeth should look smart by wearing
 well-fitted MOE Kindergarten Uniform, socks, and fully covered shoes for
 their daily lessons. Please purchase your child/ward's uniforms directly
