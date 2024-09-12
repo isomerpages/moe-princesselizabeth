@@ -26,7 +26,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,15 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_diana_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diana_abdul_rahman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nah Min Yee Fiona</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Nah_Min_Yee_Fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nah_min_yee_fiona@moe.edu.sg</a>
 </p>
 </td>
 </tr>
