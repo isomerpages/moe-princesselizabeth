@@ -14,6 +14,9 @@ variant: tiptap
 <iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qZcSNfCTgsU?si=WRN9XtfbAmARje1c"></iframe>
 </div>
 <p></p>
+<blockquote>
+<p>Past Events</p>
+</blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>2023</strong>
