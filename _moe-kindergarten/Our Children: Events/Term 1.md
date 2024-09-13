@@ -7,11 +7,11 @@ variant: tiptap
 ---
 <h3>Chinese New Year</h3>
 <div class="iframe-wrapper">
-<iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GO4XJKhT9h0?si=4_Q1RncGIjFz2seG"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GO4XJKhT9h0?si=4_Q1RncGIjFz2seG"></iframe>
 </div>
 <h3>Total Defence Day</h3>
 <div class="iframe-wrapper">
-<iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j69wqJZE9XY?si=93b1kPfe-IE0asi_"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j69wqJZE9XY?si=93b1kPfe-IE0asi_"></iframe>
 </div>
 <p></p>
 <blockquote>
