@@ -29,3 +29,25 @@ variant: tiptap
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y9GT9FO3lVU"></iframe>
 </div>
 <p></p>
+<p></p>
+<blockquote>
+<p>TESTING</p>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3>Last Day of Term One!</h3>
+<div class="iframe-wrapper">
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y9GT9FO3lVU"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
