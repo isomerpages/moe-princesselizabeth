@@ -54,7 +54,7 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h3>Children Engagement on 30/12/2022</h3>
+<h3>Children Engagement on 30th Dec</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture20.jpg">
 </div>
