@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Characters Alive Day</h3>
 <div class="iframe-wrapper">
-<iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gnalrHgTbFI?si=wcngxAxlmAZe3EbG"></iframe>
+<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gnalrHgTbFI?si=wcngxAxlmAZe3EbG"></iframe>
 </div>
 <p></p>
 <blockquote>
