@@ -6,9 +6,6 @@ third_nav_title: "Our Children: Events"
 variant: tiptap
 ---
 <h3>Children Engagement on 30/12/2022</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture20.jpg">
-</div>
 <h3>First Day of School: 3/1/2023</h3>
 <h3>Chinese New Year 2023</h3>
 <div class="iframe-wrapper">
@@ -30,7 +27,8 @@ variant: tiptap
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2023</summary>
+<summary><strong>2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h3>First Day of School 2023</h3>
@@ -55,6 +53,18 @@ variant: tiptap
 <h3>Last Day of Term One!</h3>
 <div class="iframe-wrapper">
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y9GT9FO3lVU"></iframe>
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h3>Children Engagement on 30/12/2022</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture20.jpg">
 </div>
 <p></p>
 </div>
