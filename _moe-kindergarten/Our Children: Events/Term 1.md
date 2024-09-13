@@ -5,8 +5,6 @@ description: ""
 third_nav_title: "Our Children: Events"
 variant: tiptap
 ---
-<h3>Children Engagement on 30/12/2022</h3>
-<h3>First Day of School: 3/1/2023</h3>
 <h3>Chinese New Year 2023</h3>
 <div class="iframe-wrapper">
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTm1DMRPMMshhRoml9fCrA4an9xleEIgp90LKOME2rgAK43z2sInldV7UlTE2_XIxlOyNmXX15h0wI/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
@@ -22,7 +20,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <blockquote>
-<p>TESTING "ACCORDIAN"</p>
 <p>Past Events</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
