@@ -37,6 +37,8 @@ variant: tiptap
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>PIC HERE</p>
 <h3>MK Open House 2023</h3>
 <div class="iframe-wrapper">
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqdL9dSIYsQ4S7h2FuLzLlv0G_BsR76__WFmAEBfND5ZGlfZ1n6Ij7XA89t_52r2SPRZ7nOANdbygO/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
