@@ -10,6 +10,7 @@ variant: tiptap
 <iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gnalrHgTbFI?si=wcngxAxlmAZe3EbG"></iframe>
 </div>
 <p></p>
+<p></p>
 <blockquote>
 <p>Past Events</p>
 </blockquote>
