@@ -5,21 +5,13 @@ description: ""
 third_nav_title: "Our Children: Events"
 variant: tiptap
 ---
-<h3>MK Term 2 First Day of School</h3>
+<h3>Hari Raya Celebrations</h3>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTe8QrZb7UUMtWGrFKuhBeIUctsCbINGdHpqq7bh16AJqkGmOk_WaTmUGqrzviwn966XQYvgQgGqN7j/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tI3smtvvjeg?si=fddeJhsnb9CQlsp6"></iframe>
 </div>
-<h3>Earth Day 2023</h3>
+<h3>Junior Sports Day</h3>
 <div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXrFwfExjAIZhC4LaKDlfTb9B-3Fh_FUzTGM-btmczQmBpVSS0LxF1jtuvdQkKq4221LegIxsZjnzl/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<h3>Hari Raya 2023</h3>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQnKGiiWXjB9en4sceLoFiYG8NVZas2I0WkuavWjU__RFJ5w3dgKzQ2BLFBhYj0MMcn8tSotNz54TF7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<h3>Junior Sports Day 2023</h3>
-<div class="iframe-wrapper">
-<iframe height="400" width="648" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S2UKSuL1PjQ?si=yuiXu-dfWdSNwYPC"></iframe>
+<iframe height="340" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qZcSNfCTgsU?si=WRN9XtfbAmARje1c"></iframe>
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
