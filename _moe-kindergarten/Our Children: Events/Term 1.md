@@ -31,7 +31,8 @@ variant: tiptap
 <p></p>
 <p></p>
 <blockquote>
-<p>TESTING</p>
+<p>TESTING "ACCORDIAN"</p>
+<p>2023 &lt;here&gt;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -51,8 +52,9 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p></p>
 </div>
 </details>
