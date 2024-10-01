@@ -4,6 +4,15 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
+<h3>Emergency Preparedness</h3>
+<p>The school places great emphasis on the safety and security of students
+and staff.</p>
+<p>The school conducts emergency preparedness drills such as fire drills
+and lockdown drills twice a year to ensure that all students and staff
+are familiar with the responses such as evacuation procedures in the event
+of an emergency within the school compound.</p>
+<p>Our second emergency preparedness drill for 2024 will be conducted in
+October.</p>
 <h3>Trash to Treasure Programme</h3>
 <p>'Trash to Treasure' is part of the school's 'Learning Our Values through
 Empathy (LOVE) for Gaia' programme. We invite our students and parents
@@ -67,7 +76,7 @@ incomplete coloring sets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 2 September to Tuesday, 10 September</p>
+<p>Tuesday, 1 October to Monday, 7 October</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 to P6 Recess</p>
@@ -89,6 +98,10 @@ incomplete coloring sets</p>
 </tr>
 </tbody>
 </table>
+<p>These donated items will be put up for students to select and reuse on <strong>Treasure Day, 8 October 2024</strong>.
+To instill the value of appreciation in our students, we will be collecting
+a token sum of money for each item that students pick up at Treasure Day.</p>
+<p>Thank you for your support in Eco Stewardship @ PEPS.</p>
 <h3>Key Dates in Term 4, 2024</h3>
 <table style="minWidth: 75px">
 <colgroup>
