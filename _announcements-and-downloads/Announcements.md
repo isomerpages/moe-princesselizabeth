@@ -89,6 +89,10 @@ incomplete coloring sets</p>
 </tr>
 </tbody>
 </table>
+<p>These donated items will be put up for students to select and reuse on <strong>Treasure Day, 8 October 2024</strong>.
+To instill the value of appreciation in our students, we will be collecting
+a token sum of money for each item that students pick up at Treasure Day.</p>
+<p>Thank you for your support in Eco Stewardship @ PEPS.</p>
 <h3>Key Dates in Term 4, 2024</h3>
 <table style="minWidth: 75px">
 <colgroup>
