@@ -67,7 +67,7 @@ incomplete coloring sets</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 2 September to Tuesday, 10 September</p>
+<p>Tuesday, 1 October to Monday, 7 October</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1 to P6 Recess</p>
