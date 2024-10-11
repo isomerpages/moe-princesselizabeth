@@ -10,8 +10,8 @@ Scheme (MOE FAS) 2025 are now open.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>If you have children studying in different Government or Government-aided
-schools (GGAS), you need to submit only 1 application form to the school
-of any child.</p>
+schools (GGAS), you need to submit only 1 application <a href="/files/2024   New Uploads/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">form</a> to
+the school of any child.</p>
 </li>
 <li>
 <p>Parent whose child is a ComCare recipient need not submit an application
@@ -28,7 +28,7 @@ your family qualifies for MOE FAS.</p>
 <li>
 <p>To ensure prompt processing of your application within 2 to 3 weeks upon
 submission, please submit a complete application with all the required
-supporting documents listed in the form.</p>
+supporting documents listed in the <a href="/files/2024   New Uploads/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">form</a>.</p>
 </li>
 </ol>
 <p>We will contact you regarding the outcome of your application. Thank you.</p>
