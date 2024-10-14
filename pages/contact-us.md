@@ -9,7 +9,7 @@ locations:
       - Singapore 659163
       - ""
     operating_hours: []
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/?lat=1.3492036&lng=103.7410197
     title: General Office
 contacts:
   - content:
