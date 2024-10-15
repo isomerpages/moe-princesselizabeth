@@ -4,4 +4,4 @@ permalink: /general-information/booklist-2025/
 description: ""
 variant: markdown
 ---
-In progress. Should be ready by End October 2024
+Work In Progress. 
