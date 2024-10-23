@@ -9,16 +9,14 @@ variant: tiptap
 <p><strong>Address:</strong> 3013, Bedok Industrial Park E #02-2094
 <br>Singapore 489979
 <br><strong>Contact Number:</strong> 9106 1391
-<br><strong>Operating Hours: </strong><a href="mailto:dannyyeo3013@gmail.com" rel="noopener nofollow" target="_blank">dannyyeo3013@gmail.com</a>
+<br><strong>Email Address: </strong><a href="mailto:dannyyeo3013@gmail.com" rel="noopener nofollow" target="_blank">dannyyeo3013@gmail.com</a>
 </p>
 <p><strong>Website:</strong>  <a href="https://dyeducation.net/" rel="noopener nofollow" target="_blank">https://dyeducation.net/</a>
 </p>
-<p></p>
-<p>School Bookshop Contact Number
-<br>Ms Ruby</p>
-<p>Contact &amp; WhatsApp Number: 8939 2969</p>
-<p>Operating Hours:&nbsp;Monday to Friday 8:30am to 3:30pm</p>
-<p></p>
+<h4>School Bookshop Contact Number</h4>
+<p><strong>Ms Ruby</strong>
+<br><strong>Contact &amp; WhatsApp Number: </strong>8939 2969
+<br><strong>Operating Hours:</strong> Monday to Friday 8:30am to 3:30pm</p>
 <h4>2025 Booklist (all levels) &amp; Year-End Sale</h4>
 <p>Please download the school textbook &amp; stationeries list from the link
 below</p>
