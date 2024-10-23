@@ -1,15 +1,15 @@
 ---
 title: Books Supplier
-permalink: /general-information/School-Services/books-supplier
+permalink: /general-information/School-Services/books-supplier/
 description: ""
 third_nav_title: School Services
+variant: tiptap
 ---
-
-### D Y Education Service Trading
-
-**Operating Hours:** Monday to Friday 8:30am to 3:30pm  <br>
-**Contact Number:** 9798 5985 / 9106 1391  <br>
-**Fax:** 6448 4213  
-  
-**Staff Contact Number**   <br>
-Miss Erina: 9668 5129
+<h3>D Y Education Service Trading</h3>
+<p><strong>Address:</strong> 3013, Bedok Industrial Park E #02-2094 Singapore
+489979
+<br>
+</p>
+<p><strong>Contact Number:</strong> 9106 1391</p>
+<p><strong>Email Address:</strong> dannyyeo3013@gmail.com</p>
+<p>**Website:**https://dyeducation.net/</p>
