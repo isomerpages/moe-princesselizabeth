@@ -43,4 +43,4 @@ most beneficial to the school and our students will be considered first.</p>
 decision of the school in the selection of Parent Volunteers is final and
 the school is not obliged to give any reason for unsuccessful application.</p>
 <p>Please click <a href="https://go.gov.sg/pepspv2025" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the PV application form (available from <strong>15 Nov 2023</strong>).</p>
+access the PV application form (available from <strong>15 Nov 2024</strong>).</p>
