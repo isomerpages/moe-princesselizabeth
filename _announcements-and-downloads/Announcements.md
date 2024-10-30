@@ -4,105 +4,7 @@ permalink: /announcements-n-downloads/announcements/
 description: ""
 variant: tiptap
 ---
-<h3>Emergency Preparedness</h3>
-<p>The school places great emphasis on the safety and security of students
-and staff.</p>
-<p>The school conducts emergency preparedness drills such as fire drills
-and lockdown drills twice a year to ensure that all students and staff
-are familiar with the responses such as evacuation procedures in the event
-of an emergency within the school compound.</p>
-<p>Our second emergency preparedness drill for 2024 will be conducted in
-October.</p>
-<h3>Trash to Treasure Programme</h3>
-<p>'Trash to Treasure' is part of the school's 'Learning Our Values through
-Empathy (LOVE) for Gaia' programme. We invite our students and parents
-to donate unwanted yet useful products which are still in good condition
-for Treasure Day.</p>
-<p><strong><em>We are calling out for donation of fiction and non-fiction books, educational toys and other reusables such as stationery.</em></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Accepted Items</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Items to Avoid</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fiction books, non-fiction books for children, board games / game sets
-in properly sealed packaging, pencil cases, A4 files and toys for age 5
-to 12 years</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clothing, incomplete game sets, game sets without packaging, used bags,
-incomplete coloring sets</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The details of our collection days are as follows:-</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 1 October to Monday, 7 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P1 to P6 Recess</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Recycling Nook</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>These donated items will be put up for students to select and reuse on <strong>Treasure Day, 8 October 2024</strong>.
-To instill the value of appreciation in our students, we will be collecting
-a token sum of money for each item that students pick up at Treasure Day.</p>
-<p>Thank you for your support in Eco Stewardship @ PEPS.</p>
-<h3>Key Dates in Term 4, 2024</h3>
+<h3>Key Dates in Term 4, 2024 / Term 1, 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -126,162 +28,6 @@ a token sum of money for each item that students pick up at Treasure Day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thursday, 12 September</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 TIE Programme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Only for selected P5 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Friday, 13 September</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>PSLE Listening Comprehension Examination</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>No school for P1 to P5 students except selected students</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 25 September</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P5 Cohort LJ to Indian Heritage Centre (Class 5A)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Monday, 23 September to Wednesday, 25 September</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>PSLE Study Break (For P6 Only)</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>No school for P6 only* except for selected P6 students</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thursday, 26th September to Wednesday, 2 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PSLE Written Examination</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Thursday, 3 October</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Children's Day Celebrations</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>School ends at 10.30 am</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 4 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Children's Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No school for all students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 7 October &amp; Thursday, 10 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 &amp; P5 End-Of-Year Examinations: English Language / Mother Tongue
-Language Oral Exam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Session to be conducted after school</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday, 11 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3-P5 End-Of-Year Listening Comprehension Examinations (EL/MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Monday, 14 October to Wednesday, 16 October</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>PSLE Marking Days</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>No school for all students except for selected students. More details will be sent via PG</em></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tuesday, 15 October &amp; Wednesday, 16th October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GEP Selection (Round 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For selected P3 students only</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wednesday, 16 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 Cohort LJ to Asian Civilizations Museum (Class 6P)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monday, 21 October to Friday, 25 October</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P3-P5 End-Of-Year Written Examinations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>More details will be sent via PG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><em>Thursday, 31 October</em></strong>
 </p>
 </td>
@@ -296,10 +42,21 @@ Language Oral Exam</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Saturday, 2 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Orientation (8.30am – 10.00am)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents and 2025 P1 students only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Monday, 4 November &amp; Tuesday, 5 November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4 Cohort LJ to Geylang Serai Heritage Gallery (Class 4A, 4P, 4I)</p>
+<p>P4 Cohort LJ to Geylang Serai Heritage Gallery (Class 4A, 4P and 4I)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More details will be sent via PG</p>
@@ -307,10 +64,11 @@ Language Oral Exam</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday, 4 November - Tuesday, 5 November &amp; Thursday, 7 November</p>
+<p>Monday, 4 November to</p>
+<p>Wednesday 6 November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6 Cohort LJ to Asian Civilizations Museum (Class 6I, 6R, 6E)</p>
+<p>P6 Cohort Learning Journey Asian Civilizations Museum (6I, 6R and 6E)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More details will be sent via PG</p>
@@ -332,6 +90,18 @@ Language Oral Exam</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Wednesday, 13 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Graduation Nite</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 students only</p>
+<p>(4.00pm – 6.30pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong><em>Friday, 15 November</em></strong>
 </p>
 </td>
@@ -341,6 +111,72 @@ Language Oral Exam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><em>No school for all students except for selected students</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Wednesday, 1 January</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>New Year’s Day</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>No school for all students</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Thursday, 2 January</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Primary 1 and Kindergarten 1 will start school</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>No school for Kindergarten 2 and Primary 2 to 6 students</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday, 3 January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students from Kindergarten 1 to Primary 6 to report to school</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday, 28 January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese New Year Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School will operate from 7:30am to 10:30am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Wednesday, 29 January &amp; Thursday, 30 January</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Chinese New Year</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>No school for all students</em></strong>
+</p>
+<p><strong><em>School will be closed, including the General Office, Student Care Centre, MK and Kindergarten Care (KCare) Centre</em></strong>
 </p>
 </td>
 </tr>
@@ -357,6 +193,6 @@ Language Oral Exam</p>
 </tr>
 </tbody>
 </table>
-<p><em>** Year End Holidays: Saturday, 16 November to Tuesday, 31 December</em>
+<p><em>** Year End Holidays: Saturday, 16 November to Tuesday, 31 December 2024</em>
 </p>
 <p></p>
