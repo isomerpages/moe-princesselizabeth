@@ -30,12 +30,9 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Scan the QR Code for registration</p>
+<p>Scan / Click the QR Code for registration</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="BH Barcode" src="/images/BHSCC_barcode.jpg">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://bigheart.cyberland.sg/interest.php"><img style="width: 50%;" height="auto" width="100%" alt="BH Barcode" src="/images/BHSCC_barcode.jpg"></a>
 </th>
 </tr>
 <tr>
