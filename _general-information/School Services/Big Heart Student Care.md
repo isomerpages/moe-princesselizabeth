@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/vQKoE2luc20?si=2E0DR0gWUj8C_WLw</a>
+<p><a href="https://www.youtube.com/watch?v=vQKoE2luc20" rel="noopener nofollow" target="_blank">Big Heart Student Care Corporate Video 2024</a>
 </p>
 </td>
 </tr>
