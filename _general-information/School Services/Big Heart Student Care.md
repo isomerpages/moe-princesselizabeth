@@ -5,15 +5,15 @@ description: ""
 third_nav_title: School Services
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/BIg%20Heart%20Lego.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BH Corporate info" src="/images/BHSCC.jpg">
 </div>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/vQKoE2luc20?si=2E0DR0gWUj8C_WLw</a>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -30,14 +30,23 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Scan the QR Code for registration</p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="BH Barcode" src="/images/BHSCC_barcode.jpg">
 </div>
-<p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Scan the following QR Code for xxx</p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Click the link for our corporate video</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/vQKoE2luc20?si=2E0DR0gWUj8C_WLw</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
