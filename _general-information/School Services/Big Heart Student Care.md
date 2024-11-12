@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BH Barcode" src="/images/BHSCC_barcode.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="BH Barcode" src="/images/BHSCC_barcode.jpg">
 </div>
 <h3></h3>
 <p></p>
