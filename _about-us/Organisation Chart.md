@@ -330,7 +330,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Admin Team</h3>
+<h3>Executive &amp; Administrative Staff</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -355,7 +355,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kweh Joo Tat</p>
+<p>Mr Rohni Bin Kassim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Christopher Noel A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OM</p>
@@ -363,7 +371,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Bu Teck Siang, Frankie</p>
+<p>Mr Kweh Joo Tat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OM</p>
@@ -374,7 +382,7 @@ variant: tiptap
 <p>Mr Goh Soi Heong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICTM</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -382,7 +390,95 @@ variant: tiptap
 <p>Ms Khairunnisa Binte Ja'afar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct ICTM</p>
+<p>Adjunct ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sumitra Shasi Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Lay Hong, Kellie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AE (MK)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mazaliah Naamor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Siew Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Thenmoli d/o M Sathasivam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Seng Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Poh Teong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Thevaki (Devi)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeo Bee Lar Wendy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Mei Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO (MK)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rosidah Bte Jamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO (MK)</p>
 </td>
 </tr>
 </tbody>
