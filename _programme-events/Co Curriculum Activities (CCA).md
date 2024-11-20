@@ -46,13 +46,13 @@ and responsibility to our school community.</p>
 <p>Students will</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>learn</strong>&nbsp;with a growth mindset</p>
+<p>Develop a growth mindset</p>
 </li>
-</ul>
-<p>*&nbsp;<strong>love</strong>&nbsp;to help peers in needs</p>
-<ul data-tight="true" class="tight">
 <li>
-<p><strong>lead</strong>&nbsp;to integrate others within school community</p>
+<p>Cultivate a passion for helping peers in need&nbsp;</p>
+</li>
+<li>
+<p>Lead initiatives to foster inclusion within the school community</p>
 </li>
 </ul>
 <p>Click&nbsp;<a href="https://sites.google.com/moe.edu.sg/ccaspeps/home" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
