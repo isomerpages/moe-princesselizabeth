@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message.md
       - History.md
+      - Principal's Message.md
       - Vision, Mission, Values and Philosophy.md
       - Strategic Thrust.md
       - School Song.md
