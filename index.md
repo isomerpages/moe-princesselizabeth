@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Princess Elizabeth Primary School
-      background: /images/2024 Others/Hero_Banner___Dynamic_2.gif
+      background: /images/2024 Others/Hero_Banner___Static.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
