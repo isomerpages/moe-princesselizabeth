@@ -10,7 +10,7 @@ variant: tiptap
 <br>Singapore 149596
 <br><strong>Contact Number:</strong> (65) 6479 6811
 <br><strong>Operating Hours: </strong>9am-12pm, 1pm-5pm, Mon-Fri</p>
-<p><strong>Website:</strong>  <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
+<p><strong>Email:</strong>  <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
 </p>
 <h3>Uniform Supplier (Agent)<br>Chen Num Sing Department Store</h3>
 <p><strong>Address:</strong> Blk 413 Bukit Batok West Ave 4, #01-206
