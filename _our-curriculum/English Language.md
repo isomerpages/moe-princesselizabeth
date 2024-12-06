@@ -154,7 +154,6 @@ them with the opportunity to explore real-world topics and issues</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic3.png">
 </div>
 <h3>Debate Team 2024</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic4.png">
 </div>
