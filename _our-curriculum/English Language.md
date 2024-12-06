@@ -30,7 +30,6 @@ independent use of the language.</p>
 <p>EL Syllabus 2020 seeks to develop these competencies in our learners through
 the teaching and learning of EL to enable them to be:</p>
 <p>&lt;&lt; IMG - EL PIC 1 here &gt;&gt;</p>
-<h3>English Language Programmes</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -122,8 +121,7 @@ before a large group audience through structured activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To develop the students’ critical thinking and reflective skills by providing
-them with the opportunity to explore real-world topics and issues.</p>
-<p>&nbsp;</p>
+them with the opportunity to explore real-world topics and issues</p>
 </td>
 </tr>
 </tbody>
