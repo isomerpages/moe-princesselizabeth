@@ -29,9 +29,7 @@ and leveraging oracy, reading and writing skills to develop knowledge and
 independent use of the language.</p>
 <p>EL Syllabus 2020 seeks to develop these competencies in our learners through
 the teaching and learning of EL to enable them to be:</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Picture1.png">
-</div>
+<p>&lt;&lt; IMG - EL PIC 1 here &gt;&gt;</p>
 <h3>English Language Programmes</h3>
 <table style="minWidth: 50px">
 <colgroup>
