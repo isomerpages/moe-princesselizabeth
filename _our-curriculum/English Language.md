@@ -29,13 +29,24 @@ and leveraging oracy, reading and writing skills to develop knowledge and
 independent use of the language.</p>
 <p>EL Syllabus 2020 seeks to develop these competencies in our learners through
 the teaching and learning of EL to enable them to be:</p>
-<p>&lt;&lt; IMG - EL PIC 1 here &gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic1.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Programme / Event / Skills</strong>
@@ -135,8 +146,16 @@ them with the opportunity to explore real-world topics and issues</p>
 </tbody>
 </table>
 <h3>Speech and Drama</h3>
-<p>&lt;&lt;IMG - EL PIC 2 here&gt;&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic2.png">
+</div>
 <h3>Language Fortnight cum Characters Alive Day</h3>
-<p>&lt;&lt;IMG - EL PIC 3 here&gt;&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic3.png">
+</div>
 <h3>Debate Team 2024</h3>
-<p>&lt;&lt;IMG - EL PIC 4 here&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/EL_Pic4.png">
+</div>
+<p></p>
