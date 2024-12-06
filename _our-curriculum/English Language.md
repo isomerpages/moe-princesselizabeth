@@ -124,18 +124,19 @@ before a large group audience through structured activities</p>
 them with the opportunity to explore real-world topics and issues</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Speech and Drama</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/Speech_and_Drama.png">
-</div>
+<p>&lt;&lt;IMG - EL PIC 2 here&gt;&gt;</p>
 <h3>Language Fortnight cum Characters Alive Day</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/Language_Fortnight_cum_Characters_Alive_Day.png">
-</div>
-<h3>Debate</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 EL/Debate.png">
-</div>
-<p></p>
+<p>&lt;&lt;IMG - EL PIC 3 here&gt;&gt;</p>
+<h3>Debate Team 2024</h3>
+<p>&lt;&lt;IMG - EL PIC 4 here&gt;&gt;</p>
