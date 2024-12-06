@@ -2,13 +2,13 @@ title: Princess Elizabeth Primary School
 url: https://www.princesselizabethpri.moe.edu.sg
 favicon: /images/schoollogo.jpg
 colors:
-  primary-color: "#000000"
-  secondary-color: "#880000"
+  primary-color: "#456e3f"
+  secondary-color: "#ed333b"
   media-colors:
     - title: media-color-one
       color: "#49759a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#456e3f"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
