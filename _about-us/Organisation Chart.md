@@ -363,7 +363,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Noel A</p>
+<p>Mr Christopher Noel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OM</p>
