@@ -451,7 +451,7 @@ variant: tiptap
 <p>Liu Weijie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liu_weijie@moe.edu.sg" rel="noopener nofollow" target="_blank"> liu_weijie@moe.edu.sg</a>
+<p><a href="liu_weijie@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_weijie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1000,10 +1000,10 @@ variant: tiptap
 <p>Year Head-Middle Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Puspalatha Saravanan</p>
+<p>Mdm Kwan Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:puspalatha_saravanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puspalatha_saravanan@moe.edu.sg</a>
+<p><a href="mailto:kwan_yue_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yue_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1012,10 +1012,10 @@ variant: tiptap
 <p>Year Head-Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwan Yue Hua</p>
+<p>Ms Adrienne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwan_yue_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_yue_hua@moe.edu.sg</a>
+<p><a href="koh_kim_noi@@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_kim_noi@@moe.edu.sg</a>
 </p>
 </td>
 </tr>
