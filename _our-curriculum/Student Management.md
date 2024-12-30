@@ -112,40 +112,9 @@ able to lead and contribute to school and community actively.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Student Management</h3>
-<p><strong>Princess Elizabeth Primary strategic approach towards enhancing discipline and student well-being is encapsulated in our ASPIRE framework.</strong>
-</p>
-<p>In Princess Elizabeth Primary School, we believe in nurturing every child
-by guiding and helping him to develop his moral, aesthetic, physical, intellectual,
-emotional and social domains to the fullest so that he would become an
-Engaged Learner, a Caring Citizen and a Steadfast Leader.</p>
-<p>The Student Management Department collaborates with other departments
-in the school to ensure a whole-school approach by enhancing the well-being
-of students and providing them a holistic experience in their character
-development.</p>
-<p>The school A.S.P.I.R.E. (Ambition, Self-Discipline, Perseverance, Integrity,
-Respect and Empathy) values act as an internal compass for everyone to
-work and interact with one another. .</p>
-<h3>Our Curriculum Goal</h3>
-<p>Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader</p>
+<h3></h3>
 <h3>Key Programmes</h3>
-<p><strong>Positive Discipline:</strong>
-</p>
-<p>Positive Behaviour Intervention Support (PBIS) is a whole school value-based
-approach used to help our students understand the rationale behind the
-school rules. The students are constantly reminded that they should live
-out the A.S.P.I.R.E. values, build quality relationships with their peers,
-and look after their own well-being. The school rules serve as guidelines
-for character development.</p>
-<p>In Princess Elizabeth Primary School, if students have erred, the teachers
-would bring them through a process where parties involved are encouraged
-to discuss about problems and resolutions. This process of getting them
-to work with others help students understand that it is important to see
-from others’ perspectives when it comes to problem-solving. Students are
-also guided through the responsible thinking process where they learn how
-to weigh their options before coming to a decision. After which, the student(s)
-will be involved in a self-reflection process. Teachers and parents/guardians
-work collaboratively to support the child.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/poster.png">
 </div>
@@ -181,21 +150,4 @@ who have improved in their learning attitude.</p>
 <p>Apart from the aforementioned, the school’s annual Award Presentation
 Ceremony (APC) is another platform to recognise students for their hard
 work, effort, grit and success in all that they undertake.</p>
-<h3>Peer Support and Relationships</h3>
-<p>Positive peer relationships facilitate the provision of care, a sense
-of belonging amongst students, as well as the building of resilience. Aligned
-to our school mission, ‘Together, we nurture and inspire an inclusive spirit’,
-our students develop the values of Empathy and Respect for one another
-through the active involvement in school initiatives and programmes which
-promote and drive Peer Support and Relationships (PSR) efforts.</p>
-<p>The school puts in place Peer-bonding activities during Form Teacher Guidance
-Periods (FTGP) and Teacher-Student Relationship (TSR) periods, etc. To
-allow for greater opportunities for students to bond and know each other
-better, the Happy Bonding Programme on a termly basis creates opportunities
-for quality conversations amongst peers.</p>
-<p>Curriculum learning and planning are always centered on the need for students
-to have the opportunities and experiences in collaborating with one another.
-Through these interactions, students can apply peer-helping skills to support
-others too. This would also sharpen their ability to be effective communicators,
-active contributors and inclusive individuals making a positive difference
-in themselves and others. difference in themselves and others.</p>
+<p></p>
