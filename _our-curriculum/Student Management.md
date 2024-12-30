@@ -111,20 +111,45 @@ able to lead and contribute to school and community actively.</p>
 </tr>
 </tbody>
 </table>
+<h3>Student Leadership Development Framework - Values</h3>
+<p>Anchoring our Student Leadership Framework are our school’s ASPIRE core
+values,&nbsp;namely&nbsp;<strong>A</strong>mbition,&nbsp;<strong>S</strong>elf-Discipline,&nbsp;<strong>P</strong>erseverance,&nbsp;<strong>I</strong>ntegrity,&nbsp;<strong>R</strong>espect
+and&nbsp;<strong>E</strong>mpathy.</p>
+<p>These six ASPIRE values, and their accompanying ‘I Will’ statements, serve
+as a compass for every student in the school as guiding principles in their
+leadership endeavours.</p>
+<p>&lt;&lt;ASPIRE pic here&gt;&gt;</p>
+<h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
+<p>Three main approaches are adopted by the school in our student leadership
+development.</p>
+<p><strong>1) Executive Functioning Skills</strong>:</p>
+<p>&nbsp;&nbsp;&nbsp; Helps in developing students’ self-leadership and Everyday
+Leadership skills</p>
+<p><strong>2) Servant Leadership:</strong>
+</p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong>Drives students to ‘<strong>Serve to Lead &amp; Lead to Serve</strong>’,
+by contributing to class, school or</p>
+<p>&nbsp;&nbsp;&nbsp; community</p>
+<p><strong>3) Inclusive Design </strong>(Infused in LOVE Experience VIA Programme,
+as part of our LLP):</p>
+<p>&nbsp;&nbsp;&nbsp; Increases students’ awareness as they empathize with
+others while helping them develop</p>
+<p>&nbsp;&nbsp;&nbsp; a growth mindset and important problem solving and
+thinking skills</p>
+<p>&lt;&lt;ASPIRE Core Values pic here&gt;&gt;</p>
+<h3>4-tiered Student Leadership Development Programme</h3>
+<p>Princess Elizabeth Primary School aims to provide our students with the
+opportunity to develop his/her potential to be a steadfast leader. Since
+2017, the student leadership development programme has evolved to better
+meet students' diverse readiness levels, interests, and development stages.</p>
 <p></p>
-<h3></h3>
-<h3>Key Programmes</h3>
+<p>As such, student leaders are developed through a tiered and progressive
+development programme, which also considers the development of&nbsp; their
+social-emotional competencies. This allows students to assume leadership
+responsibilities that gradually expand in scope - from personal, to class,
+to school levels.</p>
+<p>&lt;&lt;4 Tiered Pyramid Diagram pic here&gt;&gt;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/poster.png">
-</div>
-<h3>Teacher-Student Relationship (TSR)</h3>
-<p>Form Teachers have face-to-face interactions with students on a one-to-one
-basis before or after lessons and during Form Teacher Guidance Periods
-(FTGP) to promote Teacher Student Relationship (TSR). Form Teachers have
-one-to-one interactions to build quality teacher-student relationships
-by getting to know every student better. Teachers are also able to identify
-students’ needs and nurture their character traits, dispositions, and attitudes.</p>
 <h3>Student Recognition</h3>
 <p>PEPS, being the Centre of Excellence (COE) for Character Development,
 works towards developing character excellence in our students. Good character
