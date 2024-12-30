@@ -4,8 +4,8 @@ permalink: /about-us/staff-list/
 description: ""
 variant: tiptap
 ---
-<h3>Teachers' Email 2024</h3>
-<p><strong>Class - Teachers - Email - Updated as of 21st June 2024</strong>
+<h3>Teachers' Email 2025</h3>
+<p><strong>Class - Teachers - Email - Updated as of 30th December 2024</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mdm Wen Zhibin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="wen_zhibin@moe.edu.sg" rel="noopener nofollow" target="_blank">wen_zhibin@moe.edu.sg</a>
+<p><a href="mailto:wen_zhibin@moe.edu.sg" rel="noopener nofollow" target="_blank">wen_zhibin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jennifer Lum(Mdm Neo Qingxia Jennifer)</p>
+<p>Mrs Jennifer Lum (Mdm Neo Qingxia Jennifer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:neo_qingxia_jennifer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_qingxia_jennifer@moe.edu.sg</a>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sulaja Dasan</p>
+<p>Mdm Sulaja Dasan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Sulaja_Dasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Sulaja_Dasan@moe.edu.sg</a>
@@ -156,7 +156,7 @@ variant: tiptap
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haji Noor Jainub Begam (Mdm Jainub Begam)</p>
+<p>Haji Noor Jainub Begam (Mdm Jainub Begam)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haji_noor_jainub_begam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haji_noor_jainub_begam@moe.edu.sg</a>
