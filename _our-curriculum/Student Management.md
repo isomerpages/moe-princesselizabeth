@@ -177,7 +177,11 @@ sense of responsibility and promotes peer interaction and helping students
 gain confidence in their leadership skills within class. Students who demonstrate
 strong self-leadership are given the opportunity to lead within class,
 as class monitors or subject champs.</p>
-<p>&lt;&lt;Champs Badges pic here&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Champs_Badges.png">
+</div>
+<p></p>
 <hr>
 <p><strong>Tier 3: School Leader </strong>– This tier recognizes students
 who demonstrate strong leadership abilities, and are nominated by form,
