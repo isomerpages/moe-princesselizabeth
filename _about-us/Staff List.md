@@ -522,7 +522,7 @@ variant: tiptap
 <p>Ms Swarnapraba Karthigaihini P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="swarnapraba_karthigaihini_poonsolai@moe.edu.sg" rel="noopener nofollow" target="_blank">swarnapraba_karthigaihini_poonsolai@moe.edu.sg</a>
+<p><a href="mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg" rel="noopener nofollow" target="_blank">swarnapraba_karthigaihini_poonsolai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -543,7 +543,7 @@ variant: tiptap
 <p>Ms Chua Yu Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chua_yu_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_yu_juan@moe.edu.sg</a>
+<p><a href="mailto:chua_yu_juan@moe.edu.sg" rel="noopener nofollow" target="_blank">chua_yu_juan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -576,13 +576,13 @@ variant: tiptap
 <p>Mrs Elizabeth Ting-Lai Siew Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="elizabeth_lai_siew_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">elizabeth_lai_siew_yuan@moe.edu.sg</a>
+<p><a href="mailto:elizabeth_lai_siew_yuan@moe.edu.sg" rel="noopener nofollow" target="_blank">elizabeth_lai_siew_yuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gui Wan Yi</p>
+<p>Mrs Chua - Gui Wan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gui_wan_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gui_wan_yi@moe.edu.sg</a>
@@ -594,7 +594,7 @@ variant: tiptap
 <p>4R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shahroom Noor B Mumeen Muhamed</p>
+<p>Mr Shahroom Noor B Mumeen Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahroom_noor_mumeen_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@moe.edu.sg</a>
@@ -606,7 +606,7 @@ variant: tiptap
 <p>Ms Fazeelah Khan Binte Pate Khan</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="fazeelah_khan_pate_khan@moe.edu.sg" rel="noopener nofollow" target="_blank">fazeelah_khan_pate_khan@moe.edu.sg</a>
+<p><a href="mailto:fazeelah_khan_pate_khan@moe.edu.sg" rel="noopener nofollow" target="_blank">fazeelah_khan_pate_khan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
