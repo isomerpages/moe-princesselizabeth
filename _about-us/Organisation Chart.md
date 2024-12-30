@@ -128,14 +128,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,14 +185,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,26 +201,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Shahroom Noor B Mumeen Muhamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH PE</p>
 </td>
 </tr>
 <tr>
@@ -278,22 +246,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LT EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST CL</p>
 </td>
 </tr>
 <tr>
