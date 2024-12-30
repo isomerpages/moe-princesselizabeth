@@ -222,7 +222,7 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yip Jia Min(Mrs Jolene Ong)</p>
+<p>Yip Jia Min (Mrs Jolene Ong)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yip_jia_min_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip_jia_min_jolene@moe.edu.sg</a>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Mdm Ng Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_ling_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_ling_ling@moe.edu.sg</a>
+<p><a href="mailto:ng_ling_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_ling_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -273,10 +273,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahidah Mohd Noor</p>
+<p>Mdm Rahidah Binte Mohd Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Rahidah_Mohd_Noor@moe.edu.sg" rel="noopener nofollow" target="_blank">Rahidah_Mohd_Noor@moe.edu.sg</a>
+<p><a href="mailto:Rahidah_Mohd_Noor@moe.edu.sg" rel="noopener nofollow" target="_blank">Rahidah_Mohd_Noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
