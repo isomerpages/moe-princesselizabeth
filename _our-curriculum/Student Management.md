@@ -152,7 +152,10 @@ development programme, which also considers the development of&nbsp; their
 social-emotional competencies. This allows students to assume leadership
 responsibilities that gradually expand in scope - from personal, to class,
 to school levels.</p>
-<p>&lt;&lt;4 Tiered Pyramid Diagram pic here&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/4_Tiered_Pyramid_Diagram.png">
+</div>
 <p>Our 4-tiered programme aims to provide opportunities for students based
 on their leadership readiness. It enables students to develop their leadership
 skills in phases, ensuring that skills built at one level supported responsibilities
