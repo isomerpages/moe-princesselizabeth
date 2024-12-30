@@ -639,10 +639,10 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hafizah</p>
+<p>Ms Nur Hafizah Binte Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nur_hafizah_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hafizah_mazlan@moe.edu.sg</a>
+<p><a href="mailto:nur_hafizah_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hafizah_mazlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -702,7 +702,7 @@ variant: tiptap
 <p>5I</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Chwee Tin(Mrs Chin Chwee Tin)</p>
+<p>Chua Chwee Tin (Mrs Chin Chwee Tin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_chwee_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chwee_tin@moe.edu.sg</a>
@@ -732,7 +732,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Ho Li Jun(Mrs Jeslyn Loh)</p>
+<p>Ho Li Jun (Mrs Jeslyn Loh)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
