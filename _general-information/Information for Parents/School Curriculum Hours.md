@@ -95,12 +95,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4 - 1:30pm</p>
+<p>P5 - 1:30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 - 1:30pm</p>
+<p>P6 - 1:30pm</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ from the narrow passageway at Gate 3.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 - 1:30pm</p>
+<p>P4 - 1:30pm</p>
 </td>
 </tr>
 <tr>
