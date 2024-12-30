@@ -167,4 +167,26 @@ strong self-leadership are given the opportunity to lead within class,
 as class monitors or subject champs.</p>
 <p>&lt;&lt;Champs Badges pic here&gt;&gt;</p>
 <hr>
-<p></p>
+<p><strong>Tier 3: School Leader </strong>– This tier recognizes students
+who demonstrate strong leadership abilities, and are nominated by form,
+subject and/or CCA teachers to lead at school level as prefects and CCA
+leaders. These roles foster broader responsibility and accountability,
+with students being role models for their peers, across classes and levels.</p>
+<hr>
+<p><strong>Tier 4: Prefect ExCo Members </strong>– Students at this tier
+have proven themselves to have advanced leadership skills. They are selected
+by the student leadership committee based on teacher evaluation, feedback,
+recommendations, observations, and interviews. As leaders of leaders, they
+represent student leadership at the highest level within the school.</p>
+<p>&lt;&lt;Prefects Pic 1 here&gt;&gt;</p>
+<hr>
+<p><strong>Tier 3 and 4 Student Leaders in Action</strong>
+</p>
+<p>&lt;&lt;SL Pic 1 here&gt;&gt;</p>
+<p>&lt;&lt;SL Pic 2 here&gt;&gt;</p>
+<p>&lt;&lt;SL Pic 3 here&gt;&gt;</p>
+<p>There are opportunities for all PEPS students to lead depending on their
+readiness levels. Through these opportunities, the students make positive
+and valuable impacts on themselves, the school and/or the community.</p>
+<p>Our students’ community and global awareness is also developed through
+their leadership roles, equipping students with emerging 21st century competencies.</p>
