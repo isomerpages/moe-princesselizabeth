@@ -142,37 +142,29 @@ thinking skills</p>
 opportunity to develop his/her potential to be a steadfast leader. Since
 2017, the student leadership development programme has evolved to better
 meet students' diverse readiness levels, interests, and development stages.</p>
-<p></p>
 <p>As such, student leaders are developed through a tiered and progressive
 development programme, which also considers the development of&nbsp; their
 social-emotional competencies. This allows students to assume leadership
 responsibilities that gradually expand in scope - from personal, to class,
 to school levels.</p>
 <p>&lt;&lt;4 Tiered Pyramid Diagram pic here&gt;&gt;</p>
-<p></p>
-<h3>Student Recognition</h3>
-<p>PEPS, being the Centre of Excellence (COE) for Character Development,
-works towards developing character excellence in our students. Good character
-is built little by little, day by day, through everyday lived experiences
-and it requires every child to put in effort to be mindful of their words
-and deeds consistently in different situations. Aligned to our Student
-Well-being Framework, Student Recognition serves to affirm our students’
-efforts in living out the school’s A.S.P.I.R.E values and using them to
-guide them in making right decisions and exhibiting positive behaviours
-daily. Students’ positive behaviours are regularly observed, intentionally
-reinforced and celebrated by their teachers through many ways such as verbal
-and written specific praises. On a termly basis, students are also identified
-as Core Value Champions. They take home proudly the Core Value Champion
-Badges and Cards which contain words of affirmations written by their teachers,
-to share them with their family and friends. At the class level, a ‘STAR’
-pupil of the term will be identified as well.</p>
-<p>There will also be other class-based awards given to recognise students
-who have improved in their learning attitude.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/core%20value%20champion%20cards.png">
-</div>
-<p>Core Value Champion Cards</p>
-<p>Apart from the aforementioned, the school’s annual Award Presentation
-Ceremony (APC) is another platform to recognise students for their hard
-work, effort, grit and success in all that they undertake.</p>
+<p>Our 4-tiered programme aims to provide opportunities for students based
+on their leadership readiness. It enables students to develop their leadership
+skills in phases, ensuring that skills built at one level supported responsibilities
+at the next.</p>
+<hr>
+<p><strong>Tier 1: Everyday Leader </strong>– This tier focuses on students
+developing their executive functioning skills, working towards self-improvement
+and self-leadership, where students lead themselves by living out the ‘I
+Will’ statements. Focusing on self-leadership first lays a solid foundation
+for positional leadership roles.</p>
+<p>&lt;&lt;Everyday Leader pic here&gt;&gt;</p>
+<hr>
+<p><strong>Tier 2: Class or Subject Leader </strong>– This tier fosters a
+sense of responsibility and promotes peer interaction and helping students
+gain confidence in their leadership skills within class. Students who demonstrate
+strong self-leadership are given the opportunity to lead within class,
+as class monitors or subject champs.</p>
+<p>&lt;&lt;Champs Badges pic here&gt;&gt;</p>
+<hr>
 <p></p>
