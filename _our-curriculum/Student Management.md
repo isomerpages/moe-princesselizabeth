@@ -138,7 +138,10 @@ as part of our LLP):</p>
 others while helping them develop</p>
 <p>&nbsp;&nbsp;&nbsp; a growth mindset and important problem solving and
 thinking skills</p>
-<p>&lt;&lt;ASPIRE Core Values pic here&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
+</div>
 <h3>4-tiered Student Leadership Development Programme</h3>
 <p>Princess Elizabeth Primary School aims to provide our students with the
 opportunity to develop his/her potential to be a steadfast leader. Since
