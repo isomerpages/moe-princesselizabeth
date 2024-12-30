@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Teachers' Email 2025</h3>
-<p><strong> ** Updated as of 30th December 2024</strong>
+<p><strong>** Updated as of 30th December 2024</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wen Zhibin</p>
+<p>Ms Wen Zhibin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wen_zhibin@moe.edu.sg" rel="noopener nofollow" target="_blank">wen_zhibin@moe.edu.sg</a>
@@ -935,7 +935,7 @@ variant: tiptap
 <p>Mdm Jennifer Long</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="long_miaw_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">long_miaw_ying@moe.edu.sg</a>
+<p><a href="mailto:long_miaw_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">long_miaw_ying@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -947,7 +947,7 @@ variant: tiptap
 <p>Ms Cindy Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cindy_chew_ai_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_chew_ai_ping@moe.edu.sg</a>
+<p><a href="mailto:cindy_chew_ai_ping@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_chew_ai_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1031,7 +1031,7 @@ variant: tiptap
 <p>Ms Adrienne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="koh_kim_noi@@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_kim_noi@@moe.edu.sg</a>
+<p><a href="mailto:koh_kim_noi@@moe.edu.sg" rel="noopener nofollow" target="_blank">koh_kim_noi@@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1083,7 +1083,7 @@ variant: tiptap
 <p>Ms Suriyani Binte Mohammad Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Suriyani_Md_Nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Suriyani_Md_Nasir@moe.edu.sg</a>
+<p><a href="mailto:suriyani_md_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Suriyani_Md_Nasir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
