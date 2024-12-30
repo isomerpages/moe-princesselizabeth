@@ -119,7 +119,7 @@ and&nbsp;<strong>E</strong>mpathy.</p>
 as a compass for every student in the school as guiding principles in their
 leadership endeavours.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
 </div>
 <h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
 <p>Three main approaches are adopted by the school in our student leadership
@@ -166,7 +166,11 @@ developing their executive functioning skills, working towards self-improvement
 and self-leadership, where students lead themselves by living out the ‘I
 Will’ statements. Focusing on self-leadership first lays a solid foundation
 for positional leadership roles.</p>
-<p>&lt;&lt;Everyday Leader pic here&gt;&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Everyday_Leader.png">
+</div>
+<p></p>
 <hr>
 <p><strong>Tier 2: Class or Subject Leader </strong>– This tier fosters a
 sense of responsibility and promotes peer interaction and helping students
