@@ -405,7 +405,7 @@ variant: tiptap
 <p>Ms Tan Chiew Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_chiew_hoon_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_chiew_hoon_a@moe.edu.sg</a>
+<p><a href="mailto:tan_chiew_hoon_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_chiew_hoon_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -424,7 +424,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Hasimah Hasim</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hasimah_hasim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasimah_hasim@moe.edu.sg</a>
@@ -446,10 +445,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liu Weijie</p>
+<p>Ms Liu Weijie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liu_weijie@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_weijie@moe.edu.sg</a>
+<p><a href="mailto:liu_weijie@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_weijie@moe.edu.sg</a>
 </p>
 </td>
 </tr>
