@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hazreen Bte Subadar</p>
+<p>Mdm Jennifer Long</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD SCI</p>
@@ -96,7 +96,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yew Hui Tin</p>
+<p>Ms Cindy Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD MTL</p>
@@ -128,14 +128,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Dalvindar Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,18 +136,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kwan Yue Hua</p>
+<p>Ms Adrienne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH LP / HOD PE/CCA/Aesthetics (Covering)</p>
+<p>YH LP</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Puspalatha Saravanan</p>
+<p>Mdm Kwan Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH MP</p>
+<p>YH MP / HOD PE/CCA/Aesthetics (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -193,14 +185,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Shu Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH MA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,18 +193,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeslyn Loh-Ho Li Jun</p>
+<p>Ms Swarnapraba Karthigaihini P&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH SCI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Faizlyana Bte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH CCE</p>
 </td>
 </tr>
 <tr>
@@ -229,14 +205,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH ICT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Aaron Chan Jit Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH PE</p>
 </td>
 </tr>
 <tr>
@@ -282,22 +250,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ser Ling Nicole</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jiang Yanyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST CL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Norfidah Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -314,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh Qiuwen</p>
+<p>Mrs Lin Qiuwen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST HAL</p>
@@ -363,7 +315,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Christopher Noel A</p>
+<p>Mr Christopher Noel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OM</p>
