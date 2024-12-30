@@ -118,7 +118,9 @@ and&nbsp;<strong>E</strong>mpathy.</p>
 <p>These six ASPIRE values, and their accompanying ‘I Will’ statements, serve
 as a compass for every student in the school as guiding principles in their
 leadership endeavours.</p>
-<p>&lt;&lt;ASPIRE pic here&gt;&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
+</div>
 <h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
 <p>Three main approaches are adopted by the school in our student leadership
 development.</p>
