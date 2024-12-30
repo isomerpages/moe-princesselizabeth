@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Teachers' Email 2025</h3>
-<p><strong>Class - Teachers - Email - Updated as of 30th December 2024</strong>
+<p><strong> ** Updated as of 30th December 2024</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
