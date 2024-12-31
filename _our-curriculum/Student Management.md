@@ -4,6 +4,9 @@ permalink: /our-curriculum/student-management/
 description: ""
 variant: tiptap
 ---
+<blockquote>
+<p>This page is still under construction, thank you for your understanding</p>
+</blockquote>
 <h3>Head of Department</h3>
 <p>Ms Lee Lu Mei Sonia (Student Management)</p>
 <h3>Subject Head - Student Leadership</h3>
