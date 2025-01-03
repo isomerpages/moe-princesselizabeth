@@ -125,7 +125,7 @@ as a compass for every student in the school as guiding principles in their
 leadership endeavours.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
 </div>
 <h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
 <p>Three main approaches are adopted by the school in our student leadership
@@ -144,52 +144,65 @@ others while helping them develop a growth mindset and important problem
 solving and thinking skills</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
 </div>
 <p></p>
-<h3>Student Leadership Development Framework - Outcomes</h3>
+<h3>4-tiered Student Leadership Development Programme</h3>
+<p>Princess Elizabeth Primary School aims to provide our students with the
+opportunity to develop his/her potential to be a steadfast leader. Since
+2017, the student leadership development programme has evolved to better
+meet students' diverse readiness levels, interests, and development stages.</p>
+<p></p>
+<p>As such, student leaders are developed through a tiered and progressive
+development programme, which also considers the development of&nbsp; their
+social-emotional competencies. This allows students to assume leadership
+responsibilities that gradually expand in scope - from personal, to class,
+to school levels.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/4_Tiered_Pyramid_Diagram.png">
 </div>
-<p>There are opportunities for all PEPS students to lead depending on their
-readiness levels. Through these opportunities, the students make positive
-and valuable impacts on themselves, the school and/or the community.</p>
-<p>Our students’ community and global awareness is developed through their
-leadership roles and designated school leadership programs. This is part
-of equipping students with emerging 21st century competencies.</p>
-<p><strong>Tier 1: Self-Leadership and Everyday Leadership</strong>
+<p>Our 4-tiered programme aims to provide opportunities for students based
+on their leadership readiness. It enables students to develop their leadership
+skills in phases, ensuring that skills built at one level supported responsibilities
+at the next.</p>
+<hr>
+<p><strong>Tier 1: Everyday Leader </strong>– This tier focuses on students
+developing their executive functioning skills, working towards self-improvement
+and self-leadership, where students lead themselves by living out the ‘I
+Will’ statements. Focusing on self-leadership first lays a solid foundation
+for positional leadership roles.</p>
+<hr>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Everyday_Leader.png">
+</div>
+<p></p>
+<hr>
+<p><strong>Tier 2: Class or Subject Leader </strong>– This tier fosters a
+sense of responsibility and promotes peer interaction and helping students
+gain confidence in their leadership skills within class. Students who demonstrate
+strong self-leadership are given the opportunity to lead within class,
+as class monitors or subject champs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Champs_Badges.png">
+</div>
+<hr>
+<p><strong>Tier 3: School Leader </strong>– This tier recognizes students
+who demonstrate strong leadership abilities, and are nominated by form,
+subject and/or CCA teachers to lead at school level as prefects and CCA
+leaders. These roles foster broader responsibility and accountability,
+with students being role models for their peers, across classes and levels.</p>
+<hr>
+<p><strong>Tier 4: Prefect ExCo Members </strong>– Students at this tier
+have proven themselves to have advanced leadership skills. They are selected
+by the student leadership committee based on teacher evaluation, feedback,
+recommendations, observations, and interviews. As leaders of leaders, they
+represent student leadership at the highest level within the school.</p>
+<p></p>
+<hr>
+<p><strong>Tier 3 and 4 Student Leaders in Action</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_3_1.png">
-</div>
-<p><strong>Tier 2: Leadership Roles at Class Level</strong>
-</p>
-<p><strong>Monitors, Subject Champs, Group Leaders and Peer Support Leaders</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_3_2.png">
-</div>
-<h3>Student Leadership Investiture 2023</h3>
-<p><strong>Tier 3 &amp; 4: Leadership Roles at School Level (Prefects &amp; CCA Leaders)</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_6.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_7.png">
-</div>
 <p></p>
 <p></p>
