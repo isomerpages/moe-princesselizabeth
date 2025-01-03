@@ -205,11 +205,12 @@ represent student leadership at the highest level within the school.</p>
 <hr>
 <p><strong>Tier 3 and 4 Student Leaders in Action</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_3.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/student_leadership___pic_3 1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_4.png">
 </div>
