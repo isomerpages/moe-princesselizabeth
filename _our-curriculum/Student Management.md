@@ -9,203 +9,39 @@ variant: tiptap
 </blockquote>
 <h3>Head of Department</h3>
 <p>Ms Lee Lu Mei Sonia (Student Management)</p>
-<h3>Subject Head - Student Leadership</h3>
-<p>Ms Nur Diana Binte Abd Rahman</p>
-<h3>Student Leadership Teachers</h3>
-<p>Ms Lee Hui Ling, Felicia</p>
-<p>Mdm Khaizuran Supaat</p>
-<h3>Student Leadership Development</h3>
-<p>Aligned with our mission, vision, and philosophy, our student leadership
-development programme, as part of our Learning for Life Programme (LLP),
-strive towards developing our students into future-ready citizens who are
-able to lead and contribute to school and community actively.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Student Leadership (Learning for Life Programme)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our Mission:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Together, we nurture and inspire an <strong>inclusive</strong> spirit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our Vision:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Every Child an Engaged Learner, a Caring Citizen, and a <strong>Steadfast Leader</strong>
+<h3>Student Management</h3>
+<p><strong>Princess Elizabeth Primary strategic approach towards enhancing discipline and student well-being is encapsulated in our ASPIRE framework.</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Our Philosophy:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Every One Can Learn, Love and <strong>Lead</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p><strong>Strategic Thrust 2: Future-ready Citizens</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Strategic Goal 4:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students are able to serve and <strong>lead</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Strategic Goal 5:</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Students are able to empathize and <strong>contribute to school and community actively</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Student Leadership Development Framework - Values</h3>
-<p>Anchoring our Student Leadership Framework are our school’s ASPIRE core
-values,&nbsp;namely&nbsp;<strong>A</strong>mbition,&nbsp;<strong>S</strong>elf-Discipline,&nbsp;<strong>P</strong>erseverance,&nbsp;<strong>I</strong>ntegrity,&nbsp;<strong>R</strong>espect
-and&nbsp;<strong>E</strong>mpathy.</p>
-<p>These six ASPIRE values, and their accompanying ‘I Will’ statements, serve
-as a compass for every student in the school as guiding principles in their
-leadership endeavours.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
-</div>
-<h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
-<p>Three main approaches are adopted by the school in our student leadership
+<p>In Princess Elizabeth Primary School, we believe in nurturing every child
+by guiding and helping him to develop his moral, aesthetic, physical, intellectual,
+emotional and social domains to the fullest so that he would become an
+Engaged Learner, a Caring Citizen and a Steadfast Leader.</p>
+<p>The Student Management Department collaborates with other departments
+in the school to ensure a whole-school approach by enhancing the well-being
+of students and providing them a holistic experience in their character
 development.</p>
-<p><strong>1) Executive Functioning Skills</strong>:</p>
-<p>&nbsp;&nbsp;&nbsp; Helps in developing students’ self-leadership and Everyday
-Leadership skills</p>
-<p><strong>2) Servant Leadership:</strong>
+<p>The school A.S.P.I.R.E. (Ambition, Self-Discipline, Perseverance, Integrity,
+Respect and Empathy) values act as an internal compass for everyone to
+work and interact with one another.</p>
+<h3>Our Curriculum Goal</h3>
+<p>Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader</p>
+<h3>Key Programmes</h3>
+<p><strong>Positive Discipline:</strong>
 </p>
-<p><strong>&nbsp;&nbsp;&nbsp; </strong>Drives students to ‘<strong>Serve to Lead &amp; Lead to Serve</strong>’,
-by contributing to class, school or</p>
-<p>&nbsp;&nbsp;&nbsp; community</p>
-<p><strong>3) Inclusive Design </strong>(Infused in LOVE Experience VIA Programme,
-as part of our LLP):</p>
-<p>&nbsp;&nbsp;&nbsp; Increases students’ awareness as they empathize with
-others while helping them develop</p>
-<p>&nbsp;&nbsp;&nbsp; a growth mindset and important problem solving and
-thinking skills</p>
+<p>Positive Behaviour Intervention Support (PBIS) is a whole school value-based
+approach used to help our students understand the rationale behind the
+school rules. The students are constantly reminded that they should live
+out the A.S.P.I.R.E. values, build quality relationships with their peers,
+and look after their own well-being. The school rules serve as guidelines
+for character development.</p>
+<p>In Princess Elizabeth Primary School, if students have erred, the teachers
+would bring them through a process where parties involved are encouraged
+to discuss about problems and resolutions. This process of getting them
+to work with others help students understand that it is important to see
+from others’ perspectives when it comes to problem-solving. Students are
+also guided through the responsible thinking process where they learn how
+to weigh their options before coming to a decision. After which, the student(s)
+will be involved in a self-reflection process. Teachers and parents/guardians
+work collaboratively to support the child.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
-</div>
-<h3>4-tiered Student Leadership Development Programme</h3>
-<p>Princess Elizabeth Primary School aims to provide our students with the
-opportunity to develop his/her potential to be a steadfast leader. Since
-2017, the student leadership development programme has evolved to better
-meet students' diverse readiness levels, interests, and development stages.</p>
-<p>As such, student leaders are developed through a tiered and progressive
-development programme, which also considers the development of&nbsp; their
-social-emotional competencies. This allows students to assume leadership
-responsibilities that gradually expand in scope - from personal, to class,
-to school levels.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/4_Tiered_Pyramid_Diagram.png">
-</div>
-<p>Our 4-tiered programme aims to provide opportunities for students based
-on their leadership readiness. It enables students to develop their leadership
-skills in phases, ensuring that skills built at one level supported responsibilities
-at the next.</p>
-<hr>
-<p><strong>Tier 1: Everyday Leader </strong>– This tier focuses on students
-developing their executive functioning skills, working towards self-improvement
-and self-leadership, where students lead themselves by living out the ‘I
-Will’ statements. Focusing on self-leadership first lays a solid foundation
-for positional leadership roles.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Everyday_Leader.png">
-</div>
-<p></p>
-<hr>
-<p><strong>Tier 2: Class or Subject Leader </strong>– This tier fosters a
-sense of responsibility and promotes peer interaction and helping students
-gain confidence in their leadership skills within class. Students who demonstrate
-strong self-leadership are given the opportunity to lead within class,
-as class monitors or subject champs.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Champs_Badges.png">
-</div>
-<p></p>
-<hr>
-<p><strong>Tier 3: School Leader </strong>– This tier recognizes students
-who demonstrate strong leadership abilities, and are nominated by form,
-subject and/or CCA teachers to lead at school level as prefects and CCA
-leaders. These roles foster broader responsibility and accountability,
-with students being role models for their peers, across classes and levels.</p>
-<hr>
-<p><strong>Tier 4: Prefect ExCo Members </strong>– Students at this tier
-have proven themselves to have advanced leadership skills. They are selected
-by the student leadership committee based on teacher evaluation, feedback,
-recommendations, observations, and interviews. As leaders of leaders, they
-represent student leadership at the highest level within the school.</p>
-<p>&lt;&lt;Prefects Pic 1 here&gt;&gt;</p>
-<hr>
-<p><strong>Tier 3 and 4 Student Leaders in Action</strong>
-</p>
-<p>&lt;&lt;SL Pic 1 here&gt;&gt;</p>
-<p>&lt;&lt;SL Pic 2 here&gt;&gt;</p>
-<p>&lt;&lt;SL Pic 3 here&gt;&gt;</p>
-<p>There are opportunities for all PEPS students to lead depending on their
-readiness levels. Through these opportunities, the students make positive
-and valuable impacts on themselves, the school and/or the community.</p>
-<p>Our students’ community and global awareness is also developed through
-their leadership roles, equipping students with emerging 21st century competencies.</p>
