@@ -173,7 +173,6 @@ and self-leadership, where students lead themselves by living out the ‘I
 Will’ statements. Focusing on self-leadership first lays a solid foundation
 for positional leadership roles.</p>
 <hr>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Everyday_Leader.png">
 </div>
