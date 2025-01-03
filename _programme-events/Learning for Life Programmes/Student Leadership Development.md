@@ -199,10 +199,25 @@ have proven themselves to have advanced leadership skills. They are selected
 by the student leadership committee based on teacher evaluation, feedback,
 recommendations, observations, and interviews. As leaders of leaders, they
 represent student leadership at the highest level within the school.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic.png">
+</div>
 <hr>
 <p><strong>Tier 3 and 4 Student Leaders in Action</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_4.png">
+</div>
+<p>There are opportunities for all PEPS students to lead depending on their
+readiness levels. Through these opportunities, the students make positive
+and valuable impacts on themselves, the school and/or the community.</p>
+<p>Our students’ community and global awareness is also developed through
+their leadership roles, equipping students with emerging 21st century competencies.</p>
 <p></p>
 <p></p>
 <p></p>
