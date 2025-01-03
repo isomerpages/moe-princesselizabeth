@@ -44,4 +44,32 @@ to weigh their options before coming to a decision. After which, the student(s)
 will be involved in a self-reflection process. Teachers and parents/guardians
 work collaboratively to support the child.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/poster.png">
+</div>
+<h3>Teacher-Student Relationship (TSR)</h3>
+<p>Form Teachers have face-to-face interactions with students on a one-to-one
+basis before or after lessons and during Form Teacher Guidance Periods
+(FTGP) to promote Teacher Student Relationship (TSR). Form Teachers have
+one-to-one interactions to build quality teacher-student relationships
+by getting to know every student better. Teachers are also able to identify
+students’ needs and nurture their character traits, dispositions, and attitudes.</p>
+<h3>Student Recognition</h3>
+<p>PEPS, being the Centre of Excellence (COE) for Character Development,
+works towards developing character excellence in our students. Good character
+is built little by little, day by day, through everyday lived experiences
+and it requires every child to put in effort to be mindful of their words
+and deeds consistently in different situations. Aligned to our Student
+Well-being Framework, Student Recognition serves to affirm our students’
+efforts in living out the school’s A.S.P.I.R.E values and using them to
+guide them in making right decisions and exhibiting positive behaviours
+daily. Students’ positive behaviours are regularly observed, intentionally
+reinforced and celebrated by their teachers through many ways such as verbal
+and written specific praises. On a termly basis, students are also identified
+as Core Value Champions. They take home proudly the Core Value Champion
+Badges and Cards which contain words of affirmations written by their teachers,
+to share them with their family and friends. At the class level, a ‘STAR’
+pupil of the term will be identified as well.</p>
+<p>There will also be other class-based awards given to recognise students
+who have improved in their learning attitude.</p>
 <p></p>
