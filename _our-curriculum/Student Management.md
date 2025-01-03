@@ -4,9 +4,6 @@ permalink: /our-curriculum/student-management/
 description: ""
 variant: tiptap
 ---
-<blockquote>
-<p>This page is still under construction, thank you for your understanding</p>
-</blockquote>
 <h3>Head of Department</h3>
 <p>Ms Lee Lu Mei Sonia (Student Management)</p>
 <h3>Student Management</h3>
@@ -72,11 +69,37 @@ to share them with their family and friends. At the class level, a ‘STAR’
 pupil of the term will be identified as well.</p>
 <p>There will also be other class-based awards given to recognise students
 who have improved in their learning attitude.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Core Value Champion Cards</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/core value champion cards.png">
 </div>
-<p>Core Value Champion Cards</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Apart from the aforementioned, the school’s annual Award Presentation
 Ceremony (APC) is another platform to recognise students for their hard
 work, effort, grit and success in all that they undertake.</p>
