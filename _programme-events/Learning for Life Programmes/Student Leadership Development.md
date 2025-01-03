@@ -143,6 +143,10 @@ as part of our LLP):</p>
 others while helping them develop a growth mindset and important problem
 solving and thinking skills</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
+</div>
+<p></p>
 <h3>Student Leadership Development Framework - Outcomes</h3>
 <p></p>
 <div class="isomer-image-wrapper">
