@@ -73,3 +73,30 @@ pupil of the term will be identified as well.</p>
 <p>There will also be other class-based awards given to recognise students
 who have improved in their learning attitude.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/core value champion cards.png">
+</div>
+<p>Core Value Champion Cards</p>
+<p>Apart from the aforementioned, the school’s annual Award Presentation
+Ceremony (APC) is another platform to recognise students for their hard
+work, effort, grit and success in all that they undertake.</p>
+<h3>Peer Support and Relationships</h3>
+<p>Positive peer relationships facilitate the provision of care, a sense
+of belonging amongst students, as well as the building of resilience. Aligned
+to our school mission, ‘Together, we nurture and inspire an inclusive spirit’,
+our students develop the values of Empathy and Respect for one another
+through the active involvement in school initiatives and programmes which
+promote and drive Peer Support and Relationships (PSR) efforts.</p>
+<p>The school puts in place Peer-bonding activities during Form Teacher Guidance
+Periods (FTGP) and Teacher-Student Relationship (TSR)periods, etc. To allow
+for greater opportunities for students to bond and know each other better,
+the Happy Bonding Programme on a termly basis creates opportunities for
+quality conversations amongst peers.</p>
+<p>Curriculum learning and planning are always centered on the need for students
+to have the opportunities and experiences in collaborating with one another.
+Through these interactions, students can apply peer-helping skills to support
+others too. This would also sharpen their ability to be effective communicators,
+active contributors and inclusive individuals making a positive difference
+in themselves and others.</p>
+<p></p>
+<p></p>
