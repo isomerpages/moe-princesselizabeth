@@ -5,4 +5,219 @@ description: ""
 third_nav_title: Learning for Life Programmes
 variant: tiptap
 ---
-<h3>Head of Department</h3><p>Mdm Shanthi Govindasamy</p><h3>Subject Head - Student Leadership &amp; VIA</h3><p>Ms Nur Diana Binte Abd Rahman</p><h3>Student Leadership Development</h3><p>Aligned with our vision,&nbsp;‘Every Child a Steadfast Leader’&nbsp;and our philosophy that&nbsp;“Everyone can learn, love and&nbsp;lead’, we strive towards inculcating the school core values (Ambition,&nbsp;Self-discipline,&nbsp;Perseverance,&nbsp;Integrity,&nbsp;Respect,&nbsp;Empathy) through&nbsp;student leadership&nbsp;development and&nbsp;community service.</p><p>Since 2017, Princess Elizabeth Primary School aims to provide every child an opportunity within each year to develop his/her leadership skills to be a steadfast leader with a heart of service to impact self, school or community as part of our Learning for Life (LLP) Programme.</p><p>The three broad dimensions of leadership, namely self, team and thought, are calibrated in our school programmes to ensure the holistic development of each student. On top of that, our approach to leadership focuses on cultivation of values and positive dispositions in students.</p><p>As such, student leaders are provided are developed through a segmented training approach to cater to the needs and expectations of students across the levels. It also seeks to ensure a progressive approach to the development of social-emotional competencies among the students. Eventually, the specially designed programmes provide student leaders with opportunities to extend their learning and apply what they have learnt in the school community, local community and global community.</p><h3>Student Leadership Development Framework - Values</h3><p>At the centre of the Student Leadership Framework is the school’s core values,&nbsp;ASPIRE, namely&nbsp;<strong>A</strong>mbition,&nbsp;<strong>S</strong>elf-Discipline,&nbsp;<strong>P</strong>erseverance,&nbsp;<strong>I</strong>ntegrity,&nbsp;<strong>R</strong>espect and&nbsp;<strong>E</strong>mpathy.</p><p>These core values serve as a compass for every student in the school, especially for our student leaders who use them as guiding principles in the leadership endeavours.</p><p></p><div class="isomer-image-wrapper"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_1.png"></div><h3>Student Leadership Development Framework - Approaches</h3><p>Three main approaches are adopted by the school in our student leadership development. They are Executive Functioning Skills, Servant Leadership and Inclusive Design.</p><p>Developing students’ executive functioning skills also develops students’ self-leadership and Everyday Leadership skills. These two are of utmost importance as students strive towards improvement to be the best version of themselves.</p><p>‘Serving is leading’ is Servant Leadership’s underlying philosophy. It involves a set of practices that enriches the lives of individuals, and ultimately creates a more just and caring world. Our student leaders serve to lead and lead to serve others around them.</p><p>Inclusive design encourages students to empathize with others while helping them develop a growth mindset and important problem solving and thinking skills. More than a product-based outcome, it is also an ongoing reflective process for the student leaders.</p><h3>Student Leadership Development Framework - Outcomes</h3><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_2.png"></div><p>There are opportunities for all PEPS students to lead depending on their readiness levels. Through these opportunities, the students make positive and valuable impacts on themselves, the school and/or the community.</p><p>Our students’ community and global awareness is developed through their leadership roles and designated school leadership programs. This is part of equipping students with emerging 21st century competencies.</p><p><strong>Tier 1: Self-Leadership and Everyday Leadership</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_3_1.png"></div><p><strong>Tier 2: Leadership Roles at Class Level</strong></p><p><strong>Monitors, Subject Champs, Group Leaders and Peer Support Leaders</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_3_2.png"></div><h3>Student Leadership Investiture 2023</h3><p><strong>Tier 3 &amp; 4: Leadership Roles at School Level (Prefects &amp; CCA Leaders)</strong></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_4.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_5.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_6.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024   LLP/SLD_7.png"></div><p></p><p></p>
+<h3>Head of Department</h3>
+<p>Ms Lee Lu Mei Sonia (HOD - Student Management)</p>
+<h3>Subject Head - Student Leadership</h3>
+<p>Ms Nur Diana Binte Abd Rahman</p>
+<h3>Student Leadership Teachers</h3>
+<p>Ms Lee Hui Ling, Felicia</p>
+<p>Mdm Khaizuran Supaat</p>
+<h3>Student Leadership Development</h3>
+<p>Aligned with our mission, vision, and philosophy, our student leadership
+development programme, as part of our Learning for Life Programme (LLP),
+strive towards developing our students into future-ready citizens who are
+able to lead and contribute to school and community actively.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Student Leadership (Learning for Life Programme)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Mission:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Together, we nurture and inspire an <strong>inclusive</strong> spirit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Vision:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Every Child an Engaged Learner, a Caring Citizen, and a <strong>Steadfast Leader</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Philosophy:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Every One Can Learn, Love and <strong>Lead</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Strategic Thrust 2: Future-ready Citizens</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strategic Goal 4:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Students are able to serve and <strong>lead</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Strategic Goal 5:</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Students are able to empathize and <strong>contribute to school and community actively</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Student Leadership Development Framework - Values</h3>
+<p>Anchoring our Student Leadership Framework are our school’s ASPIRE core
+values,&nbsp;namely&nbsp;<strong>A</strong>mbition,&nbsp;<strong>S</strong>elf-Discipline,&nbsp;<strong>P</strong>erseverance,&nbsp;<strong>I</strong>ntegrity,&nbsp;<strong>R</strong>espect
+and&nbsp;<strong>E</strong>mpathy.</p>
+<p>These six ASPIRE values, and their accompanying ‘I Will’ statements, serve
+as a compass for every student in the school as guiding principles in their
+leadership endeavours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE.png">
+</div>
+<h3>Student Leadership Development Framework – Approaches &amp; Impact</h3>
+<p>Three main approaches are adopted by the school in our student leadership
+development.</p>
+<p><strong>1) Executive Functioning Skills</strong>:</p>
+<p>&nbsp;&nbsp;&nbsp; Helps in developing students’ self-leadership and Everyday
+Leadership skills</p>
+<p><strong>2) Servant Leadership:</strong>
+</p>
+<p><strong>&nbsp;&nbsp;&nbsp; </strong>Drives students to ‘<strong>Serve to Lead &amp; Lead to Serve</strong>’,
+by contributing to class, school or community</p>
+<p><strong>3) Inclusive Design </strong>(Infused in LOVE Experience VIA Programme,
+as part of our LLP):</p>
+<p>&nbsp;&nbsp;&nbsp; Increases students’ awareness as they empathize with
+others while helping them develop a growth mindset and important problem
+solving and thinking skills</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/ASPIRE_Core_Values.png">
+</div>
+<p></p>
+<h3>4-tiered Student Leadership Development Programme</h3>
+<p>Princess Elizabeth Primary School aims to provide our students with the
+opportunity to develop his/her potential to be a steadfast leader. Since
+2017, the student leadership development programme has evolved to better
+meet students' diverse readiness levels, interests, and development stages.</p>
+<p></p>
+<p>As such, student leaders are developed through a tiered and progressive
+development programme, which also considers the development of&nbsp; their
+social-emotional competencies. This allows students to assume leadership
+responsibilities that gradually expand in scope - from personal, to class,
+to school levels.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/4_Tiered_Pyramid_Diagram.png">
+</div>
+<p>Our 4-tiered programme aims to provide opportunities for students based
+on their leadership readiness. It enables students to develop their leadership
+skills in phases, ensuring that skills built at one level supported responsibilities
+at the next.</p>
+<hr>
+<p><strong>Tier 1: Everyday Leader </strong>– This tier focuses on students
+developing their executive functioning skills, working towards self-improvement
+and self-leadership, where students lead themselves by living out the ‘I
+Will’ statements. Focusing on self-leadership first lays a solid foundation
+for positional leadership roles.</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Everyday_Leader.png">
+</div>
+<p></p>
+<hr>
+<p><strong>Tier 2: Class or Subject Leader </strong>– This tier fosters a
+sense of responsibility and promotes peer interaction and helping students
+gain confidence in their leadership skills within class. Students who demonstrate
+strong self-leadership are given the opportunity to lead within class,
+as class monitors or subject champs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Champs_Badges.png">
+</div>
+<hr>
+<p><strong>Tier 3: School Leader </strong>– This tier recognizes students
+who demonstrate strong leadership abilities, and are nominated by form,
+subject and/or CCA teachers to lead at school level as prefects and CCA
+leaders. These roles foster broader responsibility and accountability,
+with students being role models for their peers, across classes and levels.</p>
+<hr>
+<p><strong>Tier 4: Prefect ExCo Members </strong>– Students at this tier
+have proven themselves to have advanced leadership skills. They are selected
+by the student leadership committee based on teacher evaluation, feedback,
+recommendations, observations, and interviews. As leaders of leaders, they
+represent student leadership at the highest level within the school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic.png">
+</div>
+<hr>
+<p><strong>Tier 3 and 4 Student Leaders in Action</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/student_leadership___pic_3 1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Student Mgmt/Student_Leadership___Pic_4.png">
+</div>
+<p>There are opportunities for all PEPS students to lead depending on their
+readiness levels. Through these opportunities, the students make positive
+and valuable impacts on themselves, the school and/or the community.</p>
+<p>Our students’ community and global awareness is also developed through
+their leadership roles, equipping students with emerging 21st century competencies.</p>
+<p></p>
+<p></p>
+<p></p>
