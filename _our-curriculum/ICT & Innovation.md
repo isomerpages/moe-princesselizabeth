@@ -9,7 +9,8 @@ variant: tiptap
 <h3>Level Head</h3>
 <p>Mr Shahroom Noor</p>
 <h3>Vision</h3>
-<p>Enriching Education through Information and Communication Technology (ICT).</p>
+<p>Enriching education through technology-transformed learning to prepare
+students for the future.</p>
 <h3>Mission</h3>
 <p>To promote a pervasive ICT culture that develops 21st century competencies
 and nurtures self-directed and life-long learners.</p>
