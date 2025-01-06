@@ -24,11 +24,11 @@ find out more.</p>
 <h3>ALP Programme:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Learning Our Values through Empathy (LOVE) Experience (PAL): P1 and P2</strong>
+<p><strong>Learning Our Values through Empathy (LOVE) Experience: Primary 1 to 5</strong>
 </p>
 </li>
 <li>
-<p><strong>Learning Our Values through Empathy (LOVE) Experience (Project Work): P3 to P5</strong>
+<p><strong>I LOVE (Learning Our Values through Empathy) Gaia: Primary 1 to 6</strong>
 </p>
 </li>
 </ul>
