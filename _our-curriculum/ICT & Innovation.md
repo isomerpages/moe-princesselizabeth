@@ -17,10 +17,10 @@ and nurtures self-directed and life-long learners.</p>
 <h3>Educational Technology (EdTech) &amp; Innovation</h3>
 <p>To ensure our students become digitally empowered, future ready learners,
 self-directed learners and empathetic innovators, the school has devised
-a progressive six-year ICT competencies based on New Media Literacy (NML)
-Baseline Standards and EdTech Masterplan 2023 Digital Competencies. These
-competencies are seamlessly integrated into core subject areas, electives
-and our Interdisciplinary Project Work (IPW).</p>
+a progressive six-year ICT competencies based on EdTech Masterplan 2030
+Digital Competencies and Technological Skills. These competencies are seamlessly
+integrated into core subject areas, electives and our Interdisciplinary
+Project Work (IPW).</p>
 <p>Additionally, to develop the next generation of future-ready innovators
 and 21st century competencies, the school offers a range of engaging activities
 for all students that foster the value of empathy, critical and inventive
