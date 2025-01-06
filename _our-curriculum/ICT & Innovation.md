@@ -35,7 +35,7 @@ digital world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ICT/ICT___EdTech.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ICT/ICT___EdTech_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Others/ICT___Innovation_2025_Pic_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
