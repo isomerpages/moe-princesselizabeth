@@ -28,7 +28,7 @@ sections:
       title: School Canteen Advertisement
       id: infobar
       button: Please click here for details
-      url: https://www.princesselizabethpri.moe.edu.sg/general-information/financial-assistance-scheme/school-canteen-advertisement/
+      url: https://www.princesselizabethpri.moe.edu.sg/general-information/school-canteen-advertisement/
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
