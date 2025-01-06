@@ -121,6 +121,15 @@ required documents</p>
 <p>Confirmation email will be sent to parents or students, and school administrator</p>
 </li>
 </ol>
-<h4>Enquiry on&nbsp;Status of Claims</h4>
-<p>1.&nbsp;Go to Income's GPA portal at&nbsp;<strong><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a></strong>
-<br>2. Click on "Check Claims Status"</p>
+<h4>Enquiry on Status of Claims</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+</p>
+</li>
+<li>
+<p>Click on “Check Accident Claims Status”</p>
+</li>
+</ol>
+<p>Please refer to the attached Product Fact Sheet</p>
+<p></p>
