@@ -6,11 +6,11 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h1>School Bus Operator and Bus Fare</h1>
-<p>The School Bus Operator for <strong>2024</strong> can be contacted at the
+<p>The School Bus Operator for <strong>2025</strong> can be contacted at the
 following addresses:</p>
 <h3>Chang Chen Pte Ltd</h3>
-<p>Person-in-charge: Grif Lim
-<br>Email Address: griflim@hotmail.com
+<p><strong>Person-in-charge:</strong> Grif Lim
+<br><strong>Email Address:</strong> griflim@hotmail.com
 <br>
 </p>
 <p><a href="https://file.go.gov.sg/myderz.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
