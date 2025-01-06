@@ -16,6 +16,39 @@ outside school.</p>
 <h3>Summary of Claims Procedures</h3>
 <p>All claims must be submitted online as soon as possible subjected to a
 cap of 365 days from the date of accident.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>You may click / scan the following QR Code to access the GPA Portal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://studentgpa.incomegroupins.com.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Others/Insurance_Barcode.png"></a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>New Claim Submission</h4>
 <ol data-tight="true" class="tight">
 <li>
