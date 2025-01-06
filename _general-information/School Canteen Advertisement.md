@@ -13,8 +13,8 @@ relevant documents to&nbsp;the&nbsp;School <strong>by 20 January 2025</strong>.<
 <h3>Application Procedure</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the xxxx. A hardcopy may also be requested at our
-School’s General Office.</p>
+<p>Download and complete the <a href="/files/2025 New Uploads/School_Canteen_Application_Form.pdf" rel="noopener nofollow" target="_blank">application form</a>.
+A hardcopy may also be requested at our School’s General Office.</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
