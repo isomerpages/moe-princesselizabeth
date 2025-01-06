@@ -17,90 +17,28 @@ outside school.</p>
 <p>All claims must be submitted online as soon as possible subjected to a
 cap of 365 days from the date of accident.</p>
 <h4>New Claim Submission</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
 </p>
 </li>
-</ol>
-</td>
-<td rowspan="7" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Click on “New/Follow up Accident Claim”</p>
 </li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ol start="3" data-tight="true" class="tight">
 <li>
 <p>Select “New Claim” Under “Claim Type”</p>
 </li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ol start="4" data-tight="true" class="tight">
 <li>
 <p>Complete online claim form</p>
 </li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ol start="5" data-tight="true" class="tight">
 <li>
 <p>Upload tax invoice(s), receipts (outpatient/inpatient claims) and required
 documents</p>
 </li>
-</ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<ol start="6" data-tight="true" class="tight">
 <li>
 <p>Confirmation email will be sent to parents or students, and school administrator</p>
 </li>
 </ol>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Follow up Claim Submission</h4>
 <ol data-tight="true" class="tight">
 <li>
