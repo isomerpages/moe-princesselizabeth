@@ -131,5 +131,6 @@ required documents</p>
 <p>Click on “Check Accident Claims Status”</p>
 </li>
 </ol>
-<p>Please refer to the attached Product Fact Sheet</p>
+<p>Please refer to the attached <a href="/files/2025 New Uploads/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
+</p>
 <p></p>
