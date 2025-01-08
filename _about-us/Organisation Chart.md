@@ -241,7 +241,7 @@ variant: tiptap
 <p>Designation</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
