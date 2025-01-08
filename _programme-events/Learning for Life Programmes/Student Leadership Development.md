@@ -12,6 +12,7 @@ variant: tiptap
 <h3>Student Leadership Teachers</h3>
 <p>Ms Lee Hui Ling, Felicia</p>
 <p>Mdm Khaizuran Supaat</p>
+<p>Mdm Ng Ling Ling</p>
 <h3>Student Leadership Development</h3>
 <p>Aligned with our mission, vision, and philosophy, our student leadership
 development programme, as part of our Learning for Life Programme (LLP),
