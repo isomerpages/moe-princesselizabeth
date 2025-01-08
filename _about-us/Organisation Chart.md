@@ -161,8 +161,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Subject &amp; Level Heads</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -174,6 +175,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Designation</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -181,6 +185,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gay_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_li_ting@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -190,6 +198,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>LH MA</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chwee_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chwee_tin@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -197,6 +209,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH SCI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">swarnapraba_karthigaihini_poonsolai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -206,6 +222,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>LH ICT</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shahroom_noor_mumeen_mohamed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahroom_noor_mumeen_mohamed@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -214,6 +234,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SH NE/SS</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aida_lisa_aliman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -221,6 +245,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_diana_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diana_abdul_rahman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
