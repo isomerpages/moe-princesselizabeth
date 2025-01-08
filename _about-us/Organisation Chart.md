@@ -202,9 +202,7 @@ variant: tiptap
 <p>YH LP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_kim_noi@@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>koh_kim_noi@@</u></a>
-<a href="mailto:koh_kim_noi@@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>moe.edu.sg</u>
-</a>
+<p><a href="mailto:koh_kim_noi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_noi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
