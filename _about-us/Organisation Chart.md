@@ -4,9 +4,6 @@ permalink: /about-us/organisation-chart/
 description: ""
 variant: tiptap
 ---
-<blockquote>
-<p>This page is still under construction, thank you for your understanding</p>
-</blockquote>
 <h3>School Leaders</h3>
 <table style="minWidth: 75px">
 <colgroup>
