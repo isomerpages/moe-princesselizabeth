@@ -37,7 +37,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bucktha_seelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bucktha_seelan@moe.edu.sg</a>
+<p><a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ngiam_wee_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngiam_wee_heng@moe.edu.sg</a>
+<p><a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Vice-Principal (EO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_sing_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_sing_ee@moe.edu.sg</a>
+<p><a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ variant: tiptap
 <p>Vice-Principal (Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_cui_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_cui_lin@moe.edu.sg</a>
+<p><a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a>
 </p>
 </td>
 </tr>
