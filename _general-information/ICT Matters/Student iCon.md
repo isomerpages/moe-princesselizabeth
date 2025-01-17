@@ -7,7 +7,7 @@ variant: markdown
 ---
 [Student iCON Onboarding Guide.pdf](/files/Student%20iCON%20Onboarding%20Guide.pdf)
 
-[MIMS/Icon Self-Service Password Reset(SSPR)](/files/MIMS_SSPR_Guide.pdf)
+[MIMS/Icon Self-Service Password Reset](/files/Posters_MIMS_SSPR_Guide.pdf)
 
 [Student iCON - Student EDM Onboarding Introducing Student iCON.pdf](/files/Student%20iCON%20-%20Student%20EDM%20Onboarding%20%20Introducing%20Student%20iCON.pdf)
 
