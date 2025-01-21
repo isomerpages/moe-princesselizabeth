@@ -19,7 +19,7 @@ to an MOE Kindergarten (MK) if your child is:</p>
 </li>
 </ol>
 <p>&nbsp;</p>
-<p>Online registration for 202 K1 admissions for both Open Admissions (OA)
+<p>Online registration for 2026 K1 admissions for both Open Admissions (OA)
 and Early Years Centre (EYC) children will&nbsp;<strong>open from 9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025.</strong>
 </p>
 <p>&nbsp;</p>
