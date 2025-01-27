@@ -81,9 +81,8 @@ from sexuality-related risks.</p>
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="https://cms.isomer.gov.sg/files/2025 New Uploads/Annex_A_2025.pdf" rel="noopener nofollow" target="_blank">here</a> 
-<a href="/files/2025 New Uploads/ANNEX_A_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">h</a><a href="/files/2025 New Uploads/ANNEX_A_2025.pdf" rel="noopener nofollow" target="_blank">e</a>
-<a href="/files/2025 New Uploads/ANNEX_A_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">re</a>. The completed opt-out form is to be submitted by 28/02/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="https://cms.isomer.gov.sg/files/2025 New Uploads/Annex_A_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 28/02/2025.</p>
 <p>Parents can contact the school at (<a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
