@@ -11,13 +11,13 @@ variant: tiptap
 <p><strong>Operating Hours</strong>: Monday to Friday (9am to 5pm)
 <br><strong>Contact Number:</strong>&nbsp;6748 3101</p>
 <p><strong>Fax Number:</strong> 6748 9139</p>
-<p><strong>Email:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">info@casco.com.sg</a>
+<p><strong>Email:</strong>  <a href="info@casco.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@casco.com.sg</a>
 </p>
-<p><strong>Website: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.casco.com.sg/</a>
+<p><strong>Website: </strong><a href="https://www.casco.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.casco.com.sg</a>
 </p>
 <p><strong>Operation Manager:</strong> Ms Bai Mei Peng</p>
 <p><strong>Contact Number:</strong>&nbsp;9862 8324
-<br><strong>Email Address:&nbsp;</strong><a rel="noopener noreferrer nofollow" target="_blank">bai_meiping@cascoedusupply.com.sg</a>
+<br><strong>Email Address:&nbsp;</strong><a href="bai_meiping@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">bai_meiping@cascoedusupply.com.sg</a>
 </p>
 <p></p>
 <h4>School Bookshop Contact Number</h4>
