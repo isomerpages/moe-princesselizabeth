@@ -15,9 +15,9 @@ variant: tiptap
 </p>
 <p><strong>Website: </strong><a href="https://www.casco.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.casco.com.sg</a>
 </p>
-<p><strong>Operation Manager:</strong> Ms Bai Mei Peng</p>
-<p><strong>Contact Number:</strong>&nbsp;9862 8324
-<br><strong>Email Address:&nbsp;</strong><a href="bai_meiping@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">bai_meiping@cascoedusupply.com.sg</a>
+<p><strong>Operation Manager:</strong> Ms Bai Mei Peng
+<br><strong>Contact Number:</strong> 9862 8324
+<br><strong>Email Address:</strong>  <a href="bai_meiping@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">bai_meiping@cascoedusupply.com.sg</a>
 </p>
 <p></p>
 <h4>School Bookshop Contact Number</h4>
