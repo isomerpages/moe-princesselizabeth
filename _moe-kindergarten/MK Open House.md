@@ -10,6 +10,8 @@ description: ""
 </div>
 <p>Please click&nbsp;<a href="https://form.gov.sg/67440d2352ba8c426f31566e" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for Open
 House registration.</p>
+<p>Open House slides <a href="/files/MKOH_2025_PEPS_Sharing.pdf" rel="noopener nofollow" target="_blank">Open House slides</a>
+</p>
 <h2><strong>MK Registration Information</strong></h2>
 <p>You can register your child for the 2026 Kindergarten 1 (K1) admission
 to an MOE Kindergarten (MK) if your child is:</p>
