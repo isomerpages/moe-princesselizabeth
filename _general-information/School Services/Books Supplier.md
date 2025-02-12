@@ -22,7 +22,7 @@ variant: tiptap
 <p></p>
 <h4>School Bookshop Contact Number</h4>
 <p><strong>Bookshop Assistant: </strong>Ms Helen
-<br><strong>Contact &amp; WhatsApp Number:&nbsp;</strong>To be advised
+<br><strong>Contact &amp; WhatsApp Number:&nbsp;</strong>82745798
 <br><strong>Operating Hours:</strong>&nbsp;Monday to Friday 8:30am to 3:30pm</p>
 <p></p>
 <h4>2025 Booklist (all levels) &amp; Year-End Sale</h4>
