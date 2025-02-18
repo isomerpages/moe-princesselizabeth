@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Others/SAC_Member_Org_Chart___2024_Oct.png">
+<img style="width: 100%" height="auto" width="100%" alt="PEPS SAC Org Chart 2025" src="/images/SAC_Org_Chart_2025.png">
 </div>
 <p></p>
