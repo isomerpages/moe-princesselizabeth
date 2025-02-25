@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>Princess Elizabeth Primary School has 1 canteen stall vacancy for Muslim
-Noodles stall. If you know of anyone who is interested and meet the criteria,
-please advise the applicant to submit the application form together with
-relevant documents to&nbsp;the&nbsp;School <strong>by 20 January 2025</strong>.</p>
+<p>There are currently no available stalls for application in our school
+canteen.</p>
 </blockquote>
 <h3>Application Procedure</h3>
 <ol data-tight="true" class="tight">
