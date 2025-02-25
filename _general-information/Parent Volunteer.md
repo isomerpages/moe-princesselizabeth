@@ -42,5 +42,9 @@ most beneficial to the school and our students will be considered first.</p>
 <p>Please note that only successful applicants will be notified.&nbsp;The
 decision of the school in the selection of Parent Volunteers is final and
 the school is not obliged to give any reason for unsuccessful application.</p>
-<p>Please click <a href="https://go.gov.sg/pepspv2025" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-access the PV application form (available from <strong>15 Nov 2024</strong>).</p>
+<p>The Parent Volunteer Scheme application period for the 2025/2026 for children
+born between 2 January 2020 and 1 January 2021 (both dates inclusive),
+which was open from 15 November 2024 to 15 January 2025, has now closed.</p>
+<p>The next application period will run from 15 November 2025 to 15 January
+2026, for children born between 2 January 2021 and 1 January 2022 (both
+dates inclusive).</p>
