@@ -1,9 +1,8 @@
 ---
 title: Insurance Coverage
-permalink: /general-information/information-for-parents/insurance-coverage/
-description: ""
-third_nav_title: Information for Parents
+permalink: /insurance-coverage/
 variant: tiptap
+description: ""
 ---
 <p>All students will be covered for accidents under MOE Group Personal Accident
 (GPA) Insurance Plan for Students. Insurance coverage applies to accidents
@@ -35,7 +34,7 @@ cap of 365 days from the date of accident.</p>
 <p>You may click / scan the following QR Code to access the GPA Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://studentgpa.incomegroupins.com.sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Others/Insurance_Barcode.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://studentgpa.incomegroupins.com.sg/"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: auto; display: block; margin: auto; width: 137.792px;" height="auto" width="100%" alt="" src="https://www.princesselizabethpri.moe.edu.sg/images/2024%20Others/Insurance_Barcode.png"></a>
 <p></p>
 </td>
 </tr>
@@ -52,7 +51,7 @@ cap of 365 days from the date of accident.</p>
 <h4>New Claim Submission</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
 </p>
 </li>
 <li>
@@ -75,7 +74,7 @@ documents</p>
 <h4>Follow up Claim Submission</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
 </p>
 </li>
 <li>
@@ -95,13 +94,12 @@ required documents</p>
 <h4>Enquiry on Status of Claims</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>
+<p>Go to Income Insurance’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
 </p>
 </li>
 <li>
 <p>Click on “Check Accident Claims Status”</p>
 </li>
 </ol>
-<p>Please refer to the attached <a href="/files/2025 New Uploads/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>
+<p>Please refer to the attached <a href="https://www.princesselizabethpri.moe.edu.sg/files/2025%20New%20Uploads/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank"><u>Product Fact Sheet</u></a>
 </p>
-<p></p>
