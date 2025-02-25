@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Insurance Coverage.md
       - School Canteen Advertisement.md
       - Financial Assistance Scheme.md
       - Appreciation for Our Staff.md
