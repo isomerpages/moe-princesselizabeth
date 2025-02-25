@@ -516,13 +516,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Soi Heong</p>
+<p>Mr Tan Guan Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_soi_heong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_soi_heong@moe.edu.sg</a>
+<p><a href="mailto:goh_soi_heong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_guan_hong_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
