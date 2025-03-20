@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - MIMS Information.md
       - Insurance Coverage.md
       - School Canteen Advertisement.md
       - Financial Assistance Scheme.md
