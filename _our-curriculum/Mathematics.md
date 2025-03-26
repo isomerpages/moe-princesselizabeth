@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Head of Department</h3>
 <p>Ms Yeo Suan Shih</p>
 <h3>Level Head</h3>
-<p>Mrs Chin Chwee Tin and Ms Yap Shu Jun</p>
+<p>Mrs Chin Chwee Tin</p>
 <h3>Vision</h3>
 <p>Every student a confident, resilient and self-directed problem solver.</p>
 <h3>Mission</h3>
