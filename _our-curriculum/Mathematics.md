@@ -7,7 +7,7 @@ variant: tiptap
 <h3>Head of Department</h3>
 <p>Ms Yeo Suan Shih</p>
 <h3>Level Head</h3>
-<p>Mrs Chin Chwee Tin and Ms Yap Shu Jun</p>
+<p>Mrs Chin Chwee Tin</p>
 <h3>Vision</h3>
 <p>Every student a confident, resilient and self-directed problem solver.</p>
 <h3>Mission</h3>
@@ -43,10 +43,7 @@ Mathematics.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Intervention_Programmes.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic8.jpg">
