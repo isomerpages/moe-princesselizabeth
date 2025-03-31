@@ -43,10 +43,7 @@ Mathematics.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic4.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Intervention_Programmes.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Math/Pic8.jpg">
