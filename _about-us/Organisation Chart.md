@@ -272,18 +272,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gay Li Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gay_li_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gay_li_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
 </td>
 <td rowspan="1" colspan="1">
