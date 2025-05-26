@@ -25,7 +25,7 @@ benefit from a mutual understanding of educational programmes in the MK
 and primary schools.</p>
 <p>The MOE Kindergarten registration exercise for 2026 K1 admission has closed.
 If you wish to place your child on the MK@Princess Elizabeth Waitlist,
-please fill in the form at: <a href="https://form.gov.sg/67b4440947388b17792bf49d" rel="noopener noreferrer nofollow" target="_blank">MK Waiting List</a>.
+please fill in the form at: <a href="https://form.gov.sg/683006c7cad5d0584a7f32cf" rel="noopener noreferrer nofollow" target="_blank">MK Waiting List</a>.
 Please note that you will only be contacted when there are vacancies available.
 For more information on MOE Kindergarten, you can visit <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>,
 or call the MOE Customer Service Centre at 69722220 (Mondays to Fridays:
