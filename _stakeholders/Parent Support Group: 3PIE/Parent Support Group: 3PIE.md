@@ -21,7 +21,7 @@ To build a strong partnership with parents as key stakeholders in the school com
 
 The **3PIE logo** embodies our vision of holistic growth and partnership with parents to support students in their educational journey. The abstract butterfly design symbolizes transformation and progress, reflecting the continuous journey of moving from who we are now to the potential of who we can become. This resonates with the quote:
 
-*"moving from the YOU that you are to the YOU that you're becoming."*
+   **"moving from the YOU that you are to the YOU that you're becoming"**
 
 The logo highlights the pivotal role of parents as co-creators in shaping a brighter future for the next generation. It emphasizes the collective effort required—students, parents, and educators working together—to foster growth, adaptability, and resilience. The modern design maintains elements of continuity with our original identity, reminding us of our shared commitment to empowering students while supporting families in their aspirations for a better tomorrow.
 
