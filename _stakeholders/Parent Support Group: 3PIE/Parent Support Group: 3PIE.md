@@ -1,8 +1,9 @@
 ---
 title: "Parent Support Group: 3PIE"
-permalink: /stakeholders/parent-support-group-3pie
+permalink: /stakeholders/parent-support-group-3pie/
 description: ""
 third_nav_title: "Parent Support Group: 3PIE"
+variant: markdown
 ---
 **P**rincess **P**arents as **P**artners in **E**ducation
 
@@ -10,23 +11,18 @@ Since 05/2002
 
 ### Vision
 
-To establish a meaningful collaboration with the school in working towards the school mission.
+To foster a meaningful and enduring collaboration with the school, uniting efforts to achieve its mission and create a supportive environment that nurtures the holistic development of every student. 
 
 ### Mission
 
-To work in partnership with all parents as one of the stakeholders of the school. To provide a channel for parents to contribute towards the school in this important journey of our children's lives.
+To build a strong partnership with parents as key stakeholders in the school community, creating inclusive opportunities for parents to actively contribute to the educational journey and overall growth of our children. Together, we aim to enrich their experiences and shape a brighter future. 
 
-![](/images/3%20pie%20logo-final.jpg)
+![](/images/Logo.jpg)
 
-RED – Vitality & Happiness
+The **3PIE logo** embodies our vision of holistic growth and partnership with parents to support students in their educational journey. The abstract butterfly design symbolizes transformation and progress, reflecting the continuous journey of moving from who we are now to the potential of who we can become. This resonates with the quote:
 
-BLUE – Dignity & Truth
+   **"moving from the YOU that you are to the YOU that you're becoming"**
 
-**Symbol Description:**
+The logo highlights the pivotal role of parents as co-creators in shaping a brighter future for the next generation. It emphasizes the collective effort required—students, parents, and educators working together—to foster growth, adaptability, and resilience. The modern design maintains elements of continuity with our original identity, reminding us of our shared commitment to empowering students while supporting families in their aspirations for a better tomorrow.
 
-‘3’ - Represent an open book as in nurturing the students
-
-‘P & E’ – Represent parent supporting the student’s progress and collaboration
-
-‘I’ – Represent students seeking knowledge and achievement
-
+Through this transformation, we reinforce the partnership between the school and parents, ensuring that the shared journey benefits all.

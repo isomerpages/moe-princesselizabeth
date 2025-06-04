@@ -5,22 +5,38 @@ description: ""
 third_nav_title: "Parent Support Group: 3PIE"
 variant: tiptap
 ---
-<p>Dear Parents,</p>
-<p>In 2019, HPB is launching a series of educational articles for parents,
-which include topics such as nutrition, physical activity, mental wellness
-and even sleep! These articles are specifically curated to guide parents
-on healthy tricks and treats to guide them in their daily activities with
-their children.</p>
-<p>For a start, there are two articles on&nbsp;<strong><a href="/files/ManagingTransition.pdf" rel="noopener noreferrer nofollow" target="_blank">(1) Managing Transition</a></strong>&nbsp;and&nbsp;<strong><a href="/files/Sleep.pdf" rel="noopener noreferrer nofollow" target="_blank">(2) Sleep</a>.</strong>&nbsp;These
-articles aim to help parents learn the right skills, lifestyle habit changes
-during the transition phase, and important sleep tips.</p>
-<p>Do stay tuned for the upcoming articles in this series, and we hope that
-parents will benefit from them!</p>
-<p>Dear parents,</p>
-<p>Here are some tips which can guide you to help your children to express
-themselves appropriately online.</p>
-<p><a href="/files/3B%202019%20Connect%20T1%20Parents%20Tipsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2019 Connect T1 Parents Tipsheet.pdf</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SchoolBag.jpg">
+</div>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener nofollow" target="_blank">Schoolbag.edu.sg</a> is
+an online platform managed by Singapore’s Ministry of Education (MOE),
+designed to serve as a comprehensive and reliable resource for parents,
+students, and educators. It offers the latest news, updates, and insights
+on Singapore’s education system, ensuring users stay informed about important
+developments. The website covers a wide range of topics, including school
+programs, policy changes, curriculum updates, and practical tips to support
+learning and development. Whether you’re a parent seeking guidance on your
+child’s education, a student looking for resources, or an educator staying
+updated on policies, <a href="http://Schoolbag.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.edu.sg</a> provides valuable information
+tailored to your needs. With its user-friendly interface and regularly
+updated content, the platform is an essential tool for navigating and understanding
+the evolving educational landscape in Singapore.</p>
+<p>The platform also features in-depth articles, success stories, and expert
+advice to help users make informed decisions about education-related matters.
+From primary school to pre-university levels, <a href="http://Schoolbag.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.edu.sg</a> addresses the needs
+of all stakeholders in the education ecosystem. It highlights innovative
+teaching methods, upcoming events, and initiatives by schools and the MOE,
+fostering a deeper connection between the community and the education system.
+Additionally, the website serves as a hub for announcements on scholarships,
+competitions, and other opportunities for students. By providing a centralized
+space for education-related information, <a href="http://Schoolbag.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Schoolbag.edu.sg</a> empowers users to stay
+engaged, informed, and prepared for the challenges and opportunities within
+Singapore’s dynamic education environment. Its commitment to transparency
+and accessibility makes it a trusted source for anyone invested in the
+future of education in Singapore.</p>
+<p></p>
 <h3>Other useful resources:</h3>
 <ol>
 <li>
