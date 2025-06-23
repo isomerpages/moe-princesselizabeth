@@ -6,8 +6,8 @@ third_nav_title: School Services
 variant: tiptap
 ---
 <h3>KH Uniform Pte Ltd (<em>No walk-in sales at our premises)</em></h3>
-<p><strong>Address:</strong> Blk 115A Commonwealth Drive #02-28
-<br>Singapore 149596
+<p><strong>Address:</strong> 8 Boon Lay Way, 8 @ Tradehub 21, #03-14, Singapore
+609964.
 <br><strong>Contact Number:</strong> (65) 6479 6811
 <br><strong>Operating Hours: </strong>9am-12pm, 1pm-5pm, Mon-Fri</p>
 <p><strong>Email:</strong>  <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
