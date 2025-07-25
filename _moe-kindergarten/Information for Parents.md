@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 1: 2 January to 14 March</strong>
+<p><strong>Term 3: 30 June to 5 September</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Term 1 Calendar of Events" src="/images/Term1COE2025__Edited_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Term 3 Calendar of Events" src="/images/Term3COE2025.png">
 </div>
 <h3>Arrival and Dismissal</h3>
 <p>Children should attend kindergarten daily and be present for the entire
