@@ -198,7 +198,7 @@ variant: tiptap
 <p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teresa_maria_lee_dan@moe.edu.sg</u></a>
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teresa_maria_lee@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -424,13 +424,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Audrey Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ST Education Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:audrey_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_sim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
