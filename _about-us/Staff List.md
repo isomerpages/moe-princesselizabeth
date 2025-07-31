@@ -732,10 +732,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Mrs Jeslyn Loh (Ho Li Jun)</p>
+<p>Mr Terence Chee</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:ho_li_jun_jeslyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_li_jun_jeslyn@moe.edu.sg</a>
+<p><a href="mailto:chee_wei_kit_terence@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wei_kit_terence@moe.edu.sg</a>
 </p>
 </td>
 </tr>
