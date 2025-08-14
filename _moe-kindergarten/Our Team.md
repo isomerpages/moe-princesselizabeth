@@ -65,7 +65,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mother Tongue Language Educators</h4>
-<p><strong>Chinese Language </strong>
+<p><strong>Chinese Language</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -89,7 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yau Jui Shan (Yang Wei Shan)</p>
+<p>Ms Yang Wei Shan</p>
 </td>
 </tr>
 <tr>
