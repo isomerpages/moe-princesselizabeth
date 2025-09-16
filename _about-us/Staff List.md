@@ -81,10 +81,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Chu Mun</p>
+<p>Mdm Adrienne Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarah_chu_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_chu_mun@moe.edu.sg</a>
+<p><a href="mailto:koh_kim_noi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_noi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -639,10 +639,10 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hafizah Binte Mazlan</p>
+<p>Mr Brandon Toh Kay Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hafizah_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_hafizah_mazlan@moe.edu.sg</a>
+<p><a href="mailto:brandon_toh_kay_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brandon_toh_kay_boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -789,10 +789,10 @@ variant: tiptap
 <p>6S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hasyimah Bte Harith</p>
+<p>Ms Sonia Lee Lu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hasyimah_harith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasyimah_harith@moe.edu.sg</a>
+<p><a href="mailto:lee_lu_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
