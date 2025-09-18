@@ -13,6 +13,6 @@ following addresses:</p>
 <br><strong>Email Address:</strong> griflim@hotmail.com
 <br>
 </p>
-<p><a href="https://file.go.gov.sg/myderz.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
-<br><a href="/files/not%20to%20exceed%20price.pdf" rel="noopener noreferrer nofollow" target="_blank">Operator NTE Price</a>
+<p><a href="https://go.gov.sg/pepsschoolbus2026" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
+<br><a href="/files/not_to_exceed_price_till_2027.pdf" rel="noopener noreferrer nofollow" target="_blank">Operator NTE Price</a>
 </p>
