@@ -28,6 +28,6 @@ will NOT refund any purchases made prior to FAS approval.</p>
 <p></p>
 <p><strong>How to Apply:</strong>
 </p>
-<p>You can apply online at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
+<p>You can apply online at <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasggas</a>
 </p>
 <p></p>
