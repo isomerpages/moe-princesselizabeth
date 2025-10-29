@@ -564,7 +564,7 @@ variant: tiptap
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@moe.edu.sg</a>
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -995,7 +995,7 @@ variant: tiptap
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee_dan@moe.edu.sg</a>
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
