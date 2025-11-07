@@ -31,7 +31,7 @@ description: ""
 <p>Western/Japanese Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Oct 2025</p>
+<p>30 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To start operation in Jan 2026</p>
