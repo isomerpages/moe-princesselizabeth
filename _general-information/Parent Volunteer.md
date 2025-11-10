@@ -31,7 +31,7 @@ order of priority based on home-school distance categories, i.e. within
 1km, between 1 and 2km and outside 2km.</p>
 <p>For more details and latest information on Phase 2B eligibility, please
 refer to the MOE website at</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B</a>
+<p><a href="https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B</a>
 </p>
 <p>The selection of Parent Volunteers is not on a first-come, first-served
 basis. The school reserves the right to select applicants whose services
