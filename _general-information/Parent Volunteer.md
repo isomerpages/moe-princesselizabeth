@@ -12,12 +12,11 @@ under our Parent Volunteer Scheme.</p>
 <p>Under this Parent Volunteer Scheme, a parent may be able to register his/her
 child under Phase 2B of the Primary One Registration Exercise if he/she
 meets the following criteria:</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent and his/her
-child are Singapore Citizens or Singapore Permanent Residents.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parent has joined the school
-as a Parent Volunteer and has contributed at least forty (40) hours of
-voluntary service to the school before June the year the child is due for
-P1 registration.</p>
+<p>a)&nbsp;Parent and his/her child are Singapore Citizens or Singapore Permanent
+Residents.</p>
+<p>b)&nbsp;Parent has joined the school as a Parent Volunteer and has contributed
+at least forty (40) hours of voluntary service to the school before June
+the year the child is due for P1 registration.</p>
 <p>Please note your child is not guaranteed a place in Princess Elizabeth
 Primary School under Phase 2B of the Primary 1 Registration Exercise even
 with the completion of minimum forty (40) hours of voluntary services.</p>
