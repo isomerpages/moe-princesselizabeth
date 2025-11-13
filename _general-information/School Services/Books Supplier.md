@@ -21,8 +21,8 @@ variant: tiptap
 <br><strong>Contact &amp; WhatsApp Number:&nbsp;</strong>82745798
 <br><strong>Operating Hours:</strong>&nbsp;Monday to Friday 8:30am to 3:30pm</p>
 <p></p>
-<h4>2025 Booklist (all levels) &amp; Year-End Sale</h4>
+<h4>2026 Booklist (all levels) &amp; Year-End Sale</h4>
 <p>Please download the school textbook &amp; stationeries list from the link
 below</p>
-<p><a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2025/" rel="noopener nofollow" target="_blank">https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2025/</a>
+<p><a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/" rel="noopener nofollow" target="_blank">https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/</a>
 </p>
