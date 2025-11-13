@@ -18,7 +18,7 @@ variant: tiptap
 <br><strong>Contact Number:</strong> 6565 8961 (Please call to check availability
 of stock.)
 <br><strong>Operating Hours:</strong> 10am – 7pm (Tuesdays to Sundays)</p>
-<p>For Year-End Sale in Nov and Dec 2024, please refer to this <a href="/files/2024   New Uploads/1_PEPS_All_Levels.pdf" rel="noopener nofollow" target="_blank">attachment</a> for
+<p>For Year-End Sale in Nov and Dec 2025, please refer to this <a href="/files/2024   New Uploads/1_PEPS_All_Levels.pdf" rel="noopener nofollow" target="_blank">attachment</a> for
 details.</p>
 <h3>Name Tag Placement</h3>
 <table style="minWidth: 50px">
