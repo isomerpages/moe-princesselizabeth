@@ -25,5 +25,5 @@ variant: tiptap
 <p>Please download the school textbook &amp; stationeries list from the link
 below</p>
 <p><a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/" rel="noopener noreferrer nofollow" target="_blank">https://www.princesselizabethpri.moe.edu.sg/general-information</a>
-<a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/" rel="noopener nofollow" target="_blank">/booklist-2026/</a>
+<a href="https://www.princesselizabethpri.moe.edu.sg/booklist-2026/" rel="noopener nofollow" target="_blank">/booklist-2026/</a>
 </p>
