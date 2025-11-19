@@ -5,7 +5,7 @@ description: ""
 third_nav_title: School Services
 variant: tiptap
 ---
-<h3>Casco Educational Supply Pte Ltd</h3>
+<h4>Casco Educational Supply Pte Ltd</h4>
 <p><strong>Address:</strong>&nbsp;10 Ubi Crescent #01-02 Ubi Techpark Singapore
 408564</p>
 <p><strong>Operating Hours</strong>: Monday to Friday (9am to 5pm)
