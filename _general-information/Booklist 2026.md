@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>P1 to P6 2026 Booklists:</strong></h4>
-<blockquote>
 <p><a href="/files/PEPS_Booklist_2026_P1_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Booklist</a>
 </p>
 <p><a href="/files/PEPS_Booklist_2026_P2_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Booklist</a>
@@ -22,5 +21,4 @@ description: ""
 </p>
 <p><a href="/files/PEPS_Booklist_2026_P6F_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Foundation Subjects Booklist</a>
 </p>
-</blockquote>
 <p></p>
