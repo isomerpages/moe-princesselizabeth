@@ -24,5 +24,6 @@ variant: tiptap
 <h4>2026 Booklist (all levels) &amp; Year-End Sale</h4>
 <p>Please download the school textbook &amp; stationeries list from the link
 below</p>
-<p><a href="https://booklist-2026/" rel="noopener nofollow" target="_blank">https://booklist-2026/</a>
+<p><a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/" rel="noopener noreferrer nofollow" target="_blank">https://www.princesselizabethpri.moe.edu.sg/general-information</a>
+<a href="https://www.princesselizabethpri.moe.edu.sg/general-information/booklist-2026/" rel="noopener nofollow" target="_blank">/booklist-2026/</a>
 </p>
