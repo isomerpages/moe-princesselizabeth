@@ -2,8 +2,9 @@
 title: School Song
 permalink: /about-us/school-song/
 description: ""
+variant: markdown
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_E8QJOc5bQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/oXcF5Wb4a2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Princess Elizabeth Primary School  
 Now we hear your call.  
