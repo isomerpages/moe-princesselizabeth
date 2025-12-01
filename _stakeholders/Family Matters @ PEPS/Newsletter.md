@@ -13,6 +13,6 @@ Checkout Fei Yue's newsletter for June. Please [click here.](/files/Family%20Ce
 
 Checkout Fei Yue's newsletter for September. Please [click here.](/files/Family%20Central%20Sept%202021%20newsletter.pdf)
 
-### November 2025 Newsletter
+### PEPS Newsletter – ASPIRE 2025
 
-Stay informed with the newest updates and events in the November newsletter. Please [Click Here](/files/November_Newsletter_2025.pdf)
+Stay informed with the newest updates and events in the newsletter. Please [Click Here](/files/November_Newsletter_2025.pdf)
