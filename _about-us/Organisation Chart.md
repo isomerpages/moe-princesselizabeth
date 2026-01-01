@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ngiam Wee Heng</p>
+<p>Mrs Chay Gek Noi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Cui Lin</p>
+<p>Ms Joy Sim Bee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
@@ -168,14 +168,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Marselyn Jonatan Prakarsah</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD ICT Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:marselyn_prakarsah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>marselyn_prakarsah@moe.edu.sg</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
