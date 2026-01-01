@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ngiam Wee Heng</p>
+<p>Mrs Chay Gek Noi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Cui Lin</p>
+<p>Ms Joy Sim Bee Lian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal (Admin)</p>
