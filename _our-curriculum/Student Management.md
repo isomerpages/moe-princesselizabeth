@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Head of Department</h3>
-<p>Ms Lee Lu Mei Sonia (Student Management)</p>
+<p>Ms Teresa Maria Lee Dan Lin (Student Management)</p>
 <h3>Student Management</h3>
 <p><strong>Princess Elizabeth Primary strategic approach towards enhancing discipline and student well-being is encapsulated in our ASPIRE framework.</strong>
 </p>
