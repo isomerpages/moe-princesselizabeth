@@ -182,7 +182,7 @@ variant: tiptap
 <p>Ms Sonia Lee Lu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Discipline / SM</p>
+<p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_lu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_lu_mei@moe.edu.sg</u></a>
@@ -194,7 +194,7 @@ variant: tiptap
 <p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSD</p>
+<p>HOD Discipline / SM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teresa_maria_lee@moe.edu.sg</u></a>
