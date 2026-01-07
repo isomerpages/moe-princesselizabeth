@@ -661,7 +661,8 @@ variant: tiptap
 <p>Mdm Anis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sultan_anis_fathima@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sultan_anis_fathima@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
