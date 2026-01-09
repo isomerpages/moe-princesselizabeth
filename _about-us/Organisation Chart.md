@@ -505,25 +505,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Rohni Bin Kassim</p>
+<p>Ms Neo Pei Pei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rohni_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohni_kassim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Christopher Noel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_noel_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_noel_a@moe.edu.sg</a>
+<p><a href="mailto:neo_pei_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_pei_pei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -650,17 +638,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wang Mei Xiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO (MK)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
