@@ -168,13 +168,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Mr Zulkarnain Daud</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT Innovation</p>
+<p>HOD (PE and CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zulkarnain_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnain_daud@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -271,13 +272,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chin Chwee Tin - Chua Chwee Tin</p>
+<p>Mdm Low Pei Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH MA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chwee_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chwee_tin@moe.edu.sg</a>
+<p><a href="mailto:low_pei_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_pei_qi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -290,6 +291,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:swarnapraba_karthigaihini_poonsolai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">swarnapraba_karthigaihini_poonsolai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Vanitha Arivalakan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (MTL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vanitha_arivalakan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_arivalakan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lum Wai Mung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lum_wai_mung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lum_wai_mung@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -314,18 +339,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:aida_lisa_aliman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Diana Bte Abd Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_diana_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_diana_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -375,6 +388,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tay Choon Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_choon_hong_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Norfidah Bte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,6 +419,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_huimin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_huimin_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leo Chin Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leo_chin_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leo_chin_choon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
