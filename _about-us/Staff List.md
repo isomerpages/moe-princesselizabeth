@@ -931,18 +931,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>HOD ICT &amp; Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Marselyn Jonatan Prakarsah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:marselyn_prakarsah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marselyn_prakarsah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>HOD CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -955,13 +943,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>HOD (PE and CCA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zulkarnain Daud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulkarnain_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zulkarnain_daud@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>HOD Discipline/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sonia Lee Lu Mei</p>
+<p>Ms Teresa Maria Lee Dan Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lu_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
+<p><a href="mailto:teresa_maria_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -970,10 +970,10 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teresa Maria Lee Dan Lin</p>
+<p>Ms Sonia Lee Lu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teresa_maria_lee@moe.edu.sg</a>
+<p><a href="mailto:teresa_maria_lee_dan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
