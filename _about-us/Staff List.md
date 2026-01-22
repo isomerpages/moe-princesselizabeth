@@ -444,10 +444,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Zahidah Suhaimi</p>
+<p>Siti Rashidah Bte Mustafah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_zahidah_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zahidah_suhaimi@moe.edu.sg</a>
+<p><a href="mailto:siti_rashidah_mustafah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_mustafah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -766,7 +766,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nah Min Yee Fiona</p>
+<p>Fiona Soh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nah_min_yee_fiona@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nah_min_yee_fiona@moe.edu.sg</a>
