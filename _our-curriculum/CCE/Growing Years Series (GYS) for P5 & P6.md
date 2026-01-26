@@ -35,7 +35,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h3>Overview of Princess Elizabeth Primary School's Sexuality Education Programme for 2025</h3>
+<h3>Overview of Princess Elizabeth Primary School's Sexuality Education Programme for 2026</h3>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -63,26 +63,26 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
-<h3>At Princess Elizabeth Primary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</h3>
+<h3>At Princess Elizabeth Primary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Growing Years" src="/images/P5_Growing_Years__updated_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sexuality_Education_Lessons_in_CCE__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 Growing Years 2" src="/images/P5_Growing_Years_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Sexuality_Education_Lessons_in_CCE__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P6 Growing Years" src="/images/P6_Growing_Years__updated_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Sexuality_Education_Lessons_in_CCE.jpg">
 </div>
 <h3>Information for Parents</h3>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/2025 New Uploads/ANNEX_A_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 28/02/2025.</p>
+to parents at the start of the year and is also downloadable <a href="/files/PARENT_OPT_OUT_FORM.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 28/02/2026.</p>
 <p>Parents can contact the school at (<a href="mailto:peps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peps@moe.edu.sg</a> or 65655111) for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
