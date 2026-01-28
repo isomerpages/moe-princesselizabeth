@@ -7,12 +7,15 @@ variant: tiptap
 <h3>Calendar of Events</h3>
 <p>Important Dates to note: <a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">School Terms and Holidays for 2026</a>
 </p>
-<p><em>Calendar of Events will be provided termly</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/COE2026.jpg">
 </div>
 <p></p>
+<p><em>Calendar of Events will be provided termly</em>
+</p>
+<p><strong>Term 1: 2 January to 13 March </strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/K1Term1COE2026.jpg">
 </div>
@@ -175,3 +178,4 @@ lunch break) Sat: 10am to 2pm</p>
 <br>Tel no: 6252 1902
 <br>Email address: <a href="mailto:mk_princesselizabeth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_princesselizabeth@moe.edu.sg</a> 
 <br>Centre Head: Gurprit Kaur (Ms Priti)</p>
+<p></p>
