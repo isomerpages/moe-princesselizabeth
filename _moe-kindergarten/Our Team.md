@@ -44,11 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarimah Binte Abd Rahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Hidayah Binte Mohamed Tahir</p>
 </td>
 </tr>
@@ -60,6 +55,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Choy Yee Mun Michelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Phang Siew Sien Cherly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Khoo Ann Yee</p>
 </td>
 </tr>
 </tbody>
@@ -119,6 +124,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Ashikin Binte Suldar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Zulaifa Binte Sukardi</p>
 </td>
 </tr>
 </tbody>
