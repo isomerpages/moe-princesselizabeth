@@ -20,15 +20,16 @@ to an MOE Kindergarten (MK) if your child is:</p>
 <p>A Singapore Citizen (SC) or Permanent Resident (PR); and</p>
 </li>
 <li>
-<p>Born between &nbsp;2 January 2021 and 1 January 2022, both dates inclusive.</p>
+<p>Born between 2 January 2021 and 1 January 2022, both dates inclusive.</p>
 </li>
 <li>
 <p>Parents will be informed of the registration outcome by 15 April 2025.&nbsp;</p>
 </li>
 </ol>
-<p>Online registration for 202 K1 admissions for both Open Admissions (OA)
+<p>Online registration for 2026 K1 admissions for both Open Admissions (OA)
 and Early Years Centre (EYC) children will&nbsp;<strong>open from 9am on Friday, 7 February 2025 and close at 4pm on Monday, 17 February 2025.</strong>
 </p>
 <p>Information in Registration Available<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register" rel="noopener noreferrer nofollow" target="_blank"> here</a>
 </p>
-<p></p>
+<p><strong>MK A Happy Place: 2026 Open House updates coming soon! Please stay tuned!</strong>
+</p>
