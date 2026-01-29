@@ -3,13 +3,14 @@ title: Character and Citizenship Education (CCE)
 permalink: /our-curriculum/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 ### Head of Department
 
 Ms Shanthi Govindasamy
 
-### Level Head
-Mdm Faizlyana Binte Ismail
+### Level Head (Internal)
+Ms Chanel Neo Wen Fang
 
 ### Subject Head (NE/SS)
 Ms Aida Lisa Bte Aliman
