@@ -640,7 +640,7 @@ variant: tiptap
 <p>Tay Choon Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_choon_hong_a@moe.edu.sg</a>
+<p><a href="mailto:tay_choon_hong_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_choon_hong_a_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
