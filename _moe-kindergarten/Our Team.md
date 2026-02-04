@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hidayah Binte Mohamed Tahir</p>
+<p>Ms Nur Hidayah Binte Mohamed Tahir (Lead Teacher)</p>
 </td>
 </tr>
 <tr>
