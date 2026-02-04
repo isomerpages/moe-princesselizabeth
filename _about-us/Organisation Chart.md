@@ -219,7 +219,7 @@ variant: tiptap
 <p>Mdm Kwan Yue Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH MP / HOD PE/CCA/Aesthetics (Covering)</p>
+<p>YH MP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwan_yue_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwan_yue_hua@moe.edu.sg</u></a>
