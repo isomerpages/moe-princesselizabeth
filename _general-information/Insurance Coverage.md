@@ -101,5 +101,5 @@ required documents</p>
 <p>Click on “Check Accident Claims Status”</p>
 </li>
 </ol>
-<p>Please refer to the attached <a href="https://www.princesselizabethpri.moe.edu.sg/files/2025%20New%20Uploads/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank"><u>Product Fact Sheet</u></a>
+<p>Please refer to the attached <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank"><u>Product Fact Sheet</u></a>
 </p>
