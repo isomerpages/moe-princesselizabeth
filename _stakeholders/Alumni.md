@@ -13,5 +13,5 @@ variant: tiptap
 first served</p>
 <p>Please download and complete the registration application form <a href="/files/Alumni_Registration_Form_Final.pdf" rel="noopener nofollow" target="_blank">here</a>.
 Submit the completed form and scanned copies of your report books or other
-proof as attachment to <a href="mailto:sanmuga_malar_rathakrishna@schools.gov" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@moe.edu.sg</a>
+proof as attachment to <a href="mailto:sanmuga_malar_rathakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@moe.edu.sg</a>
 </p>
