@@ -9,9 +9,9 @@ variant: tiptap
 <br>📍 <strong>Venue:</strong>&nbsp; PEPS
 <br>⏰ <strong>Time:</strong>&nbsp;&nbsp;&nbsp; 9:00 AM – 11:00 AM</p>
 <p>Reconnect 🤝 | Relive Memories 📸 | Make New Memories ✨</p>
-<p><strong>Join us for a nostalgic event which promises an adventure filled with great conversations, shared memories, strengthened new and old friendships, and the celebration of PEPS' achievements since your graduation!</strong>
+<p><strong>Registration is now OPEN!</strong> Spots are limited – first come,
+first served</p>
+<p>Please download and complete the registration application form <a href="/files/Alumni_Registration_Form_Final.pdf" rel="noopener nofollow" target="_blank">here</a>.
+Submit the completed form and scanned copies of your report books or other
+proof as attachment to <a href="mailto:sanmuga_malar_rathakrishna@schools.gov" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@moe.edu.sg</a>
 </p>
-<p>Do share this event with your fellow classmates!</p>
-<p><strong>📝 Registration coming soon. Spots are limited – First come, first served!</strong>
-</p>
-<p></p>
