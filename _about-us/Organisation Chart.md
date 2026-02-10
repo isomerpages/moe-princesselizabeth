@@ -505,18 +505,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Pei Pei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:neo_pei_pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_pei_pei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kweh Joo Tat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -572,18 +560,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mazaliah_maamor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mazaliah_maamor@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Siew Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_siew_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_siew_hoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
