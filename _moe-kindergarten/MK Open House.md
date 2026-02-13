@@ -10,7 +10,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_Open_House.jpg">
 </div>
-<p>Nearest Carpark: BBU7 (No parking or driving in to the school.)</p>
+<p>Nearest Carpark: BBU7 (No parking or driving into the school compound.)</p>
 <p><strong>2027 K1 Admissions – Online Registration Exercise</strong>
 </p>
 <p></p>
