@@ -80,8 +80,9 @@ kindergarten.</p>
 under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
 applies only to MK school fees.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KiFAS.jpg">
 </div>
 <h4>MK Uniform</h4>
 <div class="isomer-image-wrapper">
