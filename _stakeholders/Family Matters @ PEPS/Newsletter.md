@@ -15,4 +15,4 @@ Checkout Fei Yue's newsletter for September. Please [click here.](/files/Family
 
 ### PEPS Newsletter – ASPIRE 2025
 
-Stay informed with the newest updates and events in the newsletter. Please [Click Here][](/files/PEPS_Newsletter_2025.pdf)
+Stay informed with the newest updates and events in the newsletter. Please [Click Here](/files/PEPS_Newsletter_2025.pdf)
