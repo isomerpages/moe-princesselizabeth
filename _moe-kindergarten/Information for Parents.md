@@ -14,14 +14,10 @@ variant: tiptap
 <p></p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 1: 2 January to 13 March </strong>
+<p><strong>Term 2: 23 March to 29 May</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K1Term1COE2026.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/K2Term1COE2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Term_2_COE.jpg">
 </div>
 <h3>Arrival and Dismissal</h3>
 <p>Children should attend kindergarten daily and be present for the entire
@@ -84,8 +80,9 @@ kindergarten.</p>
 under the <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">Kindergarten Fee Assistance Scheme (KiFAS)</a>.
 KiFAS is provided by the Early Childhood Development Agency (ECDA) and
 applies only to MK school fees.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20MK/Picture11.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KiFAS.jpg">
 </div>
 <h4>MK Uniform</h4>
 <div class="isomer-image-wrapper">

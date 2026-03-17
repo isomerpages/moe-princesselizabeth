@@ -18,6 +18,7 @@ description: ""
 <p>2. Close: 4.30pm, Tuesday, 31 March 2026</p>
 <p>Visit <a href="http://www.moe.gov.sg/mk-howtoregister" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk-howtoregister</a> to
 start the registration process.</p>
-<p></p>
+<p>Information on MK and Registration: <a href="/files/MKOH_2026_Info.pdf" rel="noopener nofollow" target="_blank">MKOH_2026_Info</a>
+</p>
 <p><strong>We look forward to welcoming you and your child to our Happy Place!</strong>
 </p>
