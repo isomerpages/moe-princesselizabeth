@@ -11,3 +11,6 @@ variant: markdown
 [PEPS Newsletter - ASPIRE 2023 Jan (Issue 19)](https://go.gov.sg/peps-newsletter-aspire-2023-jan-issue-19)
 
 [PEPS Newsletter - ASPIRE 2023 Jul (Issue 20)](https://go.gov.sg/peps-newsletter-aspire-2023-jul-issue-20)
+
+PEPS Newsletter - ASPIRE 2025 [](/files/PEPS_Newsletter_2025.pdf)
+
