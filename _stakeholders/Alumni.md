@@ -13,5 +13,6 @@ variant: tiptap
 <p><strong>Please enter the school via the Main Gate.</strong>
 </p>
 <p>&nbsp;Reconnect 🤝 | Relive Memories 📸 | Make New Memories ✨</p>
-<p>&nbsp;<strong>Registration is still OPEN!</strong>  <strong>Register and include scanned copies of your report books or other proof as attachment.</strong>
+<p>&nbsp;<strong>Registration is still OPEN!</strong>  <strong>Register </strong>
+<a href="/files/Alumni_Get_Together_Registration_Form.pdf" rel="noopener nofollow" target="_blank">Click Here</a><strong>and include scanned copies of your report books or other proof as attachment.</strong>
 </p>
