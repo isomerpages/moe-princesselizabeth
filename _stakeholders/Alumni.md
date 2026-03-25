@@ -14,5 +14,5 @@ variant: tiptap
 </p>
 <p>&nbsp;Reconnect 🤝 | Relive Memories 📸 | Make New Memories ✨</p>
 <p>&nbsp;<strong>Registration is still OPEN!</strong>  <strong>Register </strong>
-<a href="/files/Alumni_Get_Together_Registration_Form.pdf" rel="noopener nofollow" target="_blank">(Click Here)</a><strong> and include scanned copies of your report books or other proof as attachment.</strong>
+<a href="/files/Alumni_Get_Together_Registration_Form.pdf" rel="noopener nofollow" target="_blank">(Click Here)</a><strong> and include scanned copies of your report books or other proof as attachment. Email <a href="mailto:sanmuga_malar_rathakrishna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sanmuga_malar_rathakrishna@moe.edu.sg</a>.</strong>
 </p>
