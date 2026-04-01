@@ -26,4 +26,4 @@ The programme includes meals as well as activities designed to provide time and 
 
 ![](/images/2023%20MK/Picture26.jpg)
 
-![](/images/KCare_Fees.jpg)
+![](/images/KCare_Fees_2026.jpg)
