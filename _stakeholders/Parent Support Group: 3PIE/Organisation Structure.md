@@ -7,6 +7,6 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3pie_org_chart_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="3PIE Organization Structure" src="/images/3PIE_Organization_Structure.jpg">
 </div>
 <p></p>
