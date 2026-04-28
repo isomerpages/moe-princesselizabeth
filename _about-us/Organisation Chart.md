@@ -493,13 +493,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Sheng</p>
+<p>Mdm Aminah Bte Sa'at</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yee_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_sheng@moe.edu.sg</a>
+<p><a href="mailto:aminah_saat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aminah_saat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liew Hui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_hui_lin_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_hui_lin_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -512,6 +524,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kweh_joo_tat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kweh_joo_tat@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr P Tanikaselvam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:p_tanikaselvam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">p_tanikaselvam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
