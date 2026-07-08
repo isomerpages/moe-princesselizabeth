@@ -1061,7 +1061,7 @@ variant: tiptap
 <p>Ms Suriyani Binte Mohammad Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suriyani_md_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Suriyani_Md_Nasir@moe.edu.sg</a>
+<p><a href="mailto:suriyani_md_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">suriyani_md_nasir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1073,7 +1073,7 @@ variant: tiptap
 <p>Ms Jasimah Bte Syed Sulaiman</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jasima_Syed_Sulaiman@moe.edu.sg</a>
+<p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasima_syed_sulaiman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1086,7 +1086,7 @@ variant: tiptap
 <p>Ms Syuhada Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Syuhada_Hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Syuhada_Hassan@moe.edu.sg</a>
+<p><a href="mailto:Syuhada_Hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">syuhada_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
