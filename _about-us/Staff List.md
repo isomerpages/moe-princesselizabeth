@@ -417,7 +417,7 @@ variant: tiptap
 <p>Mrs Kumutha Selvan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Kumutha_Silvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kumutha_Silvamany@moe.edu.sg</a>
+<p><a href="mailto:Kumutha_Silvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_silvamany@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -447,7 +447,7 @@ variant: tiptap
 <p>Khor Ting Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khor_Ting_Yan@moe.edu.sg</a>
+<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_ting_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -523,7 +523,7 @@ variant: tiptap
 <p>Nur Hafizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nur_Hafizah_Mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Hafizah_Mazlan@moe.edu.sg</a>
+<p><a href="mailto:Nur_Hafizah_Mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_mazlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
