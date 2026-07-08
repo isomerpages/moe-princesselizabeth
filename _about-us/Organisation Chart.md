@@ -332,13 +332,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Aida Lisa Bte Aliman</p>
+<p>Ms Khor Ting Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH NE/SS</p>
+<p>SH AESTHETICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aida_lisa_aliman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@moe.edu.sg</a>
+<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_ting_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

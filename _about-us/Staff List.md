@@ -51,10 +51,10 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aida Lisa Binte Aliman</p>
+<p>Ho Cheah Woon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aida_lisa_aliman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aida_lisa_aliman@moe.edu.sg</a>
+<p><a href="mailto:ho_cheah_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_cheah_woon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -414,10 +414,10 @@ variant: tiptap
 <p>3P</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sonia Lee Lu Mei</p>
+<p>Mrs Kumutha Selvan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_lu_mei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lu_mei@moe.edu.sg</a>
+<p><a href="mailto:Kumutha_Silvamany@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kumutha_silvamany@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -444,10 +444,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Rashidah Bte Mustafah</p>
+<p>Khor Ting Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_rashidah_mustafah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_mustafah@moe.edu.sg</a>
+<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_ting_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -520,10 +520,10 @@ variant: tiptap
 <p>4S</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Faith Goh Li Hoon</p>
+<p>Nur Hafizah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_li_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_li_hoon@moe.edu.sg</a>
+<p><a href="mailto:Nur_Hafizah_Mazlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hafizah_mazlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -658,10 +658,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anis</p>
+<p>Muhammad Ashari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sultan_anis_fathima@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sultan_anis_fathima@moe.edu.sg</a>
+<p><a href="mailto:muhammad_ashari_saifee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ashari_saifee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1061,7 +1061,7 @@ variant: tiptap
 <p>Ms Suriyani Binte Mohammad Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suriyani_md_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">Suriyani_Md_Nasir@moe.edu.sg</a>
+<p><a href="mailto:suriyani_md_nasir@moe.edu.sg" rel="noopener nofollow" target="_blank">suriyani_md_nasir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1073,7 +1073,7 @@ variant: tiptap
 <p>Ms Jasimah Bte Syed Sulaiman</p>
 </td>
 <td rowspan="2" colspan="1">
-<p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Jasima_Syed_Sulaiman@moe.edu.sg</a>
+<p><a href="mailto:Jasima_Syed_Sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jasima_syed_sulaiman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1086,7 +1086,7 @@ variant: tiptap
 <p>Ms Syuhada Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Syuhada_Hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">Syuhada_Hassan@moe.edu.sg</a>
+<p><a href="mailto:Syuhada_Hassan@moe.edu.sg" rel="noopener nofollow" target="_blank">syuhada_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
