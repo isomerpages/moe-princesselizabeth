@@ -338,7 +338,7 @@ variant: tiptap
 <p>SH AESTHETICS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Khor_Ting_Yan@moe.edu.sg</a>
+<p><a href="mailto:Khor_Ting_Yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khor_ting_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
