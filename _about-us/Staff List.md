@@ -1015,18 +1015,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>SRN SEN Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yap Soo Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yap_soo_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_soo_ting@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>SEN Officer
 <br>
 </p>
