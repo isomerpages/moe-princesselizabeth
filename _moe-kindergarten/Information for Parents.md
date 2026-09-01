@@ -14,11 +14,12 @@ variant: tiptap
 <p></p>
 <p><em>Calendar of Events will be provided termly</em>
 </p>
-<p><strong>Term 2: 23 March to 29 May</strong>
+<p><strong>Term 4: 14 September to 20 November</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Term_2_COE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="MK Term 4 Calendar" src="/images/MK_Term_4_Calendar.jpg">
 </div>
+<p></p>
 <h3>Arrival and Dismissal</h3>
 <p>Children should attend kindergarten daily and be present for the entire
 programme.</p>
